@@ -1,0 +1,2288 @@
+"English","Español";
+"Enter","Ingresar";
+"OK","OK";
+"Public Universes","Universos públicos";
+"Colony Defense","Defensa de la colonia";
+"Private Universe","Universo privado";
+"Pair Mobile App","Aplicación móvil";
+"Debug Levels","Niveles de depuración";
+"Logout","Cerrar sesión";
+"Next Update","Siguiente actualización";
+"Debug Menu","Menú de depuración";
+"PUBLIC UNIVERSE","Universo público";
+"PRIVATE UNIVERSE","Universo privado";
+"Avatar Inventory","Inventario de avatar";
+"Universe:","Universo:";
+"Planet:","Planeta:";
+"Owner:","Dueño:";
+"Droids","Droides";
+"Vehicles","Vehículos";
+"Current Base","Base actual";
+"Avatars","Avatares";
+"Create New Avatar","Crear nuevo avatar";
+"US West","Nosotros oeste";
+"Back","atrás";
+"Launch","Lanzamiento";
+"Faction","Facción";
+"U.N.E.","U.n.e.";
+"Outlanders","Outlanal";
+"Scientist","Científico";
+"Science: 18","Ciencia: 18";
+"Engineering: 7","Ingeniería: 7";
+"Combat: 5","Combate: 5";
+"Male","Masculino";
+"Female","Mujer";
+"Ranger","guardabosque";
+"Combat: 10","Combate: 10";
+"Engineering: 10","Ingeniería: 10";
+"Science: 10","Ciencia: 10";
+"Marine","Marina";
+"Combat: 20","Combate: 20";
+"Engineering: 6","Ingeniería: 6";
+"Science: 4","Ciencia: 4";
+"Engineer","Ingeniero";
+"Combat: 8","Combate: 8";
+"Engineering: 16","Ingeniería: 16";
+"Science: 6","Ciencia: 6";
+"SELECT YOUR CLASS","Seleccione su clase";
+"Starting Items","Objetos iniciales";
+"Description","Descripción";
+"Choose Colors","Elige los colores";
+"Primary","Primario";
+"Secondary","Secundario";
+"Detail","Detalle";
+"Glow","Resplandor";
+"CUSTOMIZE FEATURES","Personalizar características";
+"Height","Altura";
+"Head","Cabeza";
+"Torso","Torso";
+"Upper Arms","Parte superior de los brazos";
+"Forearms","Antebrazos";
+"Hands","Manos";
+"Thighs","Muslos";
+"Calves","Pantorrillas";
+"Feet","Pies";
+"Random","Aleatorio";
+"Reset","Reiniciar";
+"Assign Name","Asignar nombre";
+"Type Name","Escribe un nombre";
+"Create","Crear";
+"Colors","Colores";
+"Head / Shoulders","Cabeza hombros";
+"Mid","Medio";
+"Legs / Feet","Piernas pies";
+"Randomize","Aleatorizar";
+"Head/Shoulders","Cabeza hombros";
+"Helmet","Casco";
+"Shoulder pads","Hombreras";
+"Body","Cuerpo";
+"Backpack","Mochila";
+"Gloves","Guantes";
+"Legs/Feet","Piernas pies";
+"Legs","Piernas";
+"Knee pads","Rodilleras";
+"Boots","Botas";
+"Assign Stat Points","Asignar puntos de estadística";
+"Speed","Velocidad";
+"Health","Salud";
+"Strength","Fuerza";
+"Stamina","Aguante";
+"Stat Points :","Puntos de estadísticas:";
+"Assign Skill Points","Asignar puntos de habilidad";
+"Clear","Claro";
+"Confirm","Confirmar";
+"Region","Región";
+"Server Name","Nombre del servidor";
+"Rules","Reglas";
+"Days Left","Días restantes";
+"Players In World","Jugadores en el mundo";
+"Players In Universe","Jugadores en universo";
+"US East","Nosotros este";
+"Canada","Canadá";
+"Asia","Asia";
+"Europe","Europa";
+"Australia","Australia";
+"Japan","Japón";
+"South America","Sudamerica";
+"Favorite","Favorito";
+"Join","Entrar";
+"Refresh","Actualizar";
+"Colony Defense Lobby","Lobby de defensa de la colonia";
+"<color=#00FFFF><size=24>U.N.E. Team Objective</size></color>
+
+<color=#FFFFFF>Defend your settlement until the timer runs out. At the end of the game, if All of your structures are still standing, You win!</color>
+
+<color=#B4B4B4>Hint: Win early by destroying all of the Outlander Inflatable Domes</color>
+
+
+<color=#00FFFF><size=24>Outlander Team Objective:</size></color>
+
+<color=#FFFFFF>Attack the U.N.E. settlement! If you destroy any of the original settlement structures, it's an automatic win!</color>
+
+<color=#B4B4B4>Hint: Use the Dart Gun to sedate large creatures and ride them into battle</color>","<color = # 00ffff> <size = 24> u.n.e. Objetivo del equipo </ tamaño> </ color>
+
+<Color = # FFFFFF> Defiende su asentamiento hasta que se agote el temporizador. Al final del juego, ¡si todas tus estructuras todavía están de pie, ganas! </ Color>
+
+<Color = # B4B4B4> Sugerencia: Gane temprano destruyendo todas las cúpulas inflables de Outlander </ Color>
+
+
+<color = # 00FFFF> <TAMAÑO = 24> Outlander Team Objetivo: </ Tamaño> </ Color>
+
+<Color = # FFFFFF> Ataque el U.N.E. ¡asentamiento! Si destruye alguna de las estructuras de liquidación originales, ¡es una victoria automática! </ Color>
+
+<Color = # B4B4B4> Pista: Use la pistola DART para sedar a las criaturas grandes y montarlas a la batalla </ color>";
+"Ready","Listo";
+"Leave","Licencia";
+"UNIVERSE","UNIVERSO";
+"Creator","Creador";
+"RULES","REGLAS";
+"Players in world","Jugadores en el mundo";
+"Players in universe","Jugadores en universo";
+"Players with Access","Jugadores con acceso";
+"No Private Universes to Join.
+Create a New Universe and Invite Your Friends To Join!","No hay universos privados para unirse.
+¡Crea un nuevo universo e invita a tus amigos a unirse!";
+"View","Vista";
+"Customize Universe","Personalizar universo";
+"Universe Name:","Nombre del universo:";
+"Enter universe name...","Ingrese el nombre del universo ...";
+"Mode:","Modo:";
+"Region:","Región:";
+"Difficulty:","Dificultad:";
+"Normal","Normal";
+"The way the game was meant to be played. Battle the elements, search for resources, and monitor your suit readings to stay alive in the harsh climates of space.","La forma en que el juego estaba destinado a ser jugado. Lucha contra los elementos, busque recursos y monitoree las lecturas de su traje para mantenerse vivo en los hostiles climas del espacio.";
+"Easy
+","Fácil
+";
+"A lighter Osiris: New Dawn experience. You will still need to survive, but the experience is more forgiving. Better for explorers who want less to worry about. ","Un Osiris más ligero: Nueva Experiencia Dawn. Aún necesitarás sobrevivir, pero la experiencia es más indulgente. Mejor para los exploradores que quieren menos de qué preocuparse.";
+"Extreme","Extremo";
+"Test your survival skill to its limit. Your success is not assured. ","Pruebe su habilidad de supervivencia a su límite. Su éxito no está seguro.";
+"Creative
+","Creativo
+";
+"Craft anything you'd like without the worry of creatures  or survival gameplay.","Artesanía cualquier cosa que le gustaría sin la preocupación de las criaturas o el juego de supervivencia.";
+"Custom","Personalizado";
+"Make your Osiris experience perfect for you!","¡Haz que tu experiencia de Osiris sea perfecta para ti!";
+"Delete","Borrar";
+"Invite
+Players","Invitación
+Jugadores";
+"Update","Actualizar";
+"Advanced Customization","Personalización avanzada";
+"Player","Jugador";
+"Proficiency","Competencia";
+"Stat Points Per Level","Puntos de estadísticas por nivel";
+"Thirst","Sed";
+"Hunger","Hambre";
+"Oxygen
+Consumption","Oxígeno
+Consumo";
+"Stamina
+Consumption","Aguante
+Consumo";
+"Flashlight Power Drain (WIP)","Flashlight Power Drenaje (WIP)";
+"Fall
+Damage","Otoño
+Daño";
+"Crash 
+Items","Choque
+Artículos";
+"Stamina Penalty Duration","Duración de la penalización de la resistencia";
+"No Stamina Speed","Sin velocidad de resistencia";
+"Hover Fuel
+Consumption","Flotar combustible
+Consumo";
+"Hover 
+Duration","Flotar
+Duración";
+"Vehicle Fuel
+Consumption","Combustible del vehículo
+Consumo";
+"Tool/Weapon 
+Decay Rate","Herramienta / arma
+Tasa de descomposición";
+"Structure Decay Speed","Estructura de velocidad de descomposición";
+"Inventory Weight","Peso de inventario";
+"Item Stack Size","Tamaño de pila del artículo";
+"Encumberance Penalty","Pena de gravamen";
+"Creative Mode
+(Infinite Resources and Unlocks)","Modo creativo
+(Recursos infinitos y desbloqueos)";
+"Invulnerability","Invulnerabilidad";
+"First Person Hit Reaction","Primera persona golpeó reacción";
+"Pickup Animation","Animación de pickup";
+"Auto-Pickup Bonus Resources","Recursos de bonificación Auto-Pickup";
+"Planets","Planetas";
+"Resource Yield","Rendimiento de recursos";
+"Mineral Respawn Rate","Tasa de reaparición mineral";
+"Alien
+Population","Extraterrestre
+Población";
+"Alien
+Damage","Extraterrestre
+Daño";
+"Alien
+Health","Extraterrestre
+Salud";
+"Alien
+Hearing","Extraterrestre
+Escuchando";
+"Alien
+Sight","Extraterrestre
+Visión";
+"Alien Suit Breach Chance","Posibilidad de incumplimiento de traje alienígena";
+"Plant Suit Breach Chance","Posibilidad de incumplimiento de traje de planta";
+"Slope Slip Modifier","Modificador de deslizamiento de pendiente";
+"Slope Damage Chance","Puesta de daño de la pendiente";
+"Slope Breach Chance","Puesta de incumplimiento de la pendiente";
+"Weather Cycle Rate","Tasa de ciclo del tiempo";
+"Time Cycle Rate","Tasa de ciclo de tiempo";
+"Storm Damage Chance","Posibilidad de daños por tormenta";
+"Storm Damage Amount","Cantidad de daño de tormenta";
+"Storm Suit Breach Chance","Posibilidad de incumplimiento de traje de tormenta";
+"Storm Spawn Chance","OPORTUNIDAD DE STORT";
+"Storm Length","Longitud de tormenta";
+"Respawn HP","Reaparición hp";
+"Permadeath (WIP)","PERMADEATH (WIP)";
+"Drop Inventory On Death","Inventario de caída en la muerte";
+"Require Pressurization to Eat","Exigir la presurización para comer";
+"Allow Space Travel","Permitir viajes espaciales";
+"Invite Friends","Invitar a amigos";
+"You can invite up to 5 friends into your own private universe.","Puedes invitar a 5 amigos a tu propio universo privado.";
+"Friends","Amigos";
+"+ Send Invite","+ Enviar invitación";
+"Invited Players","Jugadores invitados";
+"Uninvite Player","Jugador de unanvito";
+"What's New","Qué hay de nuevo";
+"Space Station Crafting","Centro de la estación espacial";
+"Fully crafting your own Space Station in low orbit. All station modules can interconnect in any combination, allowing for total flexibility in design and layout.
+
+Each module has its own purpose and features, including crafting, power systems, and storage.
+
+Space Stations are free from the erosion and dangers of the existing planetside in an atmosphere, creating an interesting strategic option to store valuable resources.
+","Alise completamente su propia estación espacial en órbita baja. Todos los módulos de la estación pueden interconectarse en cualquier combinación, lo que permite la flexibilidad total en el diseño y el diseño.
+
+Cada módulo tiene su propio propósito y características, incluidas la creación, los sistemas de energía y el almacenamiento.
+
+Las estaciones espaciales están libres de la erosión y los peligros del planetside existente en una atmósfera, creando una opción estratégica interesante para almacenar recursos valiosos.
+";
+"Next","próximo";
+"* Just a few of the many modules you can create in Space Station crafting.","* Solo algunos de los muchos módulos que puede crear en la fabricación de la estación espacial.";
+"Nio Biomes","Biomas nio";
+"Proteus 2 takes advantage of the new technology we’ve been developing that adds various zones and areas into a world.
+
+We’ve doubled the amount of world textures, rendered millions of blades of grass, and populated countless new alien foliages - each yielding various resources.
+","Proteus 2 aprovecha la nueva tecnología que hemos estado desarrollando que agrega varias zonas y áreas a un mundo.
+
+Hemos duplicado la cantidad de texturas mundiales, prestamos millones de cuchillas de hierba, y pobló innumerables nuevos foliages alienígenas, cada uno de los cuales produce diversos recursos.
+";
+"Previous","Anterior";
+"* Crouching now allows safe traversal on steep terrains. When climbing steep slopes, a warning indicator will appear.","* Crouching ahora permite un recorrido seguro en terrenos escarpados. Al escalar las pendientes empinadas, aparecerá un indicador de advertencia.";
+"Discovery System
+","Sistema de descubrimiento
+";
+"Everything you observe on your adventures can now be discovered. Far more than a simple achievement, the Discovery System actually unlocks all the various resources any found resource will yield.
+
+Essentially, each weapon or tool used on a resource may yield a different item, allowing for far more scientific exploration of the solar system and all of its life forms.
+","Ahora todo lo que observes en tus aventuras ahora se pueden descubrir. Mucho más que un simple logro, el sistema de descubrimiento en realidad desbloquea todos los diversos recursos que cualquier recurso encontrado cederá.
+
+Esencialmente, cada arma o herramienta utilizada en un recurso puede producir un artículo diferente, lo que permite una exploración más científica del sistema solar y todas sus formas de vida.
+";
+"* Geysers now display the gas type, along with instructions on how to harvest the gas.","* Los géiseres ahora muestran el tipo de gas, junto con las instrucciones sobre cómo cosechar el gas.";
+"GPS Resource Filtering","Filtrado de recursos GPS";
+"Minerals can now be filtered on your updated GPS. This very handy tool, which is now always available in your HUD and no longer attached to your Locator, reads from your surrounding satellites and your own internal suit radar to create detection radii.
+
+This system will show you all the surrounding minerals, their hardness and density, so you can find what you’re looking for in your crafting missions.
+","Los minerales ahora se pueden filtrar en su GPS actualizado. Esta herramienta muy práctica, que ahora está siempre disponible en su HUD y ya no está unida a su localizador, lee desde sus satélites circundantes y su propio radar de traje interno para crear radios de detección.
+
+Este sistema le mostrará a todos los minerales circundantes, su dureza y densidad, para que pueda encontrar lo que está buscando en sus misiones de elaboración.
+";
+"* Satellite Dishes now display a radius for their scanning range.","* Las placas satelitales ahora muestran un radio para su rango de escaneo.";
+"New Skill Tree","Nuevo árbol de habilidad";
+"Replacing the old skill tree, is, uh, the new skill tree! Instead of grindy gates, you now can unlock actual skills or “perks” that boost your abilities.
+
+","Reemplazo del viejo árbol de habilidades, es, uh, el nuevo árbol de habilidades! En lugar de las puertas de Grindy, ahora puede desbloquear habilidades reales o "beneficios" que aumentan sus habilidades.
+
+";
+"Got it. Let's Go!","Entiendo. ¡Vamos!";
+"* Looting now fully functions on all creatures.","* El saqueo ahora funciona completamente en todas las criaturas.";
+"Removal of Build Gates
+","Eliminación de puertas de construcción
+";
+"The build gates are gone, which we felt was arbitrary and grindy. Instead are structure prerequisites which we feel make more sense and are more meaningful.","Las puertas de construcción se han ido, lo que sentimos fue arbitraria y decidida. En su lugar, los requisitos previos de la estructura que sentimos tienen más sentido y son más significativos.";
+"Login","Acceso";
+"Password","Contraseña";
+"Remember me on this device","Recuérdame en este dispositivo";
+"Sign In","Iniciar sesión";
+"Go Offline","Salir de línea";
+"Sign Up","Inscribirse";
+"The user information you entered could not be found","La información del usuario que ingresó no se ha encontrado";
+"Confirm Password","confirmar Contraseña";
+"Graphics Settings","Configuración de gráficos";
+"Graphics Quality","Calidad de los gráficos";
+"Terrain Detail
+","Detalle del terreno
+";
+"Draw Distance","Distancia";
+"Shadows","Oscuridad";
+"Scion Film Grain","Grano de cine scion";
+"Scion Mode","Modo de scion";
+"Scion LUT","Scion lut";
+"Beautify","Embellecer";
+"Dirty Lense","Lenso sucio";
+"Ambient Occlusion","Oclusión ambiental";
+"Depth Of Field","Profundidad de campo";
+"Motion Blur","Desenfoque de movimiento";
+"Anti Aliasing","Anti alias";
+"Volumetric Clouds","Nubes volumétricas";
+"Debug Text","Texto de depuración";
+"Camera And Sound","Cámara y sonido";
+"First Person Field of View","Campo de primera persona";
+"First Person Sprint Field of View","Primera persona Sprint Campo de visión";
+"First Person Camera Bob","Cámara primera persona bob";
+"Third Person Camera Bob","Cámara de tercera persona bob";
+"Glitch FX","Glitch fx";
+"Mouse Sensitivity Horizontal","Sensibilidad del ratón horizontal";
+"Mouse Sensitivity Vertical","Sensibilidad del ratón vertical";
+"Mouse Smooth Step","Paso suave del ratón";
+"Mouse Smooth Weight","Peso suave del ratón";
+"Invert Y","Invertir y";
+"Master Volume","Volumen principal";
+"Music Volume","Volumen de la música";
+"SFX Volume","Volumen SFX";
+"Voice Volume","Volumen de voz";
+"Banter VO","BANTER VO";
+"Cancel","Cancelar";
+"Preview","Avance";
+"Save And Continue","Guardar y continuar";
+"Key Bindings","Atajos de teclado";
+"Open Key Bindings","Abrir encuadernaciones clave";
+"Done","Hecho";
+"Restore Defaults","Restaurar los valores predeterminados";
+"Players:","Jugadores:";
+"Controller:","Controlador:";
+"None","Ninguno";
+"Remove","Eliminar";
+"Calibrate","Calibrar";
+"Assign Controller","Asignar el controlador";
+"Assigned Controllers:","Controladores asignados:";
+"Settings:","Ajustes:";
+"Categories:","Categorías:";
+"Fullscreen","Pantalla completa";
+"Custom Resolution","Resolución personalizada";
+"Resolution","Resolución";
+"Width","Ancho";
+"Enter text...","Ingrese texto...";
+"Bloom","florecer";
+"Film Grain","Grano de la película";
+"First Person Helmet","Casco de primera persona";
+"North Facing Map","Mapa orientado al norte";
+"Erase Experimental Save Data","Borrar el ahorro experimental de datos";
+"HINT: Unequip gun to run faster_","Pista: Guna de unequip para correr más rápido_";
+"Incoming Data","Datos entrantes";
+"Planet Data","Datos del planeta";
+"Loading Persistent Nature","Cargando naturaleza persistente";
+"MULTIPLAYER","Multijugador";
+"PLANET","PLANETA";
+"STRUCTURES","Estructuras";
+"MACHINES","MÁQUINAS";
+"Osiris: New Dawn is still in Early Access. Please expect bugs. When you find something weird help us by reporting the issue on the Steam Forums. Thank you and let's make Osiris: New Dawn great together!","Osiris: New Dawn todavía está en el acceso temprano. Por favor espere errores. Cuando encuentre algo extraño, ayúdanos informando el problema en los foros de vapor. Gracias y vamos a hacer Osiris: ¡New Dawn Great juntos!";
+"Signing in","Iniciando sesión";
+"Are you sure you want to quit the application?","¿Está seguro de que desea renunciar a la aplicación?";
+"No","No";
+"Yes","sí";
+"Confirmation Code","Código de confirmación";
+"There was an issue connecting to the network.","Hubo un problema que se conecta a la red.";
+"Quit","Dejar";
+"Retry","Rever";
+"HINT: Unequip gun to run faster","Sugerencia: Guna de unequip para correr más rápido";
+"Player Name","Nombre del jugador";
+"Loading Avatar","Cargando avatar";
+"Habitat","Habitat";
+"A Habitat is a multi-purpose room that can house many interior items.","Un hábitat es una sala multiusos que puede albergar muchos artículos interiores.";
+"Add to Backpack","Añadir a la mochila";
+"Equip","Equipar";
+"Store in Inventory","Tienda en inventario";
+"Drink","Beber";
+"Empty out","Vaciar";
+"Drop","Soltar";
+"Customize Colors","Personalizar colores";
+"Primary
+","Primario
+";
+"LAT","Latino";
+"LONG","LARGO";
+"Missions","Misiones";
+"CRITICAL BREACH","Incumplimiento crítico";
+"Oxygen Low","Oxígeno bajo";
+"Local Time","Hora local";
+"You Are Dehydrated
+You are Starving","Estás deshidratado
+Estas hambriento";
+"Suit Pressue Low","Traje presionado bajo";
+"You Are FREEZING","Estas congelando";
+"Agility","Agilidad";
+"Fortitude","Fortaleza";
+"HOV","Huevo";
+"HLTH","Hundido";
+"Weight:","Peso:";
+"Inventory","Inventario";
+"Field Guide","Guía de campo";
+"Skills","Habilidades";
+"Build / Craft [F3]","Construir / Craft [F3]";
+"Data Selection
+Matrix","Selección de datos
+Matriz";
+"Env Pressure:","Presión env:";
+"Env Temp:","ENV TEMP:";
+"Personal Data Unit","Unidad de datos personales";
+"Osiris Mission Team","Equipo de la Misión de Osiris";
+"Systems Data Selection","Selección de datos de sistemas";
+"Build 248.517.68200","Construir 248.517.68200";
+"Exit Data Matrix [Tab]","Salir de la matriz de datos [TAB]";
+"Log","Tronco";
+"[F4] - Map Settings
+[M] - Center Toggle","[F4] - Configuración del mapa
+[M] - Centro de palanca";
+"Zoom Out [-]
+Zoom In [+]","Disminuir el zoom [-]
+Acercar [+]";
+"Map Name","Nombre del mapa";
+"Bot","Bot";
+"House","casa";
+"Focus Area","Area de enfoque";
+"Health Area","Área de salud";
+"Scanning","Exploración";
+"Spawn Location","Ubicación";
+"Equip Map To Cycle Targets","Equipar el mapa para acceder a los objetivos.";
+"Aluminum","Aluminio";
+"Iron","Hierro";
+"Nearest Dish
+Scanning...","Plato más cercano
+Exploración...";
+"Hold [RMB] and Mouse Scroll to Zoom","Sostenga [RMB] y Desplácese del mouse para ampliar";
+"© 2017 Fenix Fire Entertainment","© 2017 Fenix ​​Fire Entertainment";
+"Com Link
+","Com enlace
+";
+"Mission List","Lista de misión";
+"Warning System
+","Sistema de alarma
+";
+"o2 / Air Pressure
+Internal Temp","O2 / Presión del aire
+Temperatura interna";
+"Hydration / Gestation
+Respiratory Vitals","Hidratación / gestación
+Vitales respiratorios";
+"Saving Data","Guardar datos";
+"Location Type","Tipo de ubicacion";
+"-[ Tool Mode ]-","- [Modo de herramienta] -";
+"Set Target","Poner un objectivo";
+"Confirm Build","Confirmar la construcción";
+"Cancel Build","Cancelar la construcción";
+"Rotate Right","Gira a la derecha";
+"Rotate Left","Girar a la izquierda";
+"Hold
+[Left Shift]","Mantener
+[Shift izquierdo]";
+"Release
+[Left Shift]","Lanzamiento
+[Shift izquierdo]";
+"Fine Rotation","Rotación fina";
+"SHIFT","CAMBIAR";
+"Control Panel","Panel de control";
+"[R] Return All Flank Droids","[R] devuelve todos los droides de flancos";
+"[1]","[1]";
+"Droid Nickname","Apodo de droid";
+"Mining Azurnium","Mining Azurnium";
+"Back [Esc]","Atrás [ESC]";
+"Stay","Quedarse";
+"Osiris Mission Personal Assistant","Asistente personal de la misión de Osiris";
+"Alien Blood","Sangre extraña";
+"Small Metal Dome","Pequeña cúpula de metal";
+"Lightweight wall that is low cost and allows pressurization, but is low on armor and temperature regulation.","Pared ligera que es de bajo costo y permite la presurización, pero es baja en la regulación de la armadura y la temperatura.";
+"[MIDDLE MOUSE WHEEL]","[Rueda de ratón medio]";
+"Build Structure","Estructura de construcción";
+"Hint: Hold action button longer to build object with more health.","Sugerencia: mantenga presionado el botón de acción más largo para construir un objeto con más salud.";
+"Hold","Mantener";
+"COMPLETE","COMPLETO";
+"DISCOVERED","DESCUBIERTO";
+"Hold Right Click","Sostenga el botón derecho";
+"Nickname","Apodo";
+"Conduit Bender","Doblador de conductos";
+"Build Goal
+","Objetivo de construcción
+";
+"Avatar Name","Nombre del avatar";
+"Action","Acción";
+"*Colony naming not yet available","* Colonia nombrando aún no disponible";
+"Party","Fiesta";
+"Physical Stats","Estadísticas físicas";
+"Stat Points:","Puntos de estadísticas:";
+"Proficiencies","Profecencias";
+"Combat","Combate";
+"Engineering","Ingenieria";
+"Science","Ciencias";
+"Suit Readings","Lecturas de traje";
+"Suit","Traje";
+"
+
+Suit","
+
+Traje";
+"Communications","Comunicaciones";
+"Contact Devs","Contacto Devs";
+"Mobility","Movilidad";
+"Hover","Flotar";
+"Hover Fuel","Flotar combustible";
+"Coming
+Soon
+","Próximo
+Pronto
+";
+"Suit System","Sistema de traje";
+"Module 1","Módulo 1";
+"Modules","Módulos";
+"Light","Luz";
+"Module","Módulo";
+"Attachment Slots","Slots de fijación";
+"Pants
+","Pantalones
+";
+"Knee Pads","Rodilleras";
+"ShouldPads","Deberes";
+"External Inventory","Inventario externo";
+"Take All","Tomalo todo";
+"Default Sort","Ordenar por defecto";
+"Alpha Sort","Alpha Sort";
+"Forge","Fragua";
+"Storage","Almacenamiento";
+"Upgrades","Actualizaciones";
+"Crafting","Obra";
+"Fuel","Combustible";
+"Empty","Vacío";
+"FUEL EMPTY","Combustible vacío";
+"Skeliopod Meat","Carne de eskeliopod";
+"Steel","Acero";
+"Patch Tape","Cinta de parche";
+"Rubber","Goma";
+"Build Recipe","Receta de construcción";
+"Grilled Alien Meat","Carne alienígena a la parrilla";
+"Fuel Input","Entrada de combustible";
+"Any Fuel Item","Cualquier elemento de combustible";
+"Add Fuel","Agregue combustible";
+"Repair Table","Mesa de reparación";
+"Repair Object","Objeto de reparación";
+"Repair Amount","Cantidad de reparación";
+"Repair COsts","Costos de reparación";
+"Repair","Reparar";
+"Accessing Data","Accediendo datos";
+"Sorting","Clasificación";
+"Default","Defecto";
+"Alphabetical","Alfabético";
+"Sort","Clasificar";
+"Urchin Shell","Cáscara de erizo";
+"Part of an urchin found on land. It's dangerous to eat raw, but can be used for crafting and cooking.","Parte de un erizo encontrado en la tierra. Es peligroso comer crudo, pero puede ser utilizado para la elaboración y cocción.";
+"Equipment Slots","Ranuras de equipo";
+"Inventory
+","Inventario
+";
+"[A] Skills","[A] habilidades";
+"Crafting [D]","Elaboración [d]";
+"Exit To Matrix [TAB]","Salida a Matrix [TAB]";
+"Craft","Artesanía";
+"Utilities","Utilidad";
+"Defenses","Defensas";
+"Structures","Estructuras";
+"Appliances","Accesorios";
+"Underground","Bajo tierra";
+"Spacecraft","Astronave";
+"Space Utilities","Utilidades espaciales";
+"Buildable Capacity","Capacidad acumulable";
+"Create Goal","Crear un gol";
+"[A] Inventory","[A] inventario";
+"GPS [D]","GPS [D]";
+"Compass","Brújula";
+"Basic Scanning","Escaneo básico";
+"Advanced Scanning","Escaneo avanzado";
+"Compass Target","Objetivo de la brújula";
+"Target Tracking System","Sistema de seguimiento objetivo";
+"Cycle Target","Objetivo de ciclo";
+"Resources","Recursos";
+"Droids
+","Droides
+";
+"Basic Scan Mineral","Escaneo básico mineral";
+"Low Density Minerals","Minerales de baja densidad";
+"Lithium","Litio";
+"Magnesium","Magnesio";
+"Sulfur","Azufre";
+"Quartz","Cuarzo";
+"Obsidian","Obsidiana";
+"Lonsdaleite","Lonsdaleite";
+"Diamond","Diamante";
+"Medium Density Minerals","Minerales de densidad media";
+"Titanium","Titanio";
+"Zirconium","Circonio";
+"Chromium","Cromo";
+"Zinc","Zinc";
+"Tin","Estaño";
+"High Density Minerals","Minerales de alta densidad";
+"Cobalt","Cobalto";
+"Nickel","Níquel";
+"Copper","Cobre";
+"Molybdenum","Molibdeno";
+"Silver","Plata";
+"Lead","Dirigir";
+"Ultra Dense Minerals","Minerales ultra densos";
+"Mercury","Mercurio";
+"Uranium","Uranio";
+"Tungsten","Tungsteno";
+"Gold","Oro";
+"ZOOM","ZOOM";
+"Resource  Scanning","Escaneo de recursos";
+"Fabricated","Fabricado";
+"Low Density","Baja densidad";
+"Medium Density","Densidad media";
+"High Density","Alta densidad";
+"Ultra Dense","Ultra denso";
+"Droid Management","Gestión de droides";
+"All
+","Todas
+";
+"O.M.P.A.","O.M.P.A.";
+"O.M.M.A.","O.M.M.A.";
+"O.M.S.U
+","O.M.S.U
+";
+"Droid Type","Tipo DROID";
+"Patrol","Patrulla";
+"Follow","Seguir";
+"Send to Position","Enviar a la posición";
+"Choose a Position","Elegir una posición";
+"Resume","Reanudar";
+"GPS","GPS";
+"[A] CRAFTING","[A] elaboración";
+"MISSIONS [D]","Misiones [d]";
+"Logs","Registros";
+"Voice Logs","Registros de voz";
+"Scribe","Escriba";
+"Operational Mission List","Lista de misión operativa";
+"Mission","Misión";
+"Completion","Terminación";
+"Completed Missions","Misiones completadas";
+"Audio Log Files","Archivos de registro de audio";
+"Current File Name","Nombre del archivo actual";
+"Voice Recording","Grabación de voz";
+"Recorded By:
+Record Time:
+Record Date:","Grabado por:
+Tiempo record:
+Grabar fecha:";
+"Recording List","Lista de grabación";
+"CPU","UPC";
+"Found Voice Logs","Encontrado registros de voz";
+"Blueprint","Plano";
+"Scribe Server Log","Registro del servidor Scribe";
+"TIMESTAMP","Marca de tiempo";
+"Message","Mensaje";
+"Personal","Personal";
+"Colony","Colonia";
+"[A] GPS","[A] GPS";
+"DISCOVERIES [D]","Descubrimientos [d]";
+"Plants","Plantas";
+"Creatures","Criaturas";
+"Minerals","Minerales";
+"Locations","Ubicaciones";
+"1. Environment","1. Medio ambiente";
+"2. Osiris EVA Suit","2. Osiris EVA traje";
+"3. Nutrition","3. Nutrición";
+"4. Illness and Injuries","4. Enfermedad y lesiones.";
+"5. Navigation","5. Navegación";
+"6. Equipment","6. Equipo";
+"7. Communications","7. Comunicaciones";
+"8. Fortifications","8. Fortificaciones";
+"9. Vehicle Piloting","9. Pilotaje de vehículos";
+"10. O.M.P.A. Manual","10. O.M.P.A. Manual";
+"Overview","Descripción general";
+"Effects On Personnel","Efectos en el personal";
+"Effects on Equipment","Efectos en el equipo";
+"Terrain","Terreno";
+"Atmosphere","Atmósfera";
+"1-1. Physical environment plays a crucial role in survival. Temperature, weather systems, terrain and indigenous life forms all have a direct influence on health and sustainability. Being aware of these elements and the effect that they have is of utmost importance.
+
+1-2. Preventive measures, early recognition, and rapid treatment help minimize the likelihood of decreased functionality and possible death. In short, awareness is key.
+","1-1. El ambiente físico desempeña un papel crucial en la supervivencia. La temperatura, los sistemas climáticos, el terreno y las formas de vida indígena tienen una influencia directa en la salud y la sostenibilidad. Ser consciente de estos elementos y el efecto que tienen es de suma importancia.
+
+1-2. Las medidas preventivas, el reconocimiento temprano y el trato rápido ayudan a minimizar la probabilidad de disminución de la funcionalidad y la posible muerte. En resumen, la conciencia es clave.
+";
+"1-3. Gliese 581 is complex and unforgiving of errors. Even in ideal conditions, instances of suit damage, dehydration and indigenous creature attacks may occur. Each instance will require immediate attention and response in order to avoid unfavorable and potentially fatal outcomes. It is wise not to ignore these, as they can become increasingly hazardous to overall health, suit integrity and survival.
+","1-3. Gliese 581 es complejo y implacable de errores. Incluso en condiciones ideales, pueden ocurrir instancias de daño, deshidratación y ataques de criatura indígena. Cada instancia requerirá atención inmediata y respuesta para evitar resultados desfavorables y potencialmente fatales. Es aconsejable no ignorarlos, ya que pueden volverse cada vez más peligrosos para la salud general, la integridad y la supervivencia de la salud.
+";
+"1-4. Equipment has a deterioration factor that varies according to its type and purpose. Time decay and usage plays a part in deterioration, as well as terrain elements. As skill points are acquired, equipment can become more substantial, increasing the life expectancy of each item. However, none of the equipment has an infinite life span. Maintaining proper repair and upkeep of equipment will aid in progress and likelihood of survival.
+","1-4. El equipo tiene un factor de deterioro que varía según su tipo y propósito. La decadencia y el uso del tiempo juegan una parte en el deterioro, así como los elementos del terreno. Como se adquiren los puntos de habilidad, el equipo puede volverse más sustancial, aumentando la esperanza de vida de cada artículo. Sin embargo, ninguno de los equipos tiene una vida infinita. Mantener la reparación adecuada y el mantenimiento de equipos ayudará en el progreso y la probabilidad de supervivencia.
+";
+"1-5. Terrain on extra solar planets can be tretcherous and must be traversed with care. Any misstep can lead to damaging your EVA suit and lead to a suit breach, which can be catastrophic. It's imparitive to explore with extreme caution.
+
+1-6. Slope. When attempting to climb a slope be sure to look at your slope warning indicator. For slopes that are greater than 30 degrees, either at an incline or decline, poses a hazard for your traversal. Attempting to jump or run on this uneven terrain is not advised.
+
+Crouching can be used to traverse extreme slopes if needed.","1-5. El terreno en planetas solares extra puede ser corregido y debe ser atravesado con cuidado. Cualquier error puede llevar a dañar su traje EVA y conducir a una brecha de traje, que puede ser catastrófica. Es impiritivo explorar con extrema precaución.
+
+1-6. Pendiente. Al intentar escalar una pendiente, asegúrese de mirar su indicador de advertencia de pendiente. Para pendientes que se encuentren mayores de 30 grados, ya sea en una inclinación o declive, plantea un peligro para su recorrido. No se recomienda intentar saltar o correr en este terreno desigual.
+
+Se puede usar agujas para atravesar las pendientes extremas si es necesario.";
+"1-7. Each planet and moon has a unique atmopsheric makeup and will tramatically alter your exploration capabilities.
+
+1-8. Atmopsheric Temperature. The temperature of a world's air and surface is a direct result of its atmopheric density and proximity to its star. Thicker atmopsheres will contain more greenhouse gas effects and create a more stable temperature range (although that temperature may still be extremely cold or hot). Thinner atmopsheres will show a higher range in temperature if the world is not tidally locked to the star, or if so, will ldepend on your geographic location on the world.
+
+1-9. Weather Patterns. There is no telling what you may discover in terms of weather. Your EVA suit was designed to handle known weather situations, but may be suseptible to damage in an extreme situation.
+
+If caught in a Dust Storm, be sure to pay attention to the direction the storm is coming from. Seek shelter however you can to avoid debris from the storm. Crouching can limit the chances of imact by up to 60%.","1-7. Cada planeta y luna tiene un maquillaje ambulante único y alterará de manera tramitá sus capacidades de exploración.
+
+1-8. Temperatura cérmica. La temperatura de un aire y la superficie del mundo es un resultado directo de su densidad atmericada y su proximidad a su estrella. Los atmostopstros más gruesos contendrán más efectos de gases de efecto invernadero y crearán un rango de temperatura más estable (aunque esa temperatura aún puede ser extremadamente fría o caliente). Los atmostopsinos más delgados mostrarán un rango más alto de temperatura si el mundo no está cerrado con carne en la estrella, o si es así, le responderá a su ubicación geográfica en el mundo.
+
+1-9. Patrones meteorológicos. No hay que decir lo que puede descubrir en términos de clima. Su traje EVA fue diseñado para manejar situaciones climáticas conocidas, pero puede ser susptituido a dañar en una situación extrema.
+
+Si se detiene en una tormenta de polvo, asegúrese de prestar atención a la dirección que viene la tormenta. Busque refugio, sin embargo, puede evitar los escombros de la tormenta. La agitación puede limitar las posibilidades de imacción hasta en un 60%.";
+"1. Physical Environment","1. entorno físico";
+"Suit Repair","Reparación de traje";
+"Suit Maintenance","Mantenimiento de trajes";
+"2-1. The EVA Suit designed for the Osiris Mission is equipped with state-of-the-art sensors. These sensors in turn, provided detailed and up-to-the minute status reports on the viability and integrity of the EVA suit. Monitoring these readings in the HUD are integral to survivability. The sensors monitor: oxygen levels, temperature, hydration/nutrition levels, and health and suit health. 
+
+2-2. Oxygen Levels: Monitoring oxygen consumption is integral. Without oxygen, there is no breathing. Be mindful that running and other taxing activity consume more oxygen. Oxygen will replenish based on traces of O2 in the atmosphere.
+
+2-3. Temperature: Maintaining a viable suit temperature is of the utmost importance. Some climes within the Gliese 581 system will harbor environments that are blistering cold, piercingly hot, and variables in between. If the suit becomes too cold, look for ways to increase the temperature, as hypothermia may ensue. If the suit becomes too hot, look for ways to decrease the temperature, as it may result in death.
+
+2-4. Hydration/Nutrition: Hydration is the outer ring while Nutrition is the inner ring.  Hunger and thirst, if not remedied, can cause a decline in health and performance. Your actions such as running and jumping will impact your thirst and hunger.
+
+2-6. Health/Suit Integrity: Health is the outer ring while Suit Integrity is the inner ring. In instances or severe injuries or suit breaches, Oxygen levels will drop. To fix suit breaches or severe injuries, equip and use bandages, either found or crafted. ","2-1. El traje EVA diseñado para la Misión de Osiris está equipado con sensores de última generación. Estos sensores a su vez, proporcionaron informes detallados y actualizados de los minutos sobre la viabilidad e integridad del traje EVA. El seguimiento de estas lecturas en el HUD es integral para la supervivencia. Los sensores monitorean: los niveles de oxígeno, la temperatura, los niveles de hidratación / nutrición, y la salud y la salud.
+
+2-2. Niveles de oxígeno: el monitoreo del consumo de oxígeno es integral. Sin oxígeno, no hay respiración. Tenga en cuenta que correr y otras actividades graves consuman más oxígeno. El oxígeno se repondrá según las huellas de O2 en la atmósfera.
+
+2-3. Temperatura: Mantener una temperatura traje viable es de la mayor importancia. Algunos climas dentro del sistema Gliese 581 albergarán ambientes que son fríos, perforadamente calientes y variables en el medio. Si el traje se hace demasiado frío, busque formas de aumentar la temperatura, ya que la hipotermia puede surgir. Si el traje se calienta demasiado, busque formas de disminuir la temperatura, ya que puede resultar en la muerte.
+
+2-4. Hidratación / nutrición: la hidratación es el anillo exterior, mientras que la nutrición es el anillo interior. El hambre y la sed, si no se remedia, puede causar una disminución de la salud y el desempeño. Sus acciones, como correr y saltar, afectarán su sed y hambre.
+
+2-6. Salud / Traje Integridad: La salud es el anillo exterior, mientras que la integridad del suministro es el anillo interior. En los casos o las lesiones severas o las violaciones de traje, los niveles de oxígeno bajarán. Para reparar los incumplimientos de la demanda o las lesiones severas, equipar y usar vendas, ya sea que se encuentran o se crean.";
+"2-7. If the EVA suit becomes damaged or breached during exploration of the Gliese 581 system, make sure to equip and use patch tape to address the breach. Then equip and use bandages to re-stabilize suit integrity. Failure to do so may result in suffocation or possibly death.
+","2-7. Si el traje EVA se daña o se rompe durante la exploración del sistema Gliese 581, asegúrese de equipar y usar cinta de parche para abordar la brecha. Luego, equipe y use vendajes para volver a estabilizar la integridad de la demanda. El no hacerlo puede resultar en la asfixia o posiblemente la muerte.
+";
+"*Use patch tape to repair your EVA suit.","* Use cinta de parche para reparar su traje EVA.";
+"2-8. To ensure optimal EVA performance is achieved, suit maintenance is required when necessary. Patch tape and bandages are required deal with suit breaches. Failure to maintain the suit may result in suffocation or possibly death.
+
+Be sure to mind the environment. Beware of sharp objects as these can pierce your suit and cause a suit breach. Take caution in climbing steep slopes, crouching carefully where possible.","2-8. Para garantizar que se logre un rendimiento óptimo de EVA, se requiere el mantenimiento cuando sea necesario. Se requieren cinta y vendajes de parches, trato con brechas adecuadas. El incumplimiento de la demanda puede resultar en asfixia o posiblemente la muerte.
+
+Asegúrate de importar el medio ambiente. Tenga cuidado con los objetos afilados, ya que estos pueden perforar su traje y causar una brecha de traje. Tenga cuidado en escalar las pendientes empinadas, agachándose cuidadosamente donde sea posible.";
+"*Use patch tape and bandages for EVA suit repair and maintenance.","* Use cinta de parche y vendas para la reparación y mantenimiento del traje EVA.";
+"*Keep your eye on o2 readings. Be sure to allow your o2 scrubber to replenish while in atmospheres with gases that contain oxygen. NOTE - o2 does not replenish while in space or in very thin atmospheres.","* Mantenga su ojo en las lecturas de O2. Asegúrese de permitir que su scrubber O2 se reponga mientras esté en atmósferas con gases que contienen oxígeno. Nota: O2 no se repone en espacio o en atmósferas muy delgadas.";
+"*Zero oxygen will cause suffocation. It is advisable to cease moving until your o2 scrubber can begin to replenish o2 in your EVA suit.","* El oxígeno cero causará la asfixia. Es recomendable dejar de moverse hasta que su scrubber O2 pueda comenzar a reponer O2 en su traje EVA.";
+"2. Osiris Mission EVA Suit","2. Juego de Osiris Mission EVA";
+"Physical Conditioning","Condición física";
+"Hydration","Hidratación";
+"Food Preparation","Preparación de comida";
+"3-1. Quality of life is largely dependent on nutrition, hydration and general health. Over time, physical condition can deteriorate, affecting speed and survival. Hunger and thirst, if not remedied, can cause a decline in health and performance. Climate conditions such as heat and cold also have an effect. It is imperative to monitor these using the suit readings provided.
+
+3-2. When physical condition decreases and health is impaired, healing is possible using certain types of food and bandages. Healing is crucial in order to sustain life.
+","3-1. La calidad de vida depende en gran medida de la nutrición, la hidratación y la salud general. Con el tiempo, la condición física puede deteriorarse, afectando la velocidad y la supervivencia. El hambre y la sed, si no se remedia, puede causar una disminución de la salud y el desempeño. Las condiciones climáticas, como el calor y el frío, también tienen un efecto. Es imperativo monitorear estos usando las lecturas de traje proporcionadas.
+
+3-2. Cuando la condición física disminuye y la salud está deteriorada, la curación es posible utilizando ciertos tipos de alimentos y vendajes. La curación es crucial para sostener la vida.
+";
+"3-3. Loss of body water, or dehydration, plays a major role in health and survival. Depending upon level of exertion, hydration needs will fluctuate. Be sure to check hydration levels and consume water whenever the suit reading (located in the lower left-hand corner) indicates the need to do so.
+","3-3. La pérdida de agua corporal, o deshidratación, desempeña un papel importante en la salud y la supervivencia. Dependiendo del nivel de esfuerzo, las necesidades de hidratación fluctuarán. Asegúrese de verificar los niveles de hidratación y consumir agua siempre que la lectura del traje (ubicada en la esquina inferior izquierda) indique la necesidad de hacerlo.
+";
+"3-4. Poor nutrition contributes to deterioration in quality of life and chance of survival. Caloric intake is necessary, as well as attention to the types and sources of calories. Almost anything is edible, but not every type of food will heal. Some sources of nutrition will only satisfy the need for calories. Remember to monitor hunger in the suit readings (located in the lower left-hand corner) and replenish calories as needed.
+","3-4. La mala nutrición contribuye al deterioro de la calidad de vida y la posibilidad de supervivencia. La ingesta calórica es necesaria, así como la atención a los tipos y fuentes de calorías. Casi cualquier cosa es comestible, pero no todos los tipos de alimentos sanarán. Algunas fuentes de nutrición solo satisfarán la necesidad de calorías. Recuerde monitorear el hambre en las lecturas del traje (ubicadas en la esquina inferior izquierda) y reponer las calorías según sea necesario.
+";
+"Hypothermia","Hipotermia";
+"Dehydration","Deshidración";
+"Minor Injuries","Lesiones leves";
+"Severe Injuries","Heridas graves";
+"4-1. Cold injuries, both freezing and non-freezing, are a serious threat. Hypothermia is a potentially dangerous drop in body temperature, usually caused by prolonged exposure to cold temperatures. Keeping aware of the outside temperature and suit temperature is vital.  Cold weather injury prevention and timely shelter construction are also critical and may help avoid debilitating injuries. When temperatures drop, be sure to employ methods of creating internal warmth.","4-1. Las lesiones frías, tanto la congelación como la no congelación, son una amenaza seria. La hipotermia es una caída potencialmente peligrosa en la temperatura corporal, generalmente causada por la exposición prolongada a temperaturas frías. Mantenerse al tanto de la temperatura exterior y la temperatura del traje es vital. La prevención de lesiones en clima frío y la construcción oportuna de refugio también son críticos y pueden ayudar a evitar lesiones debilitantes. Cuando las temperaturas caen, asegúrese de emplear métodos de creación de calor interno.";
+"4-2. Dehydration happens when your body doesn't have as much water as it needs. Without enough, your body can't function properly. You can have mild, moderate, or severe dehydration depending on how much fluid is missing from your body. Avoid becoming dehydrated by checking the suit reading on hydration level (located in the lower left-hand corner.) Replenish and consume fluids on a regular basis. When temperatures rise due to weather conditions, decreasing internal suit temperature may become necessary to avoid dehydration and even fatality.
+
+Food can be a source of hydration if a Chem Station to create water is not available.","4-2. La deshidratación ocurre cuando su cuerpo no tiene tanto agua como necesite. Sin suficiente, su cuerpo no puede funcionar correctamente. Puede tener una deshidratación leve, moderada o grave, dependiendo de la cantidad de líquido que falta en su cuerpo. Evite deshidratarse marcando la lectura de la demanda en el nivel de hidratación (ubicado en la esquina inferior izquierda). Replida y consume líquidos de forma regular. Cuando las temperaturas aumentan debido a las condiciones climáticas, la disminución de la temperatura de la demanda interna puede ser necesaria para evitar la deshidratación e incluso la fatalidad.
+
+La comida puede ser una fuente de hidratación si una estación de química para crear agua no está disponible.";
+"4-3. It is very likely that minor injuries will occur when in combat against indigenous creatures, during missions, or even performing regular tasks. Suit breaches are the most common type of minor injury. If a suit breach occurs, use patch type to repair as soon as is possible.
+","4-3. Es muy probable que se produzcan lesiones menores cuando se encuentren en combate contra las criaturas indígenas, durante las misiones, o incluso realizando tareas regulares. Los infracciones de traje son el tipo más común de lesiones menores. Si se produce una brecha de traje, use el tipo de parche para reparar tan pronto como sea posible.
+";
+"*Bandages can heal minor wounds.","* Los vendajes pueden curar heridas menores.";
+"*If on a planet with foliage species, attempt to create crude bandages when out of manuafactured bandage reserves.","* Si está en un planeta con especies de follaje, intente crear vendas en bruto cuando se encuentran fuera de las reservas de vendaje manual.";
+"4-4. In the event a severe injury occurs, immediately find or craft bandages and use them to heal. If this is not done in an expedient manner, health will rapidly deteriorate and death may follow shortly thereafter.
+","4-4. En el caso de que se produzca una lesión severa, busque o inmediatamente encuentre vendajes y utilícelos para curarse. Si esto no se hace de manera conveniente, la salud se deteriorará rápidamente y la muerte puede seguir poco después.
+";
+"*Where possible, create large amounts of crude bandages while reserving Medkits for only dire situations.","* Cuando sea posible, cree grandes cantidades de vendajes crudos mientras se reserva medkits solo para situaciones terribles.";
+"*Medkits can save your life when experiencing severe wounds.","* Medkits puede salvar su vida al experimentar heridas severas.";
+"Navigation","Navegación";
+"5-1. Navigating through the Gliese 581 System can be both enthralling and frightening. But basic navigation shouldn’t be confusing.
+
+5-2. The Locator provided for the Osiris Mission is an extremely helpful navigational tool. Equipping the locator will reveal the terrain’s topography, names of discovered areas, locations of resources (as indicated by icons), as well as longitude and latitude. Metallic objects will appear on your Locator, as well as your structures.
+
+5-3. Longitude: Longitude is the designated coordinate that identifies the east-west position of a point on the planets terrain. 
+
+5-4. Latitude: Latitude is the designated coordinate that identifies the north-south position of a point on the planets terrain.
+
+5-5. Compass: Your compass is shown in the Top Middle of your display and indicates your direction along with any primary structures you own.
+","5-1. Navegar a través del sistema Gliese 581 puede ser cautivado y aterrador. Pero la navegación básica no debe ser confusa.
+
+5-2. El localizador proporcionado para la Misión Osiris es una herramienta de navegación extremadamente útil. Equipar el localizador revelará la topografía del terreno, los nombres de las áreas descubiertas, las ubicaciones de los recursos (según lo indicado por los iconos), así como la longitud y la latitud. Los objetos metálicos aparecerán en su localizador, así como sus estructuras.
+
+5-3. Longitud: la longitud es la coordenada designada que identifica la posición este-oeste de un punto en el terreno de los planetas.
+
+5-4. Latitud: Latitud es la coordenada designada que identifica la posición norte-sur de un punto en el terreno de los planetas.
+
+5-5. Brújula: su brújula se muestra en la mitad superior de su pantalla e indica su dirección junto con cualquier estructura primaria que posee.
+";
+"*Locator will give you positional coordinates on your current planet and can help find natural resources.","* El localizador le dará coordenadas posicionales en su planeta actual y puede ayudar a encontrar recursos naturales.";
+"DATA NOT AVAILABLE
+","INFORMACION NO DISPONIBLE
+";
+"Tools","Herramientas";
+"Artillery","Artillería";
+"Combat Tactics","Tácticas de combate";
+"6-1. When exploring and crafting, different tools will be useful in accomplishing various tasks. Tools do not have infinite usage and will wear down over time. It is imperative to repair tools when necessary and/or craft new ones as needed. The rate of decay varies from tool to tool. Some tools will require recipes and specific resources, obtainable only by mining or harvesting them, in order to be crafted. Most tools are only useful for mining, though there are a couple that may be used in combat. These are referred to as hybrid tools.
+
+6-2. Keep in mind that not all tools are able to be obtained right from the start. Some tools will only become available as progress is made and skill points are acquired.","6-1. Al explorar y crear, las diferentes herramientas serán útiles para lograr diversas tareas. Las herramientas no tienen un uso infinito y se desgastarán con el tiempo. Es imperativo reparar herramientas cuando sea necesario y / o artesanal nuevas según sea necesario. La tasa de descomposición varía de la herramienta a la herramienta. Algunas herramientas requerirán recetas y recursos específicos, que se pueden obtener solo mediante la minería o la coseche, para ser diseñados. La mayoría de las herramientas solo son útiles para la minería, aunque hay una pareja que puede usarse en combate. Estos se conocen como herramientas híbridas.
+
+6-2. Tenga en cuenta que no todas las herramientas pueden obtenerse desde el principio. Algunas herramientas solo estarán disponibles a medida que se realiza avances y se adquieren puntos de habilidad.";
+"*Chisel can be used to break down minerals.","* El cincel se puede usar para descomponer los minerales.";
+"*Shovel can gather loose materials like sand.","* La pala puede recoger materiales sueltos como la arena.";
+"6-3. Artillery can be used to protect against indigenous creatures and human threats.  There are several different types of weapons available for use, not all of them available immediately. Which weapons are initially given depends on chosen class: Marine, Scientist, Ranger, or Engineer. There are two main categories of artillery, Melee and Ranged. Each weapon sustains and gives different levels of damage, depending on ammo and weapon type.","6-3. La artillería se puede utilizar para proteger contra criaturas indígenas y amenazas humanas. Hay varios tipos diferentes de armas disponibles para su uso, no todos disponibles de inmediato. Las armas que se administran inicialmente depende de la clase elegida: marina, científico, guardabosques o ingeniero. Hay dos categorías principales de artillería, cuerpo a cuerpo y iban. Cada arma sostiene y da diferentes niveles de daño, dependiendo del tipo de munición y arma.";
+"*For ranged weapons be mindful of ammunition reserves.","* Para las armas a distancia, tenga en cuenta las reservas de municiones.";
+"*Melee weapons take a lot of punishment and frequently need to be repaired.","* Las armas cuerpo a cuerpo toman mucho castigo y con frecuencia deben ser reparadas.";
+"6-4. Strategy is a key component to surviving Gliese 581 and all that it encompasses. Remaining vigilant at all times and keeping an eye on the horizon is of dire importance. Threats to safety come not only in the form of environmental events, but also indigenous creatures and even other humans. Be prepared. Keep weapons at the ready and fully stocked with ammunition. In some cases, the best tactic is actually fleeing as quickly as possible. Tactics will change on a case by case basis and require critical thinking as well as quick reflexes.","6-4. La estrategia es un componente clave para sobrevivir a Gliese 581 y todo lo que abarca. El vigilante permanecer en todo momento y vigilar el horizonte es de gran importancia. Las amenazas a la seguridad vienen no solo en forma de eventos ambientales, sino también a las criaturas indígenas e incluso otros humanos. Estar preparado. Mantenga las armas al aire libre y completamente surtido con municiones. En algunos casos, la mejor táctica está huyendo lo más rápido posible. Las tácticas cambiarán caso por caso y requerirán el pensamiento crítico, así como los reflejos rápidos.";
+"Comms Feed","Comillas de alimentación";
+"Locating Personnel","Personal de localización";
+"Colony Development","Desarrollo de colonias";
+"7-1. Proper and meaningful communication is extremely valuable and an important tool when exploring the Gliese 581 System. That’s where the Communication Feed is a helpful tool. To access the Communication Feed, press ENTER and then one of the chat commands as needed. 
+
+Chat Commands are as follows:
+[TAB] Cycle Available Channels
+[/g] Global Channel
+[/l] Local Channel
+[/c] Colony Channel
+[/p] Party Channel
+[/w] Whisper Channel
+[/r] Reply to previous Whisper
+[/ix] Ignore Channel x
+[/ux] Unignore Channel x
+[/ping] Toggle Audio Ping
+[/ompa help] O.M.P.A. Commands
+","7-1. La comunicación adecuada y significativa es extremadamente valiosa y una herramienta importante al explorar el sistema Gliese 581. Ahí es donde la alimentación de la comunicación es una herramienta útil. Para acceder a la alimentación de comunicación, presione ENTER y luego uno de los comandos de chat según sea necesario.
+
+Los comandos de chat son los siguientes:
+[Pestaña] Canales disponibles para el ciclo
+[/ g] canal global
+[/ l] canal local
+[/ c] canal de colonia
+[/ P] Channel de fiesta
+[/ w] Whisper Channel
+[/ r] Responder al susurro anterior
+[/ ix] ignorar el canal x
+[/ UX] Unignore Channel X
+[/ Ping] Toggle Audio Ping
+[/ Ayuda OMPA] O.M.P.A. Comandos
+";
+"DATA NOT AVAILABLE 
+","INFORMACION NO DISPONIBLE
+";
+"7-2. Locating other personnel within the Gliese 581 System can greatly increase the chance of survival. That’s why it’s key to constantly be on the look out for others roaming the foreign terrain. 
+
+7-3. One way to locate Personnel is through the Communication Feed located in the upper left-hand corner of your HUD. To access this helpful tool, press ENTER and then locate the appropriate channel you wish to chat in. Once communication with other personnel has been achieved, share the current coordinates and wait until they arrive at the location. 
+
+7-4. Another way to locate personnel is through the use of the Flare Gun. For those times when communication is down or not working, simply equip the flare gun, point it towards the sky, and fire. This will alert any other personnel within the vicinity. 
+","7-2. Localizar a otro personal dentro del sistema Gliese 581 puede aumentar enormemente la posibilidad de supervivencia. Es por eso que es clave para estar constantemente atento a los demás que rodean el terreno extranjero.
+
+7-3. Una forma de localizar al personal es a través de la alimentación de comunicación ubicada en la esquina superior izquierda de su HUD. Para acceder a esta útil herramienta, presione ENTER y luego ubique el canal apropiado en el que desea chatear. Una vez que se haya logrado la comunicación con otro personal, comparta las coordenadas actuales y espere hasta que lleguen a la ubicación.
+
+7-4. Otra forma de localizar al personal es a través del uso de la pistola de la llamarada. Para aquellos momentos en que la comunicación está abajo o no está funcionando, simplemente equipe la pistola de la llamarada, apúntela hacia el cielo y el fuego. Esto alertará a cualquier otro personal dentro de los alrededores.
+";
+"*Flares can be used to locate personnel.","* Las llamaradas se pueden usar para localizar personal.";
+"7-5. U.N.E. operatives may find themselves coming into contact with other personnel. In these situations, these personnel can group up by either setting up a party or colony. 
+
+7-6. Setting Up A Party: For the personnel creating a party, they need to walk up to the other operative, look at them, and then press [F] to invite. The personnel joining the party must then look and the inviter and then click [ACCEPT] in the menu.
+","7-5. U.n.e. Los operativos pueden encontrarse en contacto con otro personal. En estas situaciones, este personal puede agruparse por establecer una fiesta o colonia.
+
+7-6. Configuración de una fiesta: para el personal que crea una parte, necesitan caminar hasta el otro operativo, mirarlos y luego presionar [F] para invitar. El personal que se une a la parte debe buscar y luego el invitador y luego haga clic en [Aceptar] en el menú.
+";
+"7-5. U.N.E. operatives may find themselves coming into contact with other personnel. In these situations, these personnel can group up by either setting up a party or colony. 
+
+7-6. Setting Up A Party: For the personnel creating a party, they need to walk up to the other operative, look at them, and then press [F] to invite. The personnel joining the party must then look and the inviter and then click [ACCEPT] in the menu.
+
+7-7. Setting Up A Colony: A colony is a territory at a specific location on a planet or moon, claimed and controlled by at least one personnel. Personnel can automatically claim a territory when placing a structure on unclaimed ground. This colony can be joined by other personnel when it has been officially created. Creating a colony can be done by following the steps below:
+
+Click on ‘Create Colony.’
+Add other personnel by using the multi tool. Please note that personnel have to belong to the same faction in order to join a colony.
+
+Adding other personnel to an existing colony automatically gives them access to anything that is built or crafted after they joined. In order to give them access to previously built/crafted objects, the creator of the colony needs to give access manually using the multi-tool on each object (make public to colony).","7-5. U.n.e. Los operativos pueden encontrarse en contacto con otro personal. En estas situaciones, este personal puede agruparse por establecer una fiesta o colonia.
+
+7-6. Configuración de una fiesta: para el personal que crea una parte, necesitan caminar hasta el otro operativo, mirarlos y luego presionar [F] para invitar. El personal que se une a la parte debe buscar y luego el invitador y luego haga clic en [Aceptar] en el menú.
+
+7-7. Configuración de una colonia: una colonia es un territorio en un lugar específico en un planeta o luna, reclamado y controlado por al menos un personal. El personal puede reclamar automáticamente un territorio al colocar una estructura en terreno no reclamado. Esta colonia se puede unir por otro personal cuando se ha creado oficialmente. La creación de una colonia se puede hacer siguiendo los pasos a continuación:
+
+Haga clic en 'Crear colonia'.
+Agregue otro personal utilizando la herramienta Multi. Tenga en cuenta que el personal tiene que pertenecer a la misma facción para unirse a una colonia.
+
+Agregar a otro personal a una colonia existente automáticamente les da acceso a cualquier cosa que esté construida o diseñada después de que se unieron. Para darles acceso a objetos previamente construidos / artesanales, el Creador de la Colonia debe dar acceso manualmente a la multipiro en cada objeto (haga pública a la colonia) ".";"
+#VALUE!
+"Access to utilities","Acceso a utilidades";
+",MISSING_TRANSLATION;",", Missing_Translation ";";
+"7. Commuinications","7. Comuinicaciones";
+"Basic Shelter","Refugio básico";
+"Habitat System","Sistema de hábitat";
+"Maintenance","Mantenimiento";
+"8-1. Creating some form of shelter is in the best interest of survival.
+
+8-2. Upon exiting the pod, an Inflatable Dome will be provided, however, this type of shelter has a short time decay and only offers temporary sanctuary from the harsh environment. Creating a much sturdier shelter should be at the top of the priority list. ","8-1. Crear algún tipo de refugio está en el mejor interés de la supervivencia.
+
+8-2. Al salir de la vaina, se proporcionará una cúpula inflable, sin embargo, este tipo de refugio tiene una decadencia de corto tiempo y solo ofrece un santuario temporal del entorno hostil. Crear un refugio mucho más robusto debe estar en la parte superior de la lista de prioridad.";
+"*When Inflatable Dome is not available, create shelter from found materials.","* Cuando la cúpula inflable no está disponible, cree refugio de los materiales encontrados.";
+"8-3. Habitats are based on a modular system of building. Once a habitat is created, adding an airlock will allow for pressurization of the structure. Custom walls make habitats more expansive and personalized. Interconnecting habitats is possible with the incorporation of hallways. Building multilevel structures is also possible, but will require the addition of an elevator.
+","8-3. Los hábitats se basan en un sistema modular de edificio. Una vez que se crea un hábitat, agregar un bloqueo de aire permitirá la presurización de la estructura. Las paredes personalizadas hacen hábitats más expansivos y personalizados. Los hábitats de interconexión son posibles con la incorporación de pasillos. La construcción de estructuras multinivel también es posible, pero requerirá la adición de un ascensor.
+";
+"*Modular HAB system building is the foundation of all Osiris Mission Colony settlements.","* La construcción modular del sistema HAB es la base de todos los asentamientos de la colonia de la misión de Osiris.";
+"*Airlock is needed for pressurized HABs.","* Se necesita AIPLOUSE para las habas presurizadas.";
+"*Hallways join HABs and other structures.","* Los pasillos se unen a Habs y otras estructuras.";
+"*Add mutliple levels by stacking HABs with the Upper Story attachment.","* Agregue los niveles de mutliple apilando habs con el archivo adjunto superior.";
+"*Barracks can contain special furniture equipment.","* Los cuarteles pueden contener equipos de muebles especiales.";
+"8-4. Utilities are functional elements that generate air, electricity, and other essentials. Some of these items include: Storage units, Fabricator, Forges, Crafting Tables. In order to craft or build certain utilities, materials must be obtained and required skills must be unlocked. Certain items can also be found in the game by exploring, like batteries, wires, heavy machine gun.Items such as regular bandages and Medkits are able to be crafted using a 3D Printer or Fabricator.
+
+8-5. The ability to craft water in an empty glass jar is possible upon the accumulation of Oxygen & Hydrogen. A Water Reclaimer unit built inside a Habitat will also allow for quenching thirst every few minutes.","8-4. Los servicios públicos son elementos funcionales que generan aire, electricidad y otros elementos esenciales. Algunos de estos artículos incluyen: unidades de almacenamiento, fabricante, forjas, tablas de elaboración. Para organizar o construir ciertas utilidades, se deben obtener materiales y las habilidades requeridas deben desbloquearse. Ciertos artículos también se pueden encontrar en el juego explorando, como baterías, cables, ametralladoras pesadas, tales como vendas regulares y medkits, se pueden elaborar utilizando una impresora o fabricante 3D.
+
+8-5. La capacidad de elaborar el agua en un frasco de vidrio vacío es posible sobre la acumulación de oxígeno e hidrógeno. Una unidad de recuperación de agua construida dentro de un hábitat también permitirá apagar la sed cada pocos minutos ".";
+",MISSING_TRANSLATION;",", Missing_Translation ";";
+"*Storage containers are essential to keeping large amounts of materials safe.","* Los contenedores de almacenamiento son esenciales para mantener las grandes cantidades de materiales seguros.";
+"*Crafting Utilities such as the 3D Printer can create small useful items.","* Las utilidades de creación, como la impresora 3D, pueden crear pequeños elementos útiles.";
+"*Smelting equipment is necessary for melting down minerals for structure building and item crafting.","* El equipo de fundición es necesario para derretir los minerales para el edificio de la estructura y la elaboración de artículos.";
+"8-6. Structures are the constituent elements of the colony. Built on essentially a grid, the different components can be snapped together to create large colony complexes for growing food, research, and mutual survival. The current maximum for structures on a single planet is 200, or 20 per player. Aside from Habitats and Huts, there are a many other structures that can be built such as a Biodome, Laboratory, Furniture, Custom Wall Pieces and Utilities.
+","8-6. Las estructuras son los elementos constituyentes de la colonia. Construido en esencialmente una cuadrícula, los diferentes componentes se pueden juntar para crear grandes complejos de colonias para cultivar alimentos, investigaciones y supervivencia mutua. El máximo actual para estructuras en un solo planeta es de 200, o 20 por jugador. Aparte de los hábitats y las cabañas, hay muchas otras estructuras que se pueden construir, como un biodome, laboratorio, muebles, piezas de pared personalizadas y utilidades.
+";
+"*Biodome are perfect for cultivating food reserves.","* Biodome son perfectos para cultivar reservas de alimentos.";
+"*Specialty furniture equipment in the HAB can be extremely useful.","* El equipo de muebles especializados en el HAB puede ser extremadamente útil.";
+"*Solar panels must be used to power structures and utilities.","* Los paneles solares deben usarse para alimentar estructuras y utilidades.";
+"*Create unique structures with custom prefabs.","* Crear estructuras únicas con prefabezas personalizadas.";
+"*Laboratory is a factory system that can build vehicles and robots.","* El laboratorio es un sistema de fábrica que puede construir vehículos y robots.";
+"8-7. To keep structures, vehicles and other important elements in proper working order, performing regular maintenance is necessary. Maintenance can be performed with the Multi-Tool. This is an indestructible tool used for repairing damaged structures, walls vehicles and droids.
+","8-7. Para mantener estructuras, los vehículos y otros elementos importantes en el orden de trabajo correcto, realizando un mantenimiento regular es necesario. El mantenimiento se puede realizar con la multi-herramienta. Esta es una herramienta indestructible utilizada para reparar estructuras dañadas, vehículos de paredes y droides.
+";
+"*OMPA can be programmed to auto repair your colony structures.","* OMPA se puede programar para reparar automáticamente sus estructuras de colonia.";
+"*Repair your structures and equipment with the Multi-Tool.","* Repare sus estructuras y equipos con la multipira.";
+"Driver Training","Entrenamiento del conductor";
+"Planning for Space","Planificación para el espacio";
+"Space Travel","Viaje espacial";
+"Space Walking","Caminata espacial";
+"9-1. Vehicles allow for rapid transportation across large distances, moving resources and more. There are two different types of vehicles<semicolon> hovering and wheeled. The durability, speed and maneuverability varies depending on the type of vehicle. They can be built using the Laboratory. Each type of vehicle will require different resources in order to craft.
+
+9-2. Default Vehicle Controls:
+Enter the vehicle - F key.
+Directional Maneuvers - WASD keys.
+Exit the vehicle -  F key.
+
+9-3. Please Note:
+- In certain vehicles, hold the shift key will activate a boost that uses a large amount of fuel to gain additional speed.
+
+- When in third person view, it is possible to look left or right while driving.
+
+- The Ground Assault Vehicle has the capacity for an an additional passenger who may control the turret.
+","9-1. Los vehículos permiten un rápido transporte a través de grandes distancias, movimientos de recursos y más. Hay dos tipos diferentes de vehículos <punto y semicolón> flotando y con ruedas. La durabilidad, la velocidad y la maniobrabilidad varían según el tipo de vehículo. Se pueden construir utilizando el laboratorio. Cada tipo de vehículo requerirá diferentes recursos para navegar.
+
+9-2. Controles de vehículos predeterminados:
+Ingrese el vehículo - F Tecla.
+Maniobras direccionales - WASD Keys.
+Salga del vehículo - F Tecla.
+
+9-3. Tenga en cuenta:
+- En ciertos vehículos, mantenga presionada la tecla Shift activará un impulso que utiliza una gran cantidad de combustible para obtener una velocidad adicional.
+
+- Cuando sea en vista de la tercera persona, es posible mirar a la izquierda o hacia la derecha mientras se conduce.
+
+- El vehículo de asalto molido tiene la capacidad de un pasajero adicional que puede controlar la torreta.
+";
+"9-3. Before journeying out, prepare accordingly. Be sure that the vehicle used for operation is adequately fueled and in good working order. Check water and food supply to make certain that there is enough to sustain for the journey ahead. Bring any necessary resources and supplies that may be needed while away from the base.
+","9-3. Antes de viajar, prepararse en consecuencia. Asegúrese de que el vehículo utilizado para la operación esté adecuadamente alimentado y en buen estado de funcionamiento. Revise el suministro de agua y alimentos para asegurarse de que haya suficiente para sostener para el viaje por delante. Traiga los recursos y suministros necesarios que puedan ser necesarios alejados de la base.
+";
+"9-4. Spaceships have a translational life that require a large amount of fuel when leaving the atmosphere. Prepare accordingly. Once in orbit, lack of gravity and friction allow for less fuel consumption. The following controls are used for operation of the Spaceship:
+
+9-5. Default surface controls while flying:
+Start the ship and accelerate - LMB
+Land and deccelerate - RMB
+Directional maneuvers - WASD keys from wherever the mouse is currently pointed.
+","9-4. Las naves espaciales tienen una vida traslacional que requieren una gran cantidad de combustible al salir de la atmósfera. Prepararse en consecuencia. Una vez en órbita, la falta de gravedad y fricción permiten menos consumo de combustible. Los siguientes controles se utilizan para el funcionamiento de la nave espacial:
+
+9-5. Controles de superficie predeterminados mientras vuelan:
+Comience la nave y acelere - LMB
+Tierra y deceleración - RMB
+Maniobras direccionales - WASD Keys desde donde sea que el mouse esté apuntando actualmente.
+";
+"9-7. The E.V.A. Suit has been designed to allow for prolonged Space Walks. Personnel may find themselves in a predicament where they need to leave their space station or ship and begin space walking. The default controls for space walking are as follows: 
+
+Move Forward - W Key
+Move Backward - S Key
+Strafe Left - A Key
+Strafe Right - D Key
+Move Upward - Spacebar Key
+Move Downward - Left Control Key
+Orient to Camera - Right Mouse Button
+Boost - Left Shift Key
+","9-7. El e.v.a. El traje ha sido diseñado para permitir caminatas espaciales prolongadas. El personal puede encontrarse en una situación de situación donde necesitan abandonar su estación espacial o enviar y comenzar a caminar espacios. Los controles predeterminados para caminar espacios son los siguientes:
+
+Mover hacia adelante - W Tecla
+Moverse hacia atrás -
+Strae a la izquierda - una llave
+Strafe derecha - d llave
+Mover hacia arriba - la llave de la barra espaciadora
+Mover hacia abajo - Tecla de control izquierdo
+Oriente a la cámara - botón derecho del ratón
+BOOST - Clave de turno izquierdo
+";
+"9-8. Vehicles will require reparations and regular maintenance. The Multi Tool can be used to repair vehicles. Be sure to refuel each vehicle on a consistent basis. Refueling is performed by using the container that holds fuel. When prompted, press the [F] key.
+","9-8. Los vehículos requerirán reparaciones y mantenimiento regular. La herramienta múltiple se puede utilizar para reparar vehículos. Asegúrese de repostar cada vehículo de manera consistente. El reabastecimiento de combustible se realiza utilizando el contenedor que sostiene el combustible. Cuando se le solicite, presione la tecla [F].
+";
+"9. Vehicle Piloting and Aeronotics","9. Pilotaje de vehículos y aeronóticos.";
+"Steering Behaviors","Conductas de dirección";
+"Mining","Minería";
+"Repairing","Reparación";
+"10-1. The Osiris Mission Personal Assistant (O.M.P.A.) was developed to assist field personnel with their active duties on alien planets. Each O.M.P.A. has been installed with a set of upgradeable algorithms that include navigation, repair, mining, and self defense.
+
+10-2. Follow: Activating the Follow procedure engages the O.M.P.A. unit to trail personnel. This will keep the unit nearby to provide assistance when needed.
+
+10-3. Flank: Activating the Flank procedure engages the O.M.P.A. unit to lead. This maneuver is ideal for guarding personnel from oncoming attacks. The O.M.P.A. is also equipped with high tech sensors that can spot danger quickly and engage the threat before it gets nearby.
+
+10-4. Engage (Passive): If the necessary upgrades have been installed, the O.M.P.A. unit will automatically engage hostile threats to protect human personnel from injuries and prevent structural damage.
+
+10-5. Repair: Activating the Repair procedure engages the O.M.P.A. unit to patrol a specified area and repair any owned structures that have accrued any damage.
+
+10-6. Mine: Activating the Mine procedure engages the O.M.P.A. unit to patrol a specified area and mine any valuable resources. If the necessary upgrades have been installed, the unit will also be able to detect nearby storage units and unload the collected materials.
+
+10-7. Summon (Experimental): Each O.M.P.A. has been equipped with a newly discovered mineral that has been found to contain manipulatable quantum properties. The material has been harnessed to allow the unit to teleport when the Summon procedure is activated. Using this feature comes at a cost, in order to provide the necessary energy to activate the reaction, a large amount of power is drained from the battery power source.","10-1. El asistente personal de Osiris Mission (O.M.P.A.) se desarrolló para ayudar al personal de campo con sus funciones activas en los planetas alienígenas. Cada O.M.P.A. Se ha instalado con un conjunto de algoritmos actualizables que incluyen navegación, reparación, minería y defensa propia.
+
+10-2. Siga: Activar el procedimiento SIGUIENTE se involucra a O.M.P.A. Unidad al personal del camino. Esto mantendrá la unidad cercana para brindar asistencia cuando sea necesario.
+
+10-3. FLANK: La activación del procedimiento del flanco se involucra el O.M.P.A. unidad para liderar. Esta maniobra es ideal para proteger al personal de los ataques que se aproximan. El O.M.P.A. También está equipado con sensores de alta tecnología que pueden detectar peligro rápidamente y comprometer la amenaza antes de que se ponga cerca.
+
+10-4. Participar (pasivo): si se han instalado las actualizaciones necesarias, el O.M.P.A.A. La unidad se involucrará automáticamente amenazas hostiles para proteger al personal humano de las lesiones y prevenir daños estructurales.
+
+10-5. Reparación: activar el procedimiento de reparación involucra el O.M.P.A. Unidad para patrullar un área específica y reparar cualquier estructura de propiedad que haya acumulado cualquier daño.
+
+10-6. Mina: la activación del procedimiento de minas involucra el O.M.P.A. Unidad para patrullar un área específica y los recursos valiosos. Si se han instalado las actualizaciones necesarias, la unidad también podrá detectar unidades de almacenamiento cercanas y descargar los materiales recolectados.
+
+10-7. Summon (Experimental): cada O.M.P.A. ha sido equipado con un mineral recién descubierto que se ha encontrado que contiene propiedades cuánticas manipulables. El material se ha aprovechado para permitir que la unidad se teletranse cuando se activa el procedimiento de convocatoria. El uso de esta función tiene un costo, para proporcionar la energía necesaria para activar la reacción, se drena una gran cantidad de energía de la fuente de alimentación de la batería.";
+"10-8. The O.M.P.A. has been programmed for mining valuable resources scattered across the various terrains of the GLiese 581 System. Activating the Mine procedure engages the O.M.P.A. unit to patrol a specified area, mine, and if upgraded with the necessary components, detect nearby storage units and unload the collected resources.
+","10-8. El O.M.P.A. Se ha programado para obtener recursos valiosos de la minería dispersos a través de los diversos terrenos del sistema Gliese 581. Activar el procedimiento de minas involucra a O.M.P.A. Unidad para patrullar un área específica, la mía y, si se actualiza con los componentes necesarios, detectó las unidades de almacenamiento cercanas y descargue los recursos recopilados.
+";
+"10-9. The O.M.P.A. has been programmed to provide assistance to injured personnel and repair structural damage while patrolling is assigned coordinates. 
+","10-9. El O.M.P.A. Se ha programado para brindar asistencia al personal lesionado y reparar daños estructurales, mientras que los patrullantes se les asigna coordenadas.
+";
+"10-10. The O.M.P.A. has been programmed to target and engage in combat if equipped with the necessary upgrades. Once achieved the O.M.P.A. will be armed and ready to protect and automatically engage hostile threats.
+","10-10. El O.M.P.A. ha sido programado para atacar y participar en combate si está equipado con las actualizaciones necesarias. Una vez logró la O.M.P.A.A. Estará armado y listo para proteger y atacar automáticamente amenazas hostiles.
+";
+"10-11. The O.M.P.A. unit requires periodical repair and battery maintenance. When engaging in combat the O.M.P.A. can sustain damage that requires repair. If this occurs, personnel must equip the repair tool and use it on the O.M.P.A. to return it to a working condition. If the O.M.P.A. suffers from battery depletion, it will remain in the same location it lost power. To fix, simply equip a new battery and install in into the O.M.P.A.
+","10-11. El O.M.P.A. La unidad requiere reparación periódica y mantenimiento de la batería. Al participar en combate el O.M.P.A. Puede sufrir daños que requieren reparación. Si esto ocurre, el personal debe equipar la herramienta de reparación y usarla en la O.M.P.A.A. para devolverlo a una condición de trabajo. Si el O.M.P.A.A. Sufre de agotamiento de la batería, permanecerá en la misma ubicación que perdió el poder. Para solucionar, simplemente equipe una batería nueva e instale en el O.M.P.A.
+";
+"10. Osiris Mission Personal Assistant Manual","10. Manual asistente personal de Osiris Mission.";
+"Alien Plant","Planta alienígena";
+"Blunt Object","Objeto desafilado";
+"Slashing Tool","Herramienta de corte";
+"Sharp Weapon","Arma afilada";
+"Surgical Tool","Herramienta quirúrgica";
+"Extracting Tool","Herramienta de extracción";
+"Discoveries","Descubrimiento";
+"[A] MISSIONS","[A] misiones";
+"SKILLS [D]","Habilidades [d]";
+"[A] DISCOVERIES","[A] descubrimientos";
+"INVENTORY [D]","Inventario [d]";
+"Bug Report / Feedback","Informe de error / comentarios";
+"Menu","Menú";
+"Settings","Ajustes";
+"Force Kill","Matar a la fuerza";
+"Report Player","Reportar jugador";
+"Main Menu","Menú principal";
+"Exit Game","Salir del juego";
+"Players","Jugadores";
+"Player Name...","Nombre del jugador...";
+"Avatar Name...","Nombre del avatar...";
+"Cheating","Infiel";
+"Additional Comments...","Comentarios adicionales...";
+"Submit","Enviar";
+"Menu Options","Opciones de menú";
+"[A] SKILLS","[A] habilidades";
+"Feedback","Realimentación";
+"Enter feedback here (optional)","Ingrese la retroalimentación aquí (opcional)";
+"General Feedback","Retroalimentación general";
+"Gameplay / Balancing","Juego / Equilibrio";
+"Bug / Tech Issue / Frame Rate","ERROR / TECH TECTURO / TARIFA DE FRUTO";
+"Feature Request","Solicitud de función";
+"Include Screenshot","Incluir captura de pantalla";
+"All is good, just giving feedback","Todo es bueno, solo dando feedback.";
+"This is kind of serious","Esto es un poco serio";
+"This is stopping gameplay","Esto es deteniendo el juego";
+"Missions | Logs | Blueprints","Misiones | Registros | Planos";
+"Mission 1 - Explore Proteus 2","Misión 1 - Explora Proteus 2";
+"Now that I've gotten a foothold on this planet, I should explore and see if I can regroup with the Phoenix Team. ([F3] will open up the GPS, your suit has a radar installed that will allow for Basic Scanning. [NUM +] and [NUM -] to change the zoom of the map.)","Ahora que he conseguido un punto de apoyo en este planeta, debería explorar y ver si puedo reagruparme con el equipo de Phoenix. ([F3] abrirá el GPS, su traje tiene un radar instalado que permitirá el escaneo básico. [NUM +] y [NUM -] para cambiar la zoom del mapa).";
+"Mission 2 - N/A","Misión 2 - N / A";
+"Activate new mission in Mission Menu","Activar nueva misión en el menú de la misión.";
+"Mission 3 - N/A","Misión 3 - N / A";
+"Encrypted Disks","Discos cifrados";
+"Item Name","Nombre del árticulo";
+"Decrypt","Descifrar";
+"Are you sure you want to quit to main menu?","¿Está seguro de que desea dejar de fumar en el menú principal?";
+"Placeholder","Parlamentaria";
+"O.M.P.A. Overview","O.M.P.A. Descripción general";
+"dev console commands","Comandos de consola de desarrollo";
+"Push-to-Talk Initializing...","Push-to-hablar inicializando ...";
+"[F1] Push-To-Talk","[F1] Push-To-Talk";
+"Talk now","Habla ahora";
+"World Channel","Canal mundial";
+"Chat Commands","Comandos de chat";
+"[TAB] Cycle Available Channels
+[/g] Global Channel
+[/l] Local Channel
+[/c] Colony Channel
+[/p] Party Channel
+[/w] Whisper Channel
+[/r] Reply to previous whisper","[Pestaña] Canales disponibles para el ciclo
+[/ g] canal global
+[/ l] canal local
+[/ c] canal de colonia
+[/ P] Channel de fiesta
+[/ w] Whisper Channel
+[/ r] Responder al susurro anterior";
+"Equip Locator To Cycle Targets","Equipar localizador a los objetivos de ciclo";
+"Nearest Dish
+Scanning...
+","Plato más cercano
+Exploración...
+";
+"Downloading Transmission","Descarga de transmisión";
+"Performing System Dyagnostics_","SISTEMA DE REALIZACIÓN DYAGNOSTICS_";
+"Party Member 1","Miembro de la fiesta 1";
+"Toggle Flashlight [L]","Linterna de palanca [l]";
+"Slope:","Pendiente:";
+"SUIT","TRAJE";
+"ENV","Env";
+"Incline","Inclinación";
+"Noise","Ruido";
+"EARLY ACCESS","ACCESO TEMPRANO";
+"This new ability unlocks your wildest dreams!","¡Esta nueva habilidad desbloquea tus sueños más salvajes!";
+"Status","Estado";
+"New Ability","Nueva habilidad";
+"Username","Nombre de usuario";
+"Exit","Salida";
+"Options","Opciones";
+"News","Noticias";
+"Multiplayer","Multijugador";
+"Single Player","Un solo jugador";
+"Fully crafting your own Space Station in low orbit. All station modules can interconnect in any combination, allowing for total flexibility in design and layout.
+
+Each module has its own purpose and features, including crafting, power systems, and storage.
+
+Space Stations are free from the erosion and dangers of the existing planetside in an atmosphere, creating an interesting strategic option to store valuable resources.
+","Alise completamente su propia estación espacial en órbita baja. Todos los módulos de la estación pueden interconectarse en cualquier combinación, lo que permite la flexibilidad total en el diseño y el diseño.
+
+Cada módulo tiene su propio propósito y características, incluidas la creación, los sistemas de energía y el almacenamiento.
+
+Las estaciones espaciales están libres de la erosión y los peligros del planetside existente en una atmósfera, creando una opción estratégica interesante para almacenar recursos valiosos.
+";
+"Proteus 2 takes advantage of the new technology we’ve been developing that adds various zones and areas into a world.
+
+We’ve doubled the amount of world textures, rendered millions of blades of grass, and populated countless new alien foliages - each yielding various resources.
+","Proteus 2 aprovecha la nueva tecnología que hemos estado desarrollando que agrega varias zonas y áreas a un mundo.
+
+Hemos duplicado la cantidad de texturas mundiales, prestamos millones de cuchillas de hierba, y pobló innumerables nuevos foliages alienígenas, cada uno de los cuales produce diversos recursos.
+";
+"Discovery System
+","Sistema de descubrimiento
+";
+"Everything you observe on your adventures can now be discovered. Far more than a simple achievement, the Discovery System actually unlocks all the various resources any found resource will yield.
+
+Essentially, each weapon or tool used on a resource may yield a different item, allowing for far more scientific exploration of the solar system and all of its life forms.
+","Ahora todo lo que observes en tus aventuras ahora se pueden descubrir. Mucho más que un simple logro, el sistema de descubrimiento en realidad desbloquea todos los diversos recursos que cualquier recurso encontrado cederá.
+
+Esencialmente, cada arma o herramienta utilizada en un recurso puede producir un artículo diferente, lo que permite una exploración más científica del sistema solar y todas sus formas de vida.
+";
+"Minerals can now be filtered on your updated GPS. This very handy tool, which is now always available in your HUD and no longer attached to your Locator, reads from your surrounding satellites and your own internal suit radar to create detection radii.
+
+This system will show you all the surrounding minerals, their hardness and density, so you can find what you’re looking for in your crafting missions.
+","Los minerales ahora se pueden filtrar en su GPS actualizado. Esta herramienta muy práctica, que ahora está siempre disponible en su HUD y ya no está unida a su localizador, lee desde sus satélites circundantes y su propio radar de traje interno para crear radios de detección.
+
+Este sistema le mostrará a todos los minerales circundantes, su dureza y densidad, para que pueda encontrar lo que está buscando en sus misiones de elaboración.
+";
+"Removal of Build Gates
+","Eliminación de puertas de construcción
+";
+"Options","Opciones";
+"News","Noticias";
+"Multiplayer","Multijugador";
+"Single Player","Un solo jugador";
+"Exit","Salida";
+"New Ability","Nueva habilidad";
+"Status","Estado";
+"EARLY ACCESS","ACCESO TEMPRANO";
+"This new ability unlocks your wildest dreams!","¡Esta nueva habilidad desbloquea tus sueños más salvajes!";
+"Glide Unit Mk. II","Unidad de deslizamiento mk. II";
+"Weight: ","Peso:";
+"Hover Duration: ","Hover Duración:";
+"Hover Height: ","Altura de flores:";
+"Hover Fuel Usage: ","Uso del uso del combustible:";
+"Oxygen Consumption: ","Consumo de oxigeno:";
+"Stamina Usage: ","Uso de la resistencia:";
+"Quartz","Cuarzo";
+"Class: ","Clase:";
+"Amount: ","Monto:";
+"A hardened, white, and sometimes colorless mineral that consists of silicon dioxide.","Un mineral endurecido, blanco y a veces incoloro que consiste en dióxido de silicona.";
+"Cobalt Bolt Rifle","Rifle de perno de cobalto";
+"Bolt Rifle Magazine","Revista de rifle de perno";
+"Remaining Ammo: ","Munición restante:";
+"Clip Size: ","Tamaño del clip:";
+"Damage: ","Daño:";
+"10% critical hit","10% de golpe crítico";
+"Durability Consumption: ","Consumo de durabilidad:";
+"Orcek Meat","Carne de orcek";
+"Health Bonus: ","Bono de salud:";
+"Nutrition Bonus: ","Bono de nutrición:";
+"Meat ripped right off the body of a Orcek. Cook to avoid food poisoning.","La carne se rasgó de inmediato del cuerpo de un orcek. Cocinar para evitar la intoxicación alimentaria.";
+"Gold","Oro";
+"A soft, malleable, ductile metal primarily used in the production of electronic devices due to it's corrosion resistance and electrical conductivity.","Un metal suave, maleable, dúctil utilizado principalmente en la producción de dispositivos electrónicos debido a su resistencia a la corrosión y la conductividad eléctrica.";
+"Reactor Cell","Celda de reactor";
+"Total Weight: ","Peso total:";
+"Ammo charges for the Reactor Pistol. It is automatically used when reloading, if stored in your backpack.","Cargos de munición por la pistola del reactor. Se usa automáticamente al recargar, si se almacena en su mochila.";
+"Grunt","Gruñido";
+"Strength Boosted: ","Fuerza aumentada:";
+"A strong compound created to give a boost to your carrying capacity.","Un compuesto fuerte creado para dar un impulso a su capacidad de transporte.";
+"02 Pump Unit Mk. III","02 unidad de bomba Mk. III";
+"Oxygen Recharge: ","Recarga de oxígeno:";
+"Stamina Recharge: ","RECARGA DE ESTAMIA:";
+"DIA-72 Assault Rounds","Rondas de asalto DIA-72";
+"20% critical hit","20% de golpe crítico";
+"Advanced ammo magazine for the Assault Rifle. It is automatically used when reloading, if stored in backpack.","Magazine avanzada de munición para el rifle de asalto. Se usa automáticamente al recargar, si se almacena en la mochila.";
+"Blood Sausage","Morcilla";
+"Quench Bonus: ","Bonificación de apagado:";
+"Fortitude Boosted: ","Fortaleza impulsada:";
+"A delicious sausage created with congealed alien blood stuffed into an alien intestine. Eat while equipped or straight from inventory.","Una deliciosa salchicha creada con sangre extraterrestre congelada rellena en un intestino alienígena. Comer mientras está equipado o directamente del inventario.";
+"Nickel","Níquel";
+"A metal commonly used in various alloys.","Un metal comúnmente utilizado en varias aleaciones.";
+"Branches","Sucursales";
+"Wood is often used to stoke fires.","La madera se usa a menudo para sofocar los incendios.";
+"Crab Shell","Caparazón del cangrejo";
+"Shell taken from a crab monster, often used to make defenses.","Shell tomado de un monstruo de cangrejo, a menudo solía hacer defensas.";
+"Recovery Unit Mk. III","Unidad de recuperación MK. III";
+"Prevents Fall Damage","Evita daños por caída";
+"Hover Fuel Recharge: ","Coloque la recarga de combustible:";
+"Gold Ingot","Lingote de oro";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1064 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: 1064 ° C
+";
+"Heat Cell","Célula de calor";
+"Ammo charges for the Heat Pistol. It is automatically used when reloading, if stored in your backpack.","Cargos de munición por la pistola de calor. Se usa automáticamente al recargar, si se almacena en su mochila.";
+"Flourine","Flourina";
+"A poisonous gas that will cause severe burns, used in cable insulations and waterproof materials.","Un gas venenoso que causará quemaduras severas, utilizadas en aislamientos de cables y materiales impermeables.";
+"Phencyclidine","Fencticlidina";
+"Potent tranqualizing agent.","Potente agente de tranquilo.";
+"Fire Gem","Gema de fuego";
+"A strange gem that gives off immense heat, its physical properties unknown.","Una extraña gema que emite un inmenso calor, sus propiedades físicas desconocidas.";
+"Alien Organ","Órgano alienígena";
+"An Organ surgically removed from the body of an indigenous alien creature.","Un órgano se retiró quirúrgicamente del cuerpo de una criatura alienígena indígena.";
+"Heat Sink Unit Mk. I","Unidad de disipador de calor MK. I";
+"Cold Resistance: ","Resistencia al frío:";
+"Crab Antenna","Antena de cangrejo";
+"Antenna taken from a crab monsters.","Antena tomada de un monstruo de cangrejo.";
+"Cobalt Assault Rifle","Rifle de asalto de cobalto";
+"0% critical hit","0% de golpe crítico";
+"Mechanized Spanner","Llave inglesa mecanizada";
+"Durability: ","Durabilidad:";
+"Indestructible multi-tool needed for repairing any damaged structures, walls, vehicles, and droids. Also needed to build new walls.","Multi-herramienta indestructible necesaria para reparar cualquier estructura, paredes, vehículos y droides dañados. También se necesita construir nuevas paredes.";
+"Apple","manzana";
+"Nutritious fruit to replenish hunger. Can be eaten while equipped or straight from storage.","Fruta nutritiva para reponer el hambre. Se puede comer mientras está equipado o directamente desde el almacenamiento.";
+"Medical Bandage","Vendaje médico";
+"Heals hitpoints. Can be used while equipped or straight from inventory.","Cura los puntos de golpe. Se puede utilizar mientras está equipado o directamente del inventario.";
+"Scrap Plastic","Plástico de chatarra";
+"Leftover chunk of plastic that need to be melted down and reformed to be useful.","Piedra sobrante de plástico que necesita ser derretido y reformado para ser útil.";
+"Arachnoid Small Leg","Pierna pequeña aracnoidea";
+"The smaller leg of an Arachnoid ripped right off from its body. Used in a variety of crafting recipes.","La pierna más pequeña de un aracnoide se desgarró de su cuerpo. Utilizado en una variedad de recetas de elaboración.";
+"Paradise Bloom","Paradise Bloom";
+"Bloom taken from what looks like an unusual strain of a Birds of Paradise. Can be eaten while equipped or straight from storage.","Bloom tomado de lo que parece una cepa inusual de unas pájaros del paraíso. Se puede comer mientras está equipado o directamente desde el almacenamiento.";
+"U.N.E. Emergency Ration","U.n.e. Ración de emergencia";
+"Packaged nutritional paste commonly found in Emergency kits, can be easily consumed and provides vital sustenance. Eat while equipped or straight from inventory.","La pasta nutricional envasada comúnmente se encuentra en los kits de emergencia, se puede consumir fácilmente y proporciona un sustento vital. Comer mientras está equipado o directamente del inventario.";
+"Small Radar Dish Kit","Kit de plato de radar pequeño";
+"Max Durability: ","Durabilidad máxima:";
+"Kit used to build Small Radar Dish. To build select the Small Radar Dish from the Utilities tab in your Character build Menu.","Kit usado para construir un plato de radar pequeño. Para construir, seleccione el plato de radar pequeño de la pestaña Utilities en el menú de construcción de su carácter.";
+"Mud Cover","Cobertura de lodo";
+"Heat Resistance: ","Resistencia al calor:";
+"Glide Unit Mk. III","Unidad de deslizamiento mk. III";
+"Fuel Compressor Mk. I","Compresor de combustible MK. I";
+"Hover Fuel Amount: ","Cantidad de combustible de flores:";
+"Light Unit","Unidad de luz";
+"Flashlight Power Usage: ","Uso de la energía de la linterna:";
+"Flashlight Range: ","Rango de linterna:";
+"Glide Unit Mk. I","Unidad de deslizamiento mk. I";
+"Heat Pistol","Pistola de calor";
+"Circuit Board","Placa de circuito";
+"Processor used to build complex structures, vehicles, and items.","El procesador se utiliza para construir estructuras complejas, vehículos y artículos.";
+"Plutonium","Plutonio";
+"Highly radioactive energy source.","Fuente de energía altamente radiactiva.";
+"Sand","Arena";
+"Crafting item for forging glass in Furnace or making soil in Chemistry Table.","Artículo de elaboración para forjar vidrio en horno o hacer suelo en la mesa de química.";
+"Hose","Manguera";
+"A Rubber hose.","Una manguera de goma.";
+"Lead","Dirigir";
+"A soft, very dense metal that is commonly used for projectiles and in radiation shielding applications.","Un metal suave y muy denso que se usa comúnmente para proyectiles y en aplicaciones de blindaje de radiación.";
+"Plutonium Ingot","Lingote de plutonio";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 639.4 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: 639.4 ° C
+";
+"Fury","Furia";
+"Stamina Boosted: ","Stamina aumentó:";
+"A strong compound created to give you a boost to your stamina.","Un compuesto fuerte creado para darle un impulso a su resistencia.";
+"Cubic Zirconia","Zirconia cúbica";
+"A cut, refined piece of crystalline Zirconium.","Una pieza cortada, refinada de circonio cristalino.";
+"Storage Unit Mk. I","Unidad de almacenamiento MK. I";
+"Adds Inventory Slots: ","Agrega ranuras de inventario:";
+"Tree Sap","Savia del árbol";
+"Viscous liquid used for crafting more advanced items.","Líquido viscoso utilizado para elaborar artículos más avanzados.";
+"Gnat Teeth","Dientes gnat";
+"Crafting item for building weapon modifications, calcium powder and other items.","Artículo de elaboración para construir modificaciones de armas, polvo de calcio y otros artículos.";
+"Potato","Papa";
+"Raw food that can be eaten to replenish hunger. Is more nutritious when cooked. Can be eaten while equipped or straight from storage.","Alimentos crudos que se pueden comer para reponer el hambre. Es más nutritivo cuando se cocina. Se puede comer mientras está equipado o directamente desde el almacenamiento.";
+"Arachnoid Leg","Pierna aracnoidea";
+"Leg ripped right off the body of a Arachnoid. Used in a variety of crafting recipes.","La pierna arrancó de inmediato del cuerpo de un aracnoide. Utilizado en una variedad de recetas de elaboración.";
+"Sword Leaves","Hojas de espada";
+"Leaves taken from a sword plant used as an ingredient to craft different items. Can be eaten for a small increase in health and nutrition.","Las hojas tomadas de una planta de espada utilizadas como ingrediente para crear diferentes artículos. Se puede comer por un pequeño aumento en la salud y la nutrición.";
+"Sweet Alien Jerky","Dulce alienígena brusca";
+"A delicious piece of candied alien meat. Eat while equipped or straight from inventory.","Una deliciosa pieza de carne extraña confitada. Comer mientras está equipado o directamente del inventario.";
+"Tool Holster","Funda de herramienta";
+"Tree Bark","Corteza de árbol";
+"Bark taken from an indigenous tree used as an ingredient to craft different items.","La corteza tomada de un árbol indígena utilizado como ingrediente para crear diferentes artículos.";
+"Crab Leg Meat","Carne de pierna de cangrejo";
+"Meat taken from the leg of a Crab monster. Cook to avoid food poisoning.","Carne tomada de la pierna de un monstruo de cangrejo. Cocinar para evitar la intoxicación alimentaria.";
+"Reactor Pistol","Pistola de reactor";
+"Fuel Compressor Mk. II","Compresor de combustible MK. II";
+"Cryo Rifle","Rifle cryo";
+"Stim Unit Mk. III","Unidad de STIV MK. III";
+"Rock","Roca";
+"Rocks are used as tools and building materials. To use it as a weapon convert it in your crafting menu to a Bashing Rock.","Las rocas se utilizan como herramientas y materiales de construcción. Para usarlo como un arma lo convierte en su menú de elaboración a un rock de ataque.";
+"Makeshift Chisel","Chisel improvisado";
+"Hardness: ","Dureza:";
+"Makeshift blunt tool used for mining mineral ores with a hardness of 3. It can be reused for melee combat.","Maestriforme de herramientas romas utilizadas para mineral mineral minerales con una dureza de 3. Puede reutilizarse para combatir el combate cuerpo a cuerpo.";
+"Crude Metal Blade","Hoja de metal crudo";
+"A piece of sharpened metal that can be used to make a basic sword.","Un trozo de metal afilado que se puede usar para hacer una espada básica.";
+"A51 Heavy Assault Rifle","Rifle de asalto pesado A51";
+"Broken Hose","Manguera rota";
+"A damaged section of hose, could be patched up to be operational again.","Una sección dañada de la manguera, podría ser remendada para estar operativa nuevamente.";
+"Crude Metal Axe","Hacha de metal crudo";
+"A slashing tool that is essentially a sharpened metal ingot on a stick with some tape.","Una herramienta de corte que es esencialmente un lingote de metal afilado en un palo con algo de cinta.";
+"Bolt Rifle","Rifle de perno";
+"Scrap Hinge","Bisagra de chatarra";
+"A small hinge salvaged from debris.","Una pequeña bisagra rescatada de los escombros.";
+"Medkit","Botiquín";
+"Advanced medical kit that heals a lot of hitpoints. Can be used while equipped or straight from inventory.","Kit médico avanzado que cura muchos puntos de golpe. Se puede utilizar mientras está equipado o directamente del inventario.";
+"Plastic","El plastico";
+"Crafting item for building structures, walls, and other items.","Artículo de elaboración para estructuras de construcción, paredes y otros artículos.";
+"Propellant Tank","Tanque propulsor";
+"Where propellant is stored in a container belonging within a vehicle.","Donde se almacena propulsor en un contenedor que pertenece dentro de un vehículo.";
+"Flare","Llamarada";
+"Bashing Rock","Bashing Rock";
+"Useful when you have no other tools.","Útil cuando no tienes otras herramientas.";
+"Broken Barrel","Barril roto";
+"A Barrel that has been damaged and can no longer store gases. A few patches could make this functional again.","Un barril que ha sido dañado y ya no puede almacenar gases. Algunos parches podrían volver a hacer esto funcional.";
+"Vampire Dust","Polvo de vampiros";
+"Agility Boosted: ","Agilidad impulsada:";
+"Advanced compound created to boost your strength and speed.","Compuesto avanzado creado para aumentar su fuerza y ​​velocidad.";
+"Carbon Ingot","Lingote de carbono";
+"
+
+- Melting point: 3550 °C
+","
+
+- Punto de fusión: 3550 ° C.
+";
+"Inflatable Dome Kit","Kit de cúpula inflable";
+"Kit used to build Inflatable Dome. To build, right-click on Inventory Item and select Build or select the Inflatable Dome from the Structures tab in your Character Menu.","Kit usado para construir una cúpula inflable. Para construir, haga clic con el botón derecho en el elemento de inventario y seleccione Crear o seleccione la cúpula inflable en la pestaña Estructuras en el menú de su caracter.";
+"Grilled Tumbo Meat","Carne de tumbo a la plancha";
+"Meat ripped right off the body of a Tumbo. Has been cooked and is safe to eat.","La carne se arrancó de inmediato del cuerpo de un tumbo. Se ha cocinado y es seguro para comer.";
+"Chisel","Cincel";
+"Powerful blunt tool used for mining mineral ores with a hardness of 7. It can be reused for melee combat.","Potente herramienta contundente utilizada para minería mineral mineral con una dureza de 7. Se puede reutilizar para combatir el combate cuerpo a cuerpo.";
+"Hiking Cleats","Clases de senderismo";
+"25% critical hit","25% de golpe crítico";
+"Ammo magazine for the Bolt Rifle. It is automatically used when reloading, if stored in backpack.","Magazine de munición para el rifle de tornillo. Se usa automáticamente al recargar, si se almacena en la mochila.";
+"Stim Unit Mk. II","Unidad de STIV MK. II";
+"Scrap Metal","Chatarra";
+"Small pieces of metal left over after the greater portion of metal has already been used.","Pequeños trozos de metal sobrantes después de que ya se haya utilizado la mayor parte del metal.";
+"Tungsten Ingot","Lingote de tungsteno";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 3422 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: 3422 ° C
+";
+"Uranium","Uranio";
+"A dense, radioactive metal used commonly in nuclear fission based power generation.
+","Un metal denso y radiactivo se usa comúnmente en la generación de energía basada en la fisión nuclear.
+";
+"Nitrogen","Nitrógeno";
+"An odorless and colorless component of nucleic acids, amino acids, and thus proteins, important to create fertilisers and explosives.","Un componente inodoro e incoloro de los ácidos nucleicos, los aminoácidos y, por lo tanto, las proteínas, importantes para crear fertilizantes y explosivos.";
+"Cobalt","Cobalto";
+"A metal often used in the creation of magnets, batteries and as an additive in wear-resistant alloys.","Un metal se usa a menudo en la creación de imanes, baterías y como aditivo en aleaciones resistentes al desgaste.";
+"Pipe","Tubo";
+"50% critical hit","50% de golpe crítico";
+"A basic formed pipe, can be used as a melee weapon.","Una tubería formada básica, se puede utilizar como un arma cuerpo a cuerpo.";
+"Makeshift Laser Chisel","Chisel láser improvisado";
+"An overclocked makeshift laser that can slowly sample the hardest minerals, its short battery life makes it a poor mining device.","Un láser improvisado overclockeado que puede muestrear lentamente los minerales más duros, su vida útil corta de la batería lo convierte en un dispositivo de minería deficiente.";
+"D24k Assault Rounds","Rondas de asalto D24K";
+"Zirconium Circuit Board","Placa de circuito de circonio";
+"Mother board made using zirconium and used when building certain complex structures, vehicles, and items.","Placa madre hecha con circonio y se usa al construir ciertas estructuras complejas, vehículos y artículos.";
+"Yellow Pedal Flower","Flor amarilla del pedal";
+"Indigenous fungus found in the wild. It's poisonous to eat, but can be used to craft special items.","Fungus indígena encontrado en la naturaleza. Es venenoso comer, pero se puede utilizar para crear artículos especiales.";
+"Wrench","Llave inglesa";
+"A basic multi-tool that can be used for repairing, salvaging, and precise tinkering.","Una multi-herramienta básica que se puede usar para reparar, rescatar y desventajas precisas.";
+"Battery","Batería";
+"Replaces depleted battery in flashlight.","Reemplaza la batería agotada en linterna.";
+"Gem Leaf Fruit","Fruta de la hoja de gema";
+"Very nutritious food to replenish hunger. Can be eaten while equipped or straight from storage.","Comida muy nutritiva para reponer el hambre. Se puede comer mientras está equipado o directamente desde el almacenamiento.";
+"Azurnium","Azurnio";
+"Strange crystal with sparsely understood physical properties. Useful in High-Tech devices.","Cristal extraño con propiedades físicas escasamente entendidas. Útil en dispositivos de alta tecnología.";
+"Shaped Crab Antenna","Antena de cangrejo en forma";
+"A shaped fragment of a Crab Antenna, could be fashioned into a crude precision tool.","Un fragmento formado de una antena de cangrejo, podría formarse en una herramienta de precisión cruda.";
+"Blitz","Bombardeo aéreo";
+"A weak compound created to give a small boost to your stamina.","Un compuesto débil creado para dar un pequeño impulso a su resistencia.";
+"Fungus","Hongo";
+"Heat Sink Unit Mk. III","Unidad de disipador de calor MK. III";
+"Light Unit Mk. I","Unidad de luz mk. I";
+"Crude Pipe","Tubo crudo";
+"A crude pipe fashioned from bent scrap metal.","Un tubo crudo de forma de chatarra doblada.";
+"Orcek Soup","Sopa de orcek";
+"Delicious broth preserved in highly mobile packaging. Eat while equipped or straight from inventory.","Delicioso caldo conservado en envases altamente móviles. Comer mientras está equipado o directamente del inventario.";
+"Charge Rifle","Rifle de carga";
+"Hydrogen","Hidrógeno";
+"A highly-flammable gas that is without both color and odor, and is used mainly as rocket fuel for energy.","Un gas altamente inflamable que es sin color y olor, y se usa principalmente como combustible de cohete para la energía.";
+"Obsidian","Obsidiana";
+"A volcanic glass capable of being knapped into sharp blades.","Un vidrio volcánico capaz de estar desnudado en cuchillas afiladas.";
+"Gnat Hook","Gancho gnat";
+"Crafting item for building weapon modifications, calcium powder 
+and other items.","Artículo de elaboración para la construcción de modificaciones de armas, polvo de calcio
+y otros artículos.";
+"White Gold","Oro blanco";
+"A malleable alloy used most commonly in jewelry, could be used for manufaturing small parts.","Una aleación maleable utilizada más comúnmente en joyería, podría usarse para fabricar partes pequeñas.";
+"Zircaloy","Zircaloy";
+"High heat, hardness, and corrosion resistant alloy.","Alto calor, dureza y aleación resistente a la corrosión.";
+"Zinc","Zinc";
+"A brittle metal generally used as an anti-corrosive coating and in various alloys.","Un metal quebradizo generalmente se usa como un revestimiento anticorrosivo y en varias aleaciones.";
+"Snake Stew","Guiso de serpiente";
+"Gnat Meat","Carne de gnat";
+"Meat ripped right off the body of a Gnat. Cook to avoid food poisoning.","La carne se arrancó de inmediato del cuerpo de un gnat. Cocinar para evitar la intoxicación alimentaria.";
+"Oxygen","Oxígeno";
+"A life-supporting colorless and odorless gas.","Un gas incoloro y sin incoloro de la vida.";
+"Solar Unit","Unidad solar";
+"Flashlight Battery Recharge: ","Batería de linterna recarga:";
+"Key Card Tier-2","Tarjeta de llave Tier-2";
+"A mid-level clearance keycard used to open Osiris mission doors in abandoned settlements and mines.","Una llave de autorización de nivel medio solía abrir las puertas de la misión de Osiris en asentamientos y minas abandonadas.";
+"Light Range Extender","Extensor de rango de luz";
+"Cast Iron","Hierro fundido";
+"High-Carbon steel alloy that is strong under compression and can be used for armor plating.","Aleación de acero de alto contenido de carbono que es fuerte bajo compresión y se puede utilizar para la armadura.";
+"Alien Fiber","Fibra alienígena";
+"Fibrous material harvested from indigenous plantlife. Can be woven into cloth that is an ingredient to craft many different items.","Material fibroso cosechado de plantilla indígena. Se puede tejer en tela que es un ingrediente para crear muchos elementos diferentes.";
+"Leather","Cuero";
+"Tanned piece of animal skin used in crafting.
+","Pieza bronceada de piel animal utilizada en la elaboración.
+";
+"Assault Rifle","Fusil de asalto";
+"Talonite","Talonita";
+"Durable alloy that holds an edge very well. Used in high precision applications.","Aleación duradera que mantiene un borde muy bien. Utilizado en aplicaciones de alta precisión.";
+"Blaster Cell","Célula blaster";
+"Basic laser blaster cell.","Célula Básica de Blaster.";
+"Assault Rifle Commander","Comandante de rifle de asalto";
+"Land Mine Set","Conjunto de mina de tierra";
+"An explosive device that is used for defending you and your colony.","Un dispositivo explosivo que se usa para defenderte a usted y a su colonia.";
+"Lonsdaleite","Lonsdaleite";
+"An allotrope of carbon that is a precursor to the crystalline formation of diamonds.","Un alootrope de carbono que es un precursor de la formación cristalina de diamantes.";
+"Booster Unit Mk. II","Unidad de refuerzo Mk. II";
+"Titanium","Titanio";
+"A low density, high strength metal commonly used in aeronautical crafts due to its high tensile strenght to density ratio and corrosion resistance.","Un metal de alta densidad y alta resistencia se usa comúnmente en artesanías aeronáuticas debido a su alta resistencia a la tracción a la proporción de densidad y la resistencia a la corrosión.";
+"Alien Meat","Carne extraterrestre";
+"Meat ripped right off the body of an indigenous alien creature. Cook to avoid food poisoning.","La carne se arrancó de inmediato del cuerpo de una criatura alienígena indígena. Cocinar para evitar la intoxicación alimentaria.";
+"Alien Tissue","Tejido extraño";
+"Tissue ripped right off the body of an indigenous alien creature.","El tejido arrancó de inmediato del cuerpo de una criatura alienígena indígena.";
+"Steel","Acero";
+"Complex metal used for building advanced structures and walls.
+
+- Melting point: 1370 °C
+","Metal complejo utilizado para construir estructuras avanzadas y paredes.
+
+- Punto de fusión: 1370 ° C.
+";
+"Solar Unit Mk. I","Unidad solar mk. I";
+"Desert Yuccudis Fruit","Fruta de Yuccudis del desierto";
+"Nutritious fruit to replenish hunger and slightly damage your health. Can be eaten while equipped or straight from storage. Also used as an ingredient in the crafting of some items.","Fruta nutritiva para reponer el hambre y dañar ligeramente su salud. Se puede comer mientras está equipado o directamente desde el almacenamiento. También se utiliza como ingrediente en la elaboración de algunos artículos.";
+"Heat Sink Unit Mk. II","Unidad de disipador de calor MK. II";
+"Glide Unit","Unidad de deslizamiento";
+"Gravity Strength: ","Fuerza de la gravedad:";
+"Scrap Rubber","Goma de chatarra";
+"Small pieces of rubber that need to be melted down and reformed to be useful.","Pequeñas piezas de goma que deben ser derretidas y reformadas para ser útiles.";
+"Crab Stew","Estofado de cangrejo";
+"A delicious stew with added Crab Meat, Potatoes, and Carrots. Eat while equipped or straight from inventory.","Un delicioso estofado con carne de cangrejo agregada, papas y zanahorias. Comer mientras está equipado o directamente del inventario.";
+"Skeliopod Tail","Skeliopod Tail";
+"Tail taken from a Skeliopod to be used for crafting purposes.","Cola tomada de un skeliopod que se utilizará para fines de artesanía.";
+"02 Pump Unit Mk. I","02 unidad de bomba Mk. I";
+"Light Unit Mk. III","Unidad de luz mk. III";
+"Explosive","Explosivo";
+"A chemical explosive.","Un explosivo químico.";
+"Chromium","Cromo";
+"A hard metal that is the main additive in stainless steel due to its increase in strengthening and corrosion resistance when alloying.","Un metal duro que es el aditivo principal en acero inoxidable debido a su aumento en el fortalecimiento y la resistencia a la corrosión al alear.";
+"Crab Eye","Ojo de cangrejo";
+"Eye recovered from a crab monster.","Ojo recuperado de un monstruo de cangrejo.";
+"Afterburner","Abeto";
+"A weak compound created to give a small boost to your carrying capacity.","Un compuesto débil creado para dar un aumento pequeño a su capacidad de transporte.";
+"Arctlily","Arctlily";
+"Petals from an Arctlily, thrives in extremely cold climates.","Pétalos de una arctlildad, prospera en climas extremadamente fríos.";
+"Stim Unit Mk. I","Unidad de STIV MK. I";
+"Backpack Storage","Mochila de almacenamiento";
+"T19 Assault Rounds","T19 Rondas de asalto";
+"5% critical hit","5% de golpe crítico";
+"Broken Glass","Vidrio roto";
+"Fragments of glass. Would need to be melted and reformed to create usable glass.","Fragmentos de vidrio. Tendría que ser derretido y reformado para crear vidrio utilizable.";
+"Grilled Orcek Meat","Carne de orche a la parrilla";
+"Meat ripped right off the body of an Orcek. Has been cooked and is safe to eat.","La carne se arrancó de inmediato del cuerpo de un orcek. Se ha cocinado y es seguro para comer.";
+"Cloth Bundle","Haz de tela";
+"A bundle of tightly woven fibers.","Un paquete de fibras estrechamente tejidas.";
+"Bronze","Bronce";
+"A basic alloy commonly used as a material for mechanical parts in modern times.","Una aleación básica comúnmente utilizada como material para partes mecánicas en los tiempos modernos.";
+"Aluminum Ingot","Lingote de aluminio";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 660.3 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: 660.3 ° C
+";
+"Titanium Ingot","Lingote de titanio";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1668 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: 1668 ° C.
+";
+"Diamond Chisel","Cincel de diamante";
+"A chisel with a diamond tip that can chip away at the hardest of minerals.","Un cincel con una punta de diamante que puede quitarte el más duro de los minerales.";
+"Conduit Bender","Doblador de conductos";
+"A heavy blunt weapon commonly used for bending pipes. Makes for an effective bludgeoning weapon.","Una pesada arma contundente comúnmente utilizada para doblarse tuberías. Hace para un arma eficaz.";
+"Data Disk SN:134.33","Data Disk SN: 134.33";
+"Status: ","Estado:";
+" (3 chances)"," (3 oportunidades)";
+"Booster Unit Mk. III","Unidad de refuerzo Mk. III";
+"Unlocks Ability: ","Desbloquea la habilidad:";
+"Blue Palms","Palmas azules";
+"Large blue palms taken from an indiginous plant that are used as an ingredient to craft many different items.","Grandes palmas azules tomadas de una planta indiginosa que se utilizan como ingrediente para crear muchos elementos diferentes.";
+"Tungsten","Tungsteno";
+"A hard, dense metal often used to make hard material alloys and armor-piercing projectiles.","Un metal duro y denso que se usa a menudo para hacer las aleaciones de materiales difíciles y los proyectiles perforantes de armadura.";
+"Skeliopod Shell","Shell skeliopod";
+"Shell taken from a Skeliopod to be used for building defensive walls.","Shell tomado de un skeliopod que se utilizará para construir paredes defensivas.";
+"Crab Meat","Carne de cangrejo";
+"Meat taken from the body of a Crab monster. Cook to avoid food poisoning.","Carne tomada del cuerpo de un monstruo de cangrejo. Cocinar para evitar la intoxicación alimentaria.";
+"Fuel Compressor","Compresor de combustible";
+"Zirconium","Circonio";
+"A lustrous metal primarily used as a refractory and opacifier.","Un metal lustroso se utiliza principalmente como un refractario y opacificador.";
+"Scrap Antenna","Antena de chatarra";
+"Pieces of antenna's that have been left over.","Piezas de antena que se han dejado.";
+"Hydrochloric Acid","Ácido clorhídrico";
+"Violent chemical used to disintegrate matter.","Químico violento utilizado para desintegrar la materia.";
+"Shovel","Pala";
+"Tool used to gather Sand for use in crafting.","Herramienta utilizada para recolectar arena para su uso en la elaboración.";
+"Shard Blade","Hoja de fragmento";
+"A small sharp weapon made from a rock shard.","Una pequeña arma afilada hecha de un fragmento de roca.";
+"Steamed Carrot","Zanahoria al vapor";
+"Nutritious steamed carrot. Eat while equipped or straight from inventory.","Nutritiva zanahoria al vapor. Comer mientras está equipado o directamente del inventario.";
+"Suit Heater","Calentador de traje";
+"Recovery Unit","Unidad de recuperación";
+"Damage Taken: ","Daños tomados:";
+"Stone Shovel","Pala de piedra";
+"Wire","Cable";
+"Complex material used for crafting complex electric devices.","Material complejo utilizado para elaboración de dispositivos eléctricos complejos.";
+"Voice Log1","Log1 de voz1";
+"VoiceLog1","VoiceLog1";
+"02 Pump Unit Mk. II","02 unidad de bomba Mk. II";
+"Zoom","Zoom";
+"A compound created to give a boost to your speed.","Un compuesto creado para dar un impulso a su velocidad.";
+"Zirconium Plate","Placa de circonio";
+"Metal plating used for building certain advanced structures and walls.
+
+- Melting point: 1370 °C
+","Chapado metálico utilizado para construir ciertas estructuras avanzadas y paredes.
+
+- Punto de fusión: 1370 ° C.
+";
+"Tactical Knife","Cuchillo táctico";
+"The Tactical Knife is a sharp weapon that is quieter to use than most weapons.","El cuchillo táctico es un arma afilada que es más tranquila para usar que la mayoría de las armas.";
+"Lens Cover","Cubierta de lentes";
+"Tumbo Meat","Carne tumbo";
+"Meat taken from the body of a Tumbo. Cook to avoid food poisoning.","Carne tomada del cuerpo de un tumbo. Cocinar para evitar la intoxicación alimentaria.";
+"Skeliopod Stew","Estofado de skeliopod";
+"A-2 Heavy Assault Rounds","A-2 Rondas de asalto pesado";
+"Advanced ammo magazine for the Heavy Assault Rifle. It is automatically used when reloading, if stored in backpack.","Magazine avanzada de munición para el rifle de asalto pesado. Se usa automáticamente al recargar, si se almacena en la mochila.";
+"Stone Axe","Hacha de piedra";
+"A slashing tool that is essentially a rock on a stick with a nice handle.","Una herramienta de corte que es esencialmente una roca en un palo con un mango agradable.";
+"Makeshift Cloth Bundle","Paquete de tela improvisado";
+"A makeshift bundle of loosely woven fibers.","Un haz improvisado de fibras libremente tejidas.";
+"Stone Blade","Hoja de piedra";
+"A sharpened rock that can be used to make a blade.","Una roca afilada que se puede usar para hacer una cuchilla.";
+"Stone Axe Head","Cabeza de piedra";
+"A sharpened rock that can be used to make an axe","Una roca afilada que se puede usar para hacer un hacha.";
+"Beetle Ball","Bola de escarabajo";
+"Sack taken from a Skeliopod.","Saco tomado de un skeliopod.";
+"Gnat Leg","Pierna de gnat";
+"Leg ripped right off the body of a Gnat. The meat can be cooked or the bone from the leg can be used to make a weapon.","La pierna arrancó de inmediato del cuerpo de un gnat. La carne se puede cocinar o el hueso de la pierna se puede usar para hacer un arma.";
+"Bark","Ladrar";
+"Tree bark is used as an ingrediant to make different items in chemistry.","La corteza de árbol se utiliza como ingrediente para hacer diferentes artículos en química.";
+"Water","Agua";
+"Liquid used for crafting more advanced items. Can also be drank to quench thirst.","Líquido utilizado para la elaboración de artículos más avanzados. También se puede beber para apagar la sed.";
+"Coral Branches","Ramas de coral";
+"Branches taken from a fan coral used as an ingredient to make different items in chemistry.","Las ramas tomadas de un coral de ventilador utilizadas como ingrediente para hacer diferentes artículos en química.";
+"Botany Kit","Kit de botánica";
+"Tool used for extracting fluids from plants and creatures.","Herramienta utilizada para extraer líquidos de plantas y criaturas.";
+"Copper","Cobre";
+"A soft, ductile metal with high electrical and thermal conductivity, commonly used in electrical wiring.","Un metal suave y dúctil con alta conductividad eléctrica y térmica, comúnmente utilizada en el cableado eléctrico.";
+"P C X","P c x";
+"Liquid used for crafting more advanced items.","Líquido utilizado para la elaboración de artículos más avanzados.";
+"Urchin Shell","Cáscara de erizo";
+"Part of an urchin found on land. It's dangerous to eat raw, but can be used for crafting and cooking.","Parte de un erizo encontrado en la tierra. Es peligroso comer crudo, pero puede ser utilizado para la elaboración y cocción.";
+"Hydrogen Torch","Antorcha de hidrógeno";
+"Fern Tree Berry","Helecho árbol berry";
+"Charred Alien Bits","Bits alienígenas carbonizados";
+"Bits of Alien Meat quickly cooked in extremely high temperature, not too tasty, but its technically safe to eat.","Los trozos de carne extraterrestre se cocinan rápidamente en temperatura extremadamente alta, no demasiado sabrosos, pero son técnicamente seguros para comer.";
+"Alien Hide","Escondite alienígena";
+"Hide skinned from the body of an indigenous alien creature.","Ocultar piel del cuerpo de una criatura alienígena indígena.";
+"Crab Egg","Huevo de cangrejo";
+"Egg taken from the body of a Crab monster. Cook to avoid food poisoning.","Huevo tomado del cuerpo de un monstruo de cangrejo. Cocinar para evitar la intoxicación alimentaria.";
+"Scrap Dish","Plato de chatarra";
+"Dish parts that have been left over.","Platos que se han dejado.";
+"Molybdenum","Molibdeno";
+"A metal that is commonly used for the strengthening of steel.","Un metal que se usa comúnmente para el fortalecimiento del acero.";
+"Iron","Hierro";
+"A moderately soft metal commonly used as a structural material when alloyed with other elements, mostly in the form of Steel.","Un metal moderadamente suave se usa comúnmente como material estructural cuando se aleó con otros elementos, principalmente en forma de acero.";
+"Arachnoid Meat","Carne aracnoidea";
+"Meat ripped right off the body of a Arachnoid. Cook to avoid food poisoning.","La carne se rasgó de inmediato del cuerpo de un aracnoide. Cocinar para evitar la intoxicación alimentaria.";
+"Stone Shovel Head","Cabeza de piedra de piedra";
+"A shaped rock that can be used to make a shovel.","Una roca con forma que se puede usar para hacer una pala.";
+"Sponge Tubes","Tubos de esponja";
+"Tubes taken from a sponge tube trees used as an ingredient to make different items in chemistry.","Tubos tomados de un tubo de esponja Los árboles utilizados como ingredientes para hacer diferentes artículos en química.";
+"Tumbo Soup","Sopa de tumbo";
+"Orcek Leg","Pierna de orck";
+"Leg ripped right off the body of a Orcek. Cook to avoid food poisoning.","La pierna se arrancó de inmediato del cuerpo de un orcek. Cocinar para evitar la intoxicación alimentaria.";
+"Grilled Alien Meat","Carne alienígena a la parrilla";
+"Meat ripped right off the body of an indigenous alien creature. Has been cooked and is safe to eat.","La carne se arrancó de inmediato del cuerpo de una criatura alienígena indígena. Se ha cocinado y es seguro para comer.";
+"Storage Unit Mk. II","Unidad de almacenamiento MK. II";
+"Data Disk SN:144.22","Disco de datos SN: 144.22";
+"Redfern Tree Berry","Redfern Tree Berry";
+"Nutritious fruit to replenish hunger and will slightly improve your health. Can be eaten while equipped or straight from storage. Also used as an ingredient in the crafting of some items.","Fruta nutritiva para reponer el hambre y mejorará ligeramente su salud. Se puede comer mientras está equipado o directamente desde el almacenamiento. También se utiliza como ingrediente en la elaboración de algunos artículos.";
+"Moonshroom","Moonshroom";
+"Indigenous fungus found on the surface of Lutari. It's edible, but isn't very nutritious.","Fungus indígena encontrado en la superficie de Lutari. Es comestible, pero no es muy nutritivo.";
+"Brass","Latón";
+"Soft alloy that excels in low friction applications.","Aleación suave que sobresale en aplicaciones de baja fricción.";
+"Cryo Rifle Ammo","Munición de rifle cryo";
+"Advanced water filled ammo clip for a Cryo Rifle. This water filled container can only be fabricated in and advanced fabricator.","Clip avanzado de munición llena de agua para un rifle cryo. Este recipiente lleno de agua solo se puede fabricar y fabricante avanzado.";
+"Tumbo Leg","Pierna tumbo";
+"Leg taken from the body of a Tumbo. Cook to avoid food poisoning.","Pierna tomada del cuerpo de un tumbo. Cocinar para evitar la intoxicación alimentaria.";
+"Berry Juice","Berry jugo";
+"A syrupy, tart juice created from cooked berries.","Un jarabe, jugo de tarta creado a partir de bayas cocidas.";
+"Magnesium","Magnesio";
+"A metal susceptible to corrosion commonly used in creating lightweight materials and alloys.","Un metal susceptible a la corrosión comúnmente utilizado en la creación de materiales y aleaciones ligeras.";
+"Cooked Orcek Egg","Huevo de orcek cocido";
+"Delicious cooked Orcek Egg. Eat while equipped or straight from inventory.","Delicioso huevo cocinado de orcek. Comer mientras está equipado o directamente del inventario.";
+"Hydrocarbon Solution","Solución de hidrocarburos";
+"A solution rich in hydrocarbons, very flamable and combustible, can be refined into a better fuel.","Una solución rica en hidrocarburos, muy flamable y combustible, puede refinarse en un mejor combustible.";
+"Methane Gas","Gas metano";
+"A flammable gas that is both colorless and odorless. It is the main constituent of natural gas, as well as the simplest member of the alkane series of hydrocarbons.","Un gas inflamable que es incoloro e inodoro. Es el principal constituyente de gas natural, así como el miembro más simple de la serie alcana de hidrocarburos.";
+"Data Disk SN:851.47","Data Disk SN: 851.47";
+" (0 chances)"," (0 oportunidades)";
+"Radar Scanner","Escáner de radar";
+"Advanced handheld Radar Scanner used for navigating terrain and scanning for resources based on their elemental density. Equip item to activate scanner.","Scanner de radar de mano avanzado utilizado para navegar por terrenos y escanear los recursos basados ​​en su densidad elemental. Equipar el elemento para activar el escáner.";
+"Gnat Stew","Guiso de gnat";
+"Snake Spikes","Espigas de serpientes";
+"Spikes taken from the back of a snake.","Picos tomados de la parte posterior de una serpiente.";
+"Cobalt Pistol","Pistola de cobalto";
+"Laser Cell","Célula láser";
+"15% critical hit","15% de golpe crítico";
+"Broken Circuit Board","Placa de circuito roto";
+"A Circuit Board that has been broken and is missing some circuitry, could be repaired to be functional again.","Una placa de circuito que se ha roto y le falta algunos circuitos, podría ser reparado para ser funcional nuevamente.";
+"Dragon Tooth","Diente de dragón";
+"Powerful piercing melee weapon with a sharp obsidian blade.","Poderoso arma cuerpo a cuerpo perforada con una cuchilla obsidiana afilada.";
+"Arachnoid Teeth","Dientes arácnicos";
+"Hover Booster","Hover Booster";
+"Stim Unit","Unidad de estímulo";
+"Nichrome","Nichrome";
+"An alloy with high electrical resistance commonly used in heating elements.","Una aleación con alta resistencia eléctrica comúnmente utilizada en los elementos de calefacción.";
+"Crude Metal Sword","Espada de metal crudo";
+"60% critical hit","60% de golpe crítico";
+"A crude sharp weapon made from a piece of sharpened metal. ","Una arma nítida bruta hecha de un trozo de metal afilado.";
+"Solar Unit Mk. III","Unidad solar mk. III";
+"Lithium","Litio";
+"The lightest and least dense metal, while commonly used in the creation of batteries, can also be used in air purification applications.","El metal más ligero y menos denso, aunque comúnmente se usa en la creación de baterías, también se puede utilizar en aplicaciones de purificación de aire.";
+"Masking Tape","Cinta adhesiva";
+"Suit Integrity Bonus: ","Bono de integridad del traje:";
+"IMPORTANT! Use masking tape to repair suit punctures. Can be used while equipped or straight from inventory.","¡IMPORTANTE! Use cinta adhesiva para reparar los pinchazos de traje. Se puede utilizar mientras está equipado o directamente del inventario.";
+"Cinna Fern","Helecho de cane";
+"Leather Straps","Correas de cuero";
+"Sections of leather used in crafting.","Secciones de cuero utilizado en la elaboración.";
+"Recovery Unit Mk. II","Unidad de recuperación MK. II";
+"Fuel Compressor Mk. III","Compresor de combustible MK. III";
+"Wrath","Ira";
+"Advanced compound created to increase your carrying capacity and stamina.","Compuesto avanzado creado para aumentar su capacidad de transporte y resistencia.";
+"Gunmetal","Gunmetal";
+"Corrosion resistant alloy commonly used in weapons.","Aleación resistente a la corrosión comúnmente utilizada en armas.";
+"Flourescence","Florecencia";
+"Liquid that has lumenescent properties.","Líquido que tiene propiedades lumenescentes.";
+"Magnesium Ingot","Lingote de magnesio";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 650 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: 650 ° C.
+";
+"Silver","Plata";
+"A precious metal with very high electrical and thermal conductivity.","Un metal precioso con una conductividad eléctrica y térmica muy alta.";
+"Metal material found off of broken human made structures and vehicles. Can be recycled into other materials or used to create makeshift structures and other items.","Material metálico encontrado de estructuras y vehículos hechos humanos rotos. Se puede reciclar en otros materiales o usarse para crear estructuras improvisadas y otros artículos.";
+"Cooling Unit Mk. III","Unidad de enfriamiento mk. III";
+"Blue Blades","Cuchillas azules";
+"Blades taken from a Blueblade plant used as an ingredient to craft different items. Can also be eaten.","Hojas tomadas de una planta BlueBlade utilizada como ingrediente para organizar diferentes artículos. También se puede comer.";
+"Lava Leaves","Hojas de lava";
+"Lava leaves are used as an ingredient to craft different items. Can be eaten for a small increase in health and nutrition.","Las hojas de lava se utilizan como ingredientes para crear diferentes artículos. Se puede comer por un pequeño aumento en la salud y la nutrición.";
+"Data Disk SN:251.35","Data Disk SN: 251.35";
+"Makeshift Screwdriver","Destornillador improvisado";
+"A makeshift multi-tool fashioned from scrap metal to allow for repairing, salvaging, and precise tinkering.","Una multi-herramienta improvisada de forma de chatarra para permitir la reparación, rescate y tiniebras precisas.";
+"Spicy Sausage Gumbo","Salchicha picante Gumbo";
+"An extravagant, delicious stew with multiple types of meats and vegetables. Eat while equipped or straight from inventory.","Un guiso extravagante, delicioso con múltiples tipos de carnes y verduras. Comer mientras está equipado o directamente del inventario.";
+"C19 Heavy Assault Rifle","Rifle de asalto pesado C19";
+"Human Waste","Desechos humanos";
+"Fertilizer to be mixed with Sand to create Soil for growing crops.","Fertilizante para mezclar con arena para crear suelo para cultivar cultivos.";
+"O2 Pump","Bomba O2";
+"Cooked Crab Egg","Huevo de cangrejo cocido";
+"Delicious cooked Crab Monster Egg. Eat while equipped or straight from inventory.","Delicioso huevo de monstruo de cangrejo cocido. Comer mientras está equipado o directamente del inventario.";
+"Azure Rifle Magazine","Revista Azure Rifle";
+"Ammo magazine for the Assault Rifle. It is automatically used when reloading, if stored in backpack.","Magazine de munición para el rifle de asalto. Se usa automáticamente al recargar, si se almacena en la mochila.";
+"Magnalium","Magnalio";
+"An alloy with high strength, workability and low density commonly used in various vehicles types.","Una aleación con alta resistencia, trabajabilidad y baja densidad comúnmente utilizada en varios tipos de vehículos.";
+"Frenzy","Frenesí";
+"Advanced compound created to increase your health and stamina.","Compuesto avanzado creado para aumentar su salud y resistencia.";
+"Aluminum","Aluminio";
+"A low-density metal that is highly conductive and resist to corrosion.","Un metal de baja densidad que es altamente conductor y resiste a la corrosión.";
+"Dymalloy","Dymalloy";
+"Conductive alloy used for high-powered electronics.","Aleación conductora utilizada para electrónica de alta potencia.";
+"Carrot","Zanahoria";
+"Nutritious vegetable to replenish hunger. Can be eaten while equipped or straight from storage.","Verdura nutritiva para reponer el hambre. Se puede comer mientras está equipado o directamente desde el almacenamiento.";
+"Snow","Nieve";
+"Pile of frozen water flakes.","Pila de copos de agua congelados.";
+"Dirty Water","Agua sucia";
+"Liquid water to be drank for quenching thirst. This will be bad for your nutrition but the water can be purified using some simple chemistry.","Agua líquida para beber para apagar la sed. Esto será malo para su nutrición, pero el agua se puede purificar utilizando algo de química simple.";
+"Cooling Unit Mk. II","Unidad de enfriamiento mk. II";
+"Diamond","Diamante";
+"A crystalline form of pure carbon with immensely high hardness and thermal conductivity, commonly used in industrial cutting and grinding applications.","Una forma cristalina de carbono puro con una dureza inmensamente alta y conductividad térmica, comúnmente utilizada en aplicaciones de corte y molienda industriales.";
+"Dyno","Dyno";
+"A weak compound created to give a small boost to your speed.","Un compuesto débil creado para dar un pequeño impulso a su velocidad.";
+"Pistol","Pistola";
+"Lithium Ingot","Lingoteo de litio";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 180.5 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: 180.5 ° C
+";
+"Pick Axe","Pico";
+"Large slashing tool that is primarily for mining but can be used in self defense.","Gran herramienta de arranque que es principalmente para la minería, pero se puede usar en defensa propia.";
+"Assault Rifle Magazine","Revista de rifle de asalto";
+"Booster Unit Mk. I","Unidad de refuerzo Mk. I";
+"Anvil","Yunque";
+"A strong compound created to give a boost to your health.","Un compuesto fuerte creado para dar un impulso a su salud.";
+"Meat Stew","Guiso de carne";
+"Simple Meat broth, an improvement over basic charred meat. Eat while equipped or straight from inventory.","Caldo de carne simple, una mejora sobre la carne carbonizada básica. Comer mientras está equipado o directamente del inventario.";
+"Light Unit Mk. II","Unidad de luz mk. II";
+"Charge Cell","Célula de carga";
+"Advanced portable power source made in a printer or fabricator. Used as a power source for the charge rifle.","Fuente de alimentación portátil avanzada realizada en una impresora o fabricante. Utilizado como fuente de energía para el rifle de carga.";
+"Orcek Egg","Huevo de orce";
+"Egg taken from an Orcek. Cook to avoid food poisoning.","Huevo tomado de un orcek. Cocinar para evitar la intoxicación alimentaria.";
+"Broken Computer Screen","Pantalla de computadora rota";
+"A computer with a screen that is defective.","Una computadora con una pantalla que está defectuosa.";
+"Dull Survival Knife","Cuchillo de supervivencia opaco";
+"A Survival Knife is a slashing tool that is an essential part of all U.N.E. standard issue Emergency Kits. Not sharp enough to precisely skin creatures, but could be used to separate plant fibers or butcher meat in a pinch.","Un cuchillo de supervivencia es una herramienta que es una parte esencial de todo lo que u.N.E. Problema estándar de kits de emergencia. No es lo suficientemente agudo como para las criaturas de la piel precisamente, pero se podría usar para separar las fibras de la planta o la carne de carnicero en un pellizco.";
+"Sulfur","Azufre";
+"A nonmetallic element that is commonly used in chemical applications and as a component in fertilizers.","Un elemento no metálico que se usa comúnmente en aplicaciones químicas y como componente en fertilizantes.";
+"Oxygen Scrubber","Scrubber de oxígeno";
+"Snake Meat","Carne de serpiente";
+"Meat ripped right off the body of a snake. Cook to avoid food poisoning.","La carne se arrancó de inmediato del cuerpo de una serpiente. Cocinar para evitar la intoxicación alimentaria.";
+"Power Cell","Celda de poder";
+"A basic lithium-ion power cell.","Una celda básica de energía de iones de litio.";
+"Hydrazine","Hidrazina";
+"Highly explosive gas commonly used to fuel rockets.","Gas altamente explosivo comúnmente utilizado para combinar cohetes.";
+"Crab Scythe","Cangrejo Scythe";
+"Melee weapon made from the talon of a crab monster.","Arma cuerpo a cuerpo hecha de la garra de un monstruo de cangrejo.";
+"Tin","Estaño";
+"A soft metal commonly used in various alloys and as a coating to prevent corrosion.","Un metal suave comúnmente utilizado en varias aleaciones y como recubrimiento para prevenir la corrosión.";
+"Horse Bract","Brácteo de caballo";
+"Horse bract are used as an ingredient to craft different items.","La bráctea del caballo se utiliza como ingrediente para crear diferentes artículos.";
+"Targe","Targue";
+"A weak compound created to give you a small boost to your health.","Un compuesto débil creado para darle un pequeño impulso a su salud.";
+"Makeshift Bandage","Vendaje improvisado";
+"Orcek Stew","Guiso de orcek";
+"A delicious stew with added Orcek Meat and Carrots. Eat while equipped or straight from inventory.","Un delicioso estofado con carne y zanahorias agregadas de orcek. Comer mientras está equipado o directamente del inventario.";
+"Duralumin","Duraluminio";
+"An alloy with a high strength to weight ratio commonly used on vehicles and aircraft.","Una aleación con una relación de alta resistencia a peso comúnmente utilizada en vehículos y aeronaves.";
+"Glass","Vidrio";
+"Crafting item for building structures, walls, and other items.
+","Artículo de elaboración para estructuras de construcción, paredes y otros artículos.
+";
+"Cooling Unit Mk. I","Unidad de enfriamiento mk. I";
+"Soil","Tierra";
+"Natural crafting agent for growing crops in a Bio Dome.","Agente de elaboración natural para cultivar cultivos en una biogota.";
+"Psychroptera","Psicróptero";
+"Fleshy growth from a Psychroptera.","Crecimiento carnoso de un psicróptero.";
+"Cooling Unit","Unidad de enfriamiento";
+"Azure Rifle","Rifle azul";
+"Fuel Cell","Pila de combustible";
+"A long lasting power source.","Una fuente de poder de larga duración.";
+"Solar Unit Mk. II","Unidad solar mk. II";
+"Lead Ingot","Lingote de plomo";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 327.5 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: 327.5 ° C
+";
+"Solar Panel Small Kit","Kit pequeño panel solar";
+"Kit used to build Small Solar Panel. To build, right-click on Inventory Item and select Build or select the  Small Solar Panel from the Structures tab in your Character Menu.","Kit utilizado para construir pequeño panel solar. Para construir, haga clic con el botón derecho en el elemento de inventario y seleccione Comprar o seleccione el panel solar pequeño de la pestaña Estructuras en el menú de su caracter.";
+"Fibon Tree Fruit","Fruta del árbol de fibra";
+"Alien Blood","Sangre extraña";
+"Blood extracted from the body of an indigenous alien creature.","Sangre extraída del cuerpo de una criatura alienígena indígena.";
+"Beacon Kit","Kit de baliza";
+"Kit used to build beacons. To build, right-click on Inventory Item and select Build or select the Beacon from the Utilities tab in your Character Menu.","Kit usado para construir balizas. Para construir, haga clic con el botón derecho en el elemento de inventario y seleccione Construir o seleccione la ficha de la pestaña Utilidades en el menú de su caracter.";
+"Storage Unit","Unidad de almacenamiento";
+"Nickel Ingot","Lingote de níquel";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1455 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: 1455 ° C
+";
+"Key Card Tier-1","Tarjeta de llave TIER-1";
+"A low-level clearance keycard used to open Osiris mission doors in abandoned settlements and mines.","Una llave de autorización de bajo nivel utilizada para abrir las puertas de la misión de Osiris en asentamientos y minas abandonadas.";
+"Frost Lotus","Loto de escarcha";
+"A flower from the Frost Lotus plant.","Una flor de la planta de loto Frost.";
+"Crude Metal Axe Head","Cabeza de metal crudo";
+"A piece of sharpened metal that can be used to make an axe.","Un trozo de metal afilado que se puede usar para hacer un hacha.";
+"Survival Tool","Herramienta de supervivencia";
+"A multi-tool included in all U.N.E. standard issue Emergency Kits, useful for repairing, salvaging, and precise tinkering when in a pinch.","Una herramienta múltiple incluida en todo lo que u.N.E. Problemas estándar Los kits de emergencia, útiles para la reparación, la resistencia y el retención precisos cuando se aplica.";
+"Oxygen Tanks","Tanques de oxígeno";
+"Oxygen Bonus: ","Bonificación de oxígeno:";
+"Tanks filled with oxygen that can be plugged directly in to your suit. This will help you catch your breath by providing oxygen in the field.","Tanques rellenos de oxígeno que se pueden conectar directamente a su traje. Esto le ayudará a recuperar la respiración proporcionando oxígeno en el campo.";
+"Zamak","Zamak";
+"A general purpose alloy with a wide range of applications.","Una aleación de propósito general con una amplia gama de aplicaciones.";
+"6al-4v","6Al-4V";
+"An alloy with high specific strength and excellent corrosion resistance.","Una aleación con alta resistencia específica y excelente resistencia a la corrosión.";
+"Makeshift Patch Tape","Cinta de parche improvisada";
+"Ladder","Escalera";
+"Used to reach high places.","Se utiliza para llegar a lugares altos.";
+"Banana","Banana";
+"Nitrogen Compress Cell","Celda de compresión de nitrógeno";
+"ADD DETAILS
+","Añadir detalles
+";
+"Crude Metal Shovel","Pala de metal crudo";
+"Scarburros Palm","Scarburros Palm";
+"Data Disk SN:231.25","Data Disk SN: 231.25";
+"Test Boots","Botas de prueba";
+"Prevents Lava Damage","Evita el daño de la lava";
+"Gnat Underhook","Gnat underhook";
+"Baked Potato","Papa horneada";
+"Scrap Cloth","Tela de chatarra";
+"Soft fragments of cloth.","Fragmentos suaves de tela.";
+"Data Disk SN:385.21","Disco de datos SN: 385.21";
+"Test Backpack","Mochila de prueba";
+"Ferrochrome","Ferrocromo";
+"Acid-resistent alloy used in the production of stainless steel.","Aleación resistente a los ácidos utilizada en la producción de acero inoxidable.";
+"T21 Heavy Assault Rounds","T21 Rondas de asalto pesado";
+"Patch Tape","Cinta de parche";
+"IMPORTANT! Use patch tape to repair suit punctures. Can be used while equipped or straight from inventory.","¡IMPORTANTE! Use cinta de parche para reparar pinchazos de traje. Se puede utilizar mientras está equipado o directamente del inventario.";
+"Dirt","Tierra";
+"Useless","Inútil";
+"Iron Ingot","Lingote de hierro";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1538 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: 1538 ° C.
+";
+"Test Helmet","Casco de prueba";
+"Snake Hide","Piel de serpiente";
+"Hide from a snake used to make items for crafting weapons and different items.","Ocultar de una serpiente que se usa para hacer artículos para crear armas y artículos diferentes.";
+"Tumbo Shell","Cáscara de tumbo";
+"Shell taken from a Tumbo, often used to make defenses.","Shell tomado de un tumbo, que a menudo se usa para hacer defensas.";
+"Gnat Hide","Gnat ocultar";
+"Ion Assault Rifle Magazine","Magazine de rifle de asalto ion";
+"Spirit","Espíritu";
+"Advanced compound created to increase your health and speed.","Compuesto avanzado creado para aumentar su salud y velocidad.";
+"Spirea","Espirea";
+"Spirea plant sample used as an ingredient to craft different items. Can be eaten for a small increase in health and nutrition.","La muestra de la planta de Spirea utilizada como ingrediente para crear diferentes artículos. Se puede comer por un pequeño aumento en la salud y la nutrición.";
+"Organic Sludge","Lodo orgánico";
+"A thick sludge that appears to have high concentrations of graphene strands suspended in solution.","Un lodo grueso que parece tener altas concentraciones de hebras de grafeno suspendido en solución.";
+"Heat Sink Unit","Unidad de disipador de calor";
+"Broken Wire","Cable roto";
+"Short segments of wire. With more pieces, could be combined into a usable segment of wire.","Segmentos cortos de alambre. Con más piezas, podría combinarse en un segmento utilizable del cable.";
+"Machete","Machete";
+"A sharp weapon that is essentially a steel blade with a nice handle.","Una arma afilada que es esencialmente una cuchilla de acero con un mango agradable.";
+"Copper Ingot","Lingote de cobre";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1085 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: 1085 ° C
+";
+"Alien Insect Parts","Partes alienígenas de insectos";
+"Squished parts of an indigenous alien insect.","Partes aplastadas de un insecto alienígena indígena.";
+"Crab Screwdriver","Destornillador de cangrejo";
+"A makeshift multi-tool fashioned from tough pieces of chitinous antenna to allow for repairing, salvaging, and precise tinkering.","Una multi-herramienta improvisada de forma de piezas de antena quitinosa para permitir la reparación, rescate y tiniebras precisas.";
+"Military Medkit","Medkit militar";
+"Rubber","Goma";
+"Computer Screen","Pantalla de la computadora";
+"A computer screen with an internal processor.","Una pantalla de computadora con un procesador interno.";
+"Fungtiple Bulb","Bombilla de fungtiple";
+"A Bulb off a Fungtiple plant.","Una bombilla de una planta de fungtiple.";
+"Glass Container","Contenedor de vidrio";
+"Stores liquid so that it can be drank or used to craft more useful items.","Tiendas Líquido para que pueda beber o usar para crear artículos más útiles.";
+"Heavy Assault Magazine","Revista de asalto pesado";
+"Ammo magazine for the Heavy Assault Rifle. It is automatically used when reloading, if stored in backpack.","Magazine de munición para el rifle de asalto pesado. Se usa automáticamente al recargar, si se almacena en la mochila.";
+"Scrap Solar Panel","Panel solar de chatarra";
+"Scraps of solar panel parts that have been left over.","Scraps de piezas de panel solar que se han dejado.";
+"Ammo charges for the Pistol. It is automatically used when reloading, if stored in your backpack.","Cargos de munición por la pistola. Se usa automáticamente al recargar, si se almacena en su mochila.";
+"Mercury","Mercurio";
+"A heavy metal often used in its liquid form for scientific instruments such as thermometers.","Un metal pesado se usa a menudo en su forma líquida para instrumentos científicos, como termómetros.";
+"Tumbo Egg","Huevo tumbo";
+"Egg taken from the body of a Tumbo. Cook to avoid food poisoning.","Huevo tomado del cuerpo de un tumbo. Cocinar para evitar la intoxicación alimentaria.";
+"Mercury Ingot","Lingote de mercurio";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: -38.83 °C
+","Los lingotes son ladrillos de materiales de construcción purificados. Usted usará estos para construir muchas cosas diferentes.
+
+- Punto de fusión: -38.83 ° C
+";
+"Crab Talon","Cangrejo";
+"Talon taken from a crab monsters leg.","Talon tomado de una pierna de monstruos de cangrejo.";
+"Shears","Tijeras";
+"A precise surgical tool used for carefully gathering organic matter.","Una herramienta quirúrgica precisa utilizada para reunir cuidadosamente la materia orgánica.";
+"Path Light Kit","Kit de luz de ruta";
+"Solar light used for path marking","Luz solar utilizada para el marcado del camino.";
+"Barrel","Barril";
+"Stores gas so that it can be used to craft more useful items.","Almacena el gas para que pueda usarse para crear artículos más útiles.";
+"Storage Unit Mk. III","Unidad de almacenamiento MK. III";
+"Arachnoid Hide","Escondite aracnoide";
+"Hide taken from an Arachnoid, used for crafting purposes.","Ocultar tomada de un aracnoide, utilizado para fines de artesanía.";
+"Arachnoid Tail","Cola arácnico";
+"Tail taken from a Arachnoid to be used for crafting purposes.","Cola tomada de un aracnoide para ser utilizado para fines de creación.";
+"Skeliopod Meat","Carne de eskeliopod";
+"Meat ripped right off the body of a Skeliopod. Cook to avoid food poisoning.","La carne se rasgó de inmediato del cuerpo de un skeliopod. Cocinar para evitar la intoxicación alimentaria.";
+"Data Disk SN:349.01","Data Disk SN: 349.01";
+"Mission Cryptex","Misión cryptex";
+"Recovery Unit Mk. I","Unidad de recuperación MK. I";
+"Hydrogen Canister","Bote de hidrógeno";
+"1% critical hit","1% de golpe crítico";
+"Container holding a pressurized hydrogen mixture. Made in either a printer or a fabricator. Used as a fuel source for the hydrogen torch.","Contenedor sosteniendo una mezcla de hidrógeno presurizado. Hecho en una impresora o en un fabricante. Se utiliza como fuente de combustible para la antorcha de hidrógeno.";
+"Darts","Dardos";
+"Projectiles used by Dart Gun.","Proyectiles utilizados por Dard Gun.";
+"Hover Recharger","Coloque el recargador";
+"Cobalt Ingot","Lingote de cobalto";
+"Gnat Tongue","Lengua de gnat";
+"Tongue ripped right from the mouth of a Gnat. Cook to avoid food poisoning.","La lengua se rasgó de la boca de un gnat. Cocinar para evitar la intoxicación alimentaria.";
+"Gold Cover","Cubierta de oro";
+"Nitro","Nitro";
+"Advanced compound created to give you more speed and stamina.","Compuesto avanzado creado para darle más velocidad y resistencia.";
+"Chlorine","Cloro";
+"A pale green gas, important for water purification.","Un gas verde pálido, importante para la purificación del agua.";
+"Adhesive","Adhesivo";
+"Adhesive is used in the fabrication of Patch Tape.","El adhesivo se utiliza en la fabricación de cinta de parche.";
+"English","inglés";
+"Avatar Inventory","Inventario de avatar";
+"Back","atrás";
+"Avatars","Avatares";
+"Create New Avatar","Crear nuevo avatar";
+"Universe:","Universo:";
+"Single Player","Un solo jugador";
+"Owner:","Dueño:";
+"Current Base","Base actual";
+"Planet:","Planeta:";
+"Launch","Lanzamiento";
+"Loading Avatar","Cargando avatar";
+"Loading Persistent Nature","Cargando naturaleza persistente";
+"EARLY ACCESS","ACCESO TEMPRANO";
+"HINT: Unequip gun to run faster","Sugerencia: Guna de unequip para correr más rápido";
+"Depository","Depositario";
+"Habitat","Habitat";
+"A Habitat is a multi-purpose room that can house many interior items.","Un hábitat es una sala multiusos que puede albergar muchos artículos interiores.";
+"Add to Backpack","Añadir a la mochila";
+"Equip","Equipar";
+"Store in Inventory","Tienda en inventario";
+"Drink","Beber";
+"Empty out","Vaciar";
+"Drop","Soltar";
+"New Ability","Nueva habilidad";
+"Status","Estado";
+"This new ability unlocks your wildest dreams!","¡Esta nueva habilidad desbloquea tus sueños más salvajes!";
+"Customize Colors","Personalizar colores";
+"Primary
+","Primario
+";
+"Secondary","Secundario";
+"Detail","Detalle";
+"Glow","Resplandor";
+"Hazy","Brumoso";
+"Missions","Misiones";
+"CRITICAL BREACH","Incumplimiento crítico";
+"Oxygen Low","Oxígeno bajo";
+"Local Time","Hora local";
+"You Are Dehydrated
+You are Starving","Estás deshidratado
+Estas hambriento";
+"Suit Pressue Low","Traje presionado bajo";
+"You Are FREEZING","Estas congelando";
+"Agility","Agilidad";
+"4m 5s","4m 5s";
+"Fortitude","Fortaleza";
+"Strength","Fuerza";
+"Stamina","Aguante";
+"HOV","Huevo";
+"-62°","-62 °";
+"HYD
+---","Hidráulico
+---";
+"
+
+NTR","
+
+Ntr";
+"HLTH","Hundido";
+"Restoring Oxygen in 10s","Restaurando el oxígeno en 10s.";
+"0.99","99%";
+"Atmos o2: 1.29%","ATMOS O2: 1.29%";
+"Weight:","Peso:";
+"Patch Tape","Cinta de parche";
+"Medical Bandage","Vendaje médico";
+"Scrap Metal","Chatarra";
+"Fern Tree Berry","Helecho árbol berry";
+"Alien Fiber","Fibra alienígena";
+"Rock","Roca";
+"Shard Blade","Hoja de fragmento";
+"Alien Hide","Escondite alienígena";
+"Makeshift Chisel","Chisel improvisado";
+"Barrel","Barril";
+"Now that I've gotten a foothold on this planet, I should explore and see if I can regroup with the Phoenix Team. ([F3] will open up the GPS, your suit has a radar installed that will allow for Basic Scanning. [NUM +] and [NUM -] to change the zoom of the map.)","Ahora que he conseguido un punto de apoyo en este planeta, debería explorar y ver si puedo reagruparme con el equipo de Phoenix. ([F3] abrirá el GPS, su traje tiene un radar instalado que permitirá el escaneo básico. [NUM +] y [NUM -] para cambiar la zoom del mapa).";
+"Slope: 35.6°","Pendiente: 35.6 °";
+"Laboratory","Laboratorio";
+"New1","New1";
+"Level 08 - SCIENTIST","Nivel 08 - Científico";
+"Sol 01","Sol 01";
+"13 hrs to next sol","13 hrs a SOL SOL";
+"Level 01","Nivel 01";
+"XP: 25/100","XP: 25/100";
+"Physical Stats","Estadísticas físicas";
+"Speed","Velocidad";
+"Health","Salud";
+"Stat Points:","Puntos de estadísticas:";
+"Proficiencies","Profecencias";
+"Combat","Combate";
+"Engineering","Ingenieria";
+"Science","Ciencias";
+"HLTH
+---","Hundido
+---";
+"Suit","Traje";
+"NTR","Ntr";
+"Creation Center","Centro de creación";
+"Skeliopod Meat","Carne de eskeliopod";
+"Steel","Acero";
+"Rubber","Goma";
+"Grilled Alien Meat","Carne alienígena a la parrilla";
+"<color=silver>Class: </color><color=white>Consumable</color>
+<color=silver>Amount: </color><color=white>1/50</color>
+<color=silver>Weight: </color><color=white>0.50</color><color=lime> kgs</color>
+<color=silver>Health Bonus: </color><color=white>10</color>
+<color=silver>Nutrition Bonus: </color><color=white>50</color>
+
+<color=white>Meat ripped right off the body of an indigenous alien creature. Has been cooked and is safe to eat.</color>","<Color = Silver> Clase: </ Color> <Color = White> Consumible </ Color>
+<Color = Silver> Monto: </ Color> <Color = White> 1/50 </ COLOR>
+<color = plata> peso: </ color> <color = blanco> 0.50 </ color> <color = lima> kgs </ color>
+<Color = Silver> Bonificación de salud: </ color> <color = blanco> 10 </ color>
+<Color = Silver> Bono de nutrición: </ color> <color = blanco> 50 </ color>
+
+<Color = White> Carne se desgarró de inmediato del cuerpo de una criatura alienígena indígena. Se ha cocinado y es seguro para comer. </ Color>";
+"Backpack","Mochila";
+"Default","Defecto";
+"Alphabetical","Alfabético";
+"43.61 / 80.00 kgs
+54.5% Weight Capacity","43.61 / 80.00 kgs
+54.5% de capacidad de peso.";
+"Inventory
+","Inventario
+";
+"[A] Skills","[A] habilidades";
+"Crafting [D]","Elaboración [d]";
+"Urchin Shell","Cáscara de erizo";
+"Duralumin","Duraluminio";
+"Titanium","Titanio";
+"Brass","Latón";
+"Tungsten","Tungsteno";
+"Bronze","Bronce";
+"Wire","Cable";
+"Circuit Board","Placa de circuito";
+"Power Cell","Celda de poder";
+"Diamond Chisel","Cincel de diamante";
+"Magnalium","Magnalio";
+"Gunmetal","Gunmetal";
+"Lead","Dirigir";
+"Battery","Batería";
+"Assault Rifle","Fusil de asalto";
+"Talonite","Talonita";
+"Mechanized Spanner","Llave inglesa mecanizada";
+"Crab Antenna","Antena de cangrejo";
+"Crab Shell","Caparazón del cangrejo";
+"Crab Meat","Carne de cangrejo";
+"Crab Talon","Cangrejo";
+"Crab Leg Meat","Carne de pierna de cangrejo";
+"Fuel Cell","Pila de combustible";
+"Cast Iron","Hierro fundido";
+"Ferrochrome","Ferrocromo";
+"6al-4v","6Al-4V";
+"Nichrome","Nichrome";
+"Azurnium","Azurnio";
+"Glass","Vidrio";
+"Cobalt","Cobalto";
+"Inventory","Inventario";
+"Field Guide","Guía de campo";
+"Skills","Habilidades";
+"Options","Opciones";
+"Build / Craft [F3]","Construir / Craft [F3]";
+"Data Selection
+Matrix","Selección de datos
+Matriz";
+"Aziel","Aziel";
+"Env Pressure:","Presión env:";
+"Env Temp:","ENV TEMP:";
+"Personal Data Unit","Unidad de datos personales";
+"Osiris Mission Team","Equipo de la Misión de Osiris";
+"Systems Data Selection","Selección de datos de sistemas";
+"Build 248.517.68200","Construir 248.517.68200";
+"Exit Data Matrix [Tab]","Salir de la matriz de datos [TAB]";
+"Log","Tronco";
+"Lorem ipsum dolor sit amet, sed ea offendit aliquando mediocritatem. Cum ad quis malorum recusabo, nam ea audiam fuisset incorrupte, et eirmod aperiam pro. Quod detracto eloquentiam an vel, cum mutat argumentum ex. Ex eam partem dolores pertinacia, et alterum maiorum praesent his. Copiosae laboramus assentior te per, te eam feugiat elaboraret. Ut cum quas minim, has quot prodesset assueverit ei, an his utamur tibique.","Lorem Ipsum Dolor Sit Dmet, Sed EA Ofendit Aliquando Mediocritatem. Cum ad quis malorum recusabo, nam ea audiam funset incorruptte, et eirmod aperiam pro. Quod Detracto Elocentiam An Vel, cum Mutat Argumentum Ex. Ex EAM Partem Dolores pertinacia, et alterum maiorum praesent su. Copiosae Laboramus Assentior TE POR, TEAM FEUGIAT ELABORARET. UT CUR CUMA MINIM, CHOT PRODESSET ASSUEVERIT EI, UN TIBIO UTAMUR.";
+"Craft","Artesanía";
+"Utilities","Utilidad";
+"Defenses","Defensas";
+"Structures","Estructuras";
+"Appliances","Accesorios";
+"Custom","Personalizado";
+"Crafting","Obra";
+"[A] Inventory","[A] inventario";
+"GPS [D]","GPS [D]";
+"Makeshift Patch Tape","Cinta de parche improvisada";
+"Class: ","Clase:";
+"Amount: ","Monto:";
+"Weight: ","Peso:";
+" kgs"," kgs";
+"Suit Integrity Bonus: ","Bono de integridad del traje:";
+"IMPORTANT! Use masking tape to repair suit punctures. Can be used while equipped or straight from inventory.","¡IMPORTANTE! Use cinta adhesiva para reparar los pinchazos de traje. Se puede utilizar mientras está equipado o directamente del inventario.";
+"Makeshift Bandage","Vendaje improvisado";
+"Health Bonus: ","Bono de salud:";
+"Heals hitpoints. Can be used while equipped or straight from inventory.","Cura los puntos de golpe. Se puede utilizar mientras está equipado o directamente del inventario.";
+"Makeshift Cloth Bundle","Paquete de tela improvisado";
+"A makeshift bundle of loosely woven fibers.","Un haz improvisado de fibras libremente tejidas.";
+"Bashing Rock","Bashing Rock";
+"Durability: ","Durabilidad:";
+"%","%";
+"Hardness: ","Dureza:";
+"Damage: ","Daño:";
+"0% critical hit","0% de golpe crítico";
+"Useful when you have no other tools.","Útil cuando no tienes otras herramientas.";
+"Stone Blade","Hoja de piedra";
+"A sharpened rock that can be used to make a blade.","Una roca afilada que se puede usar para hacer una cuchilla.";
+"Stone Axe Head","Cabeza de piedra";
+"A sharpened rock that can be used to make an axe","Una roca afilada que se puede usar para hacer un hacha.";
+"Stone Shovel Head","Cabeza de piedra de piedra";
+"A shaped rock that can be used to make a shovel.","Una roca con forma que se puede usar para hacer una pala.";
+"Shaped Crab Antenna","Antena de cangrejo en forma";
+"A shaped fragment of a Crab Antenna, could be fashioned into a crude precision tool.","Un fragmento formado de una antena de cangrejo, podría formarse en una herramienta de precisión cruda.";
+"Crab Screwdriver","Destornillador de cangrejo";
+"A makeshift multi-tool fashioned from tough pieces of chitinous antenna to allow for repairing, salvaging, and precise tinkering.","Una multi-herramienta improvisada de forma de piezas de antena quitinosa para permitir la reparación, rescate y tiniebras precisas.";
+"20% critical hit","20% de golpe crítico";
+"A small sharp weapon made from a rock shard.","Una pequeña arma afilada hecha de un fragmento de roca.";
+"Stone Axe","Hacha de piedra";
+"A slashing tool that is essentially a rock on a stick with a nice handle.","Una herramienta de corte que es esencialmente una roca en un palo con un mango agradable.";
+"Crab Scythe","Cangrejo Scythe";
+"Melee weapon made from the talon of a crab monster.","Arma cuerpo a cuerpo hecha de la garra de un monstruo de cangrejo.";
+"Stone Shovel","Pala de piedra";
+"Tool used to gather Sand for use in crafting.","Herramienta utilizada para recolectar arena para su uso en la elaboración.";
+"Soil","Tierra";
+"Natural crafting agent for growing crops in a Bio Dome.","Agente de elaboración natural para cultivar cultivos en una biogota.";
+"Redfern Tree Berry","Redfern Tree Berry";
+"Branches","Sucursales";
+"Sand","Arena";
+"Human Waste","Desechos humanos";
+"Accessing Data","Accediendo datos";
+"Crude Pipe","Tubo crudo";
+"Scrap Hinge","Bisagra de chatarra";
+"Sulfur","Azufre";
+"Mercury","Mercurio";
+"Aluminum","Aluminio";
+"Iron","Hierro";
+"Computer Screen","Pantalla de la computadora";
+"Hose","Manguera";
+"White Gold","Oro blanco";
+"Dymalloy","Dymalloy";
+"Small Radar Dish Kit","Kit de plato de radar pequeño";
+"Solar Panel Small Kit","Kit pequeño panel solar";
+"Nickel","Níquel";
+"Gold","Oro";
+"Lonsdaleite","Lonsdaleite";
+"Copper","Cobre";
+"Zinc","Zinc";
+"Plastic","El plastico";
+"Beacon Kit","Kit de baliza";
+"Path Light Kit","Kit de luz de ruta";
+"Diamond","Diamante";
+"Zirconium Plate","Placa de circonio";
+"Zirconium Circuit Board","Placa de circuito de circonio";
+"Land Mine Set","Conjunto de mina de tierra";
+"Cubic Zirconia","Zirconia cúbica";
+"Skeliopod Shell","Shell skeliopod";
+"Skeliopod Tail","Skeliopod Tail";
+"Inflatable Dome Kit","Kit de cúpula inflable";
+"Zamak","Zamak";
+"Lithium","Litio";
+"Cloth Bundle","Haz de tela";
+"dev console commands","Comandos de consola de desarrollo";
+"Buggie","Buggie";
+"_","_";
+"Space Utilities","Utilidades espaciales";
+"Spacecraft","Astronave";
+"Plutonium","Plutonio";
+"Zircaloy","Zircaloy";
+"Bug Report / Feedback","Informe de error / comentarios";
+"Resume","Reanudar";
+"Settings","Ajustes";
+"Main Menu","Menú principal";
+"Exit Game","Salir del juego";
+"Menu Options","Opciones de menú";
+"Are you sure you want to quit to main menu? <color=#00FFB7FF>Your current position and profile will be saved.</color>","¿Está seguro de que desea dejar de fumar en el menú principal? <color = # 00FFB7FF> Su posición actual y perfil se guardarán. </ Color>";
+"No","No";
+"Yes","sí";
+

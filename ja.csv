@@ -1,0 +1,2288 @@
+"English","日本語";
+"Enter","入る";
+"OK","OK";
+"Public Universes","公共団体";
+"Colony Defense","コロニー防衛";
+"Private Universe","専用宇宙";
+"Pair Mobile App","ペアモバイルアプリ";
+"Debug Levels","デバッグレベル";
+"Logout","ログアウト";
+"Next Update","次の更新";
+"Debug Menu","デバッグメニュー";
+"PUBLIC UNIVERSE","公共の宇宙";
+"PRIVATE UNIVERSE","専用宇宙";
+"Avatar Inventory","アバターインベントリ";
+"Universe:","宇宙：";
+"Planet:","惑星：";
+"Owner:","オーナー：";
+"Droids","ドロイド";
+"Vehicles","車両";
+"Current Base","現在のベース";
+"Avatars","アバター";
+"Create New Avatar","新しいアバターを作成します";
+"US West","米国ウエスト";
+"Back","バック";
+"Launch","発行する";
+"Faction","派";
+"U.N.E.","u u";
+"Outlanders","アウトランダー";
+"Scientist","科学者";
+"Science: 18","科学：18";
+"Engineering: 7","工学：7";
+"Combat: 5","戦闘：5";
+"Male","男性";
+"Female","女性";
+"Ranger","部隊";
+"Combat: 10","戦闘：10";
+"Engineering: 10","エンジニアリング：10";
+"Science: 10","科学：10";
+"Marine","マリン";
+"Combat: 20","戦闘：20";
+"Engineering: 6","エンジニアリング：6";
+"Science: 4","科学：4";
+"Engineer","エンジニア";
+"Combat: 8","戦闘：8";
+"Engineering: 16","エンジニアリング：16";
+"Science: 6","科学：6";
+"SELECT YOUR CLASS","クラスを選択してください";
+"Starting Items","出発アイテム";
+"Description","description";
+"Choose Colors","色を選ぶ";
+"Primary","一次";
+"Secondary","二次";
+"Detail","detail detail";
+"Glow","輝く";
+"CUSTOMIZE FEATURES","機能をカスタマイズする";
+"Height","高さ";
+"Head","頭";
+"Torso","胴体";
+"Upper Arms","二の腕";
+"Forearms","前腕";
+"Hands","hands";
+"Thighs","太もも";
+"Calves","子牛";
+"Feet","足";
+"Random","ランダム";
+"Reset","リセットする";
+"Assign Name","名前を割り当てます";
+"Type Name","タイプ名";
+"Create","創造する";
+"Colors","色";
+"Head / Shoulders","頭、肩";
+"Mid","中々";
+"Legs / Feet","足/足";
+"Randomize","無作為化";
+"Head/Shoulders","頭、肩";
+"Helmet","ヘルメット";
+"Shoulder pads","肩パッド";
+"Body","体";
+"Backpack","バックパック";
+"Gloves","手袋";
+"Legs/Feet","足/足";
+"Legs","足";
+"Knee pads","膝パッド";
+"Boots","ブーツ";
+"Assign Stat Points","Stat Pointsを割り当てます";
+"Speed","速度";
+"Health","健康";
+"Strength","力";
+"Stamina","元気";
+"Stat Points :","スタートポイント：";
+"Assign Skill Points","スキルポイントを割り当てます";
+"Clear","晴れ";
+"Confirm","確認";
+"Region","領域";
+"Server Name","サーバー名";
+"Rules","規則";
+"Days Left","残りの日数";
+"Players In World","世界のプレイヤー";
+"Players In Universe","宇宙のプレーヤー";
+"US East","米国東";
+"Canada","カナダ";
+"Asia","アジア";
+"Europe","ヨーロッパ";
+"Australia","オーストラリア";
+"Japan","日本";
+"South America","南アメリカ";
+"Favorite","favorite favorite";
+"Join","join";
+"Refresh","更新";
+"Colony Defense Lobby","コロニーディフェンスロビー";
+"<color=#00FFFF><size=24>U.N.E. Team Objective</size></color>
+
+<color=#FFFFFF>Defend your settlement until the timer runs out. At the end of the game, if All of your structures are still standing, You win!</color>
+
+<color=#B4B4B4>Hint: Win early by destroying all of the Outlander Inflatable Domes</color>
+
+
+<color=#00FFFF><size=24>Outlander Team Objective:</size></color>
+
+<color=#FFFFFF>Attack the U.N.E. settlement! If you destroy any of the original settlement structures, it's an automatic win!</color>
+
+<color=#B4B4B4>Hint: Use the Dart Gun to sedate large creatures and ride them into battle</color>","<color =＃00FFFF> <size = 24> U.e。チーム目標</サイズ> </カラー>
+
+<color = #ffffff>タイマーが実行されるまで決済を守ります。ゲームの終わりに、あなたの構造のすべてがまだ立っているなら、あなたは勝ちます！</ color>
+
+<color =＃b4b4b4>ヒント：すべてのアウトランダーの膨脹可能なドームを破壊することによって早く勝つ</ color>
+
+
+<color =＃00FFFF> <size = 24> Outlanderチーム目標：</ size> </ color>
+
+<color =＃ffffff> u.n.eを攻撃します。決済！あなたが元の決済構造のいずれかを破壊するなら、それは自動勝利です！</ color>
+
+<COLOR =＃B4B4B4>ヒント：ダーツガンを使用して大きな生き物を鎮静させて戦いに乗る</カラー>";
+"Ready","準備ができて";
+"Leave","去る";
+"UNIVERSE","宇宙";
+"Creator","クリエーター";
+"RULES","規則";
+"Players in world","世界のプレイヤー";
+"Players in universe","宇宙のプレーヤー";
+"Players with Access","アクセスを持つプレイヤー";
+"No Private Universes to Join.
+Create a New Universe and Invite Your Friends To Join!","参加する秘密宇宙はありません。
+新しいユニバースを作成し、友達に参加するように誘う！";
+"View","見る";
+"Customize Universe","宇宙をカスタマイズします";
+"Universe Name:","ユニバース名：";
+"Enter universe name...","ユニバース名を入力してください...";
+"Mode:","モード：";
+"Region:","領域：";
+"Difficulty:","困難：";
+"Normal","正常";
+"The way the game was meant to be played. Battle the elements, search for resources, and monitor your suit readings to stay alive in the harsh climates of space.","ゲームがプレイされることを意図した方法。要素を戦い、リソースを検索し、あなたのスーツの読みを監視して、宇宙の過酷な気候で生きています。";
+"Easy
+","簡単
+";
+"A lighter Osiris: New Dawn experience. You will still need to survive, but the experience is more forgiving. Better for explorers who want less to worry about. ","より軽いオシリス：新しい夜明けの経験。あなたはまだ生き残る必要がありますが、経験はより寛容です。心配しなくなった探検家のために良い。";
+"Extreme","extreme extreme";
+"Test your survival skill to its limit. Your success is not assured. ","あなたの生存スキルをその限界にテストします。あなたの成功は保証されていません。";
+"Creative
+","創造的です
+";
+"Craft anything you'd like without the worry of creatures  or survival gameplay.","クリーチャーやサバイバルゲームプレイの心配なしにあなたが望むものを作ります。";
+"Custom","カスタム";
+"Make your Osiris experience perfect for you!","あなたのオシリスの経験をあなたに最適にする！";
+"Delete","削除する";
+"Invite
+Players","招待する
+プレーヤー";
+"Update","更新";
+"Advanced Customization","高度なカスタマイズ";
+"Player","プレーヤー";
+"Proficiency","熟練";
+"Stat Points Per Level","レベルあたりの統計ポイント";
+"Thirst","渇き";
+"Hunger","飢え";
+"Oxygen
+Consumption","酸素
+消費";
+"Stamina
+Consumption","元気
+消費";
+"Flashlight Power Drain (WIP)","懐中電灯パワードレイン（WIP）";
+"Fall
+Damage","秋
+ダメージ";
+"Crash 
+Items","クラッシュ
+アイテム";
+"Stamina Penalty Duration","スタミナペナルティ期間";
+"No Stamina Speed","スタミナスピードなし";
+"Hover Fuel
+Consumption","ホバー燃料
+消費";
+"Hover 
+Duration","h h
+期間";
+"Vehicle Fuel
+Consumption","車両燃料
+消費";
+"Tool/Weapon 
+Decay Rate","工具/武器
+腐敗率";
+"Structure Decay Speed","構造崩壊速度";
+"Inventory Weight","在庫重量";
+"Item Stack Size","アイテムスタックサイズ";
+"Encumberance Penalty","包括的なペナルティ";
+"Creative Mode
+(Infinite Resources and Unlocks)","創作モード
+（無限リソースとロック解除）";
+"Invulnerability","無邪気性";
+"First Person Hit Reaction","最初の人打撃反応";
+"Pickup Animation","ピックアップアニメーション";
+"Auto-Pickup Bonus Resources","自動ピックアップボーナスリソース";
+"Planets","惑星";
+"Resource Yield","リソース率";
+"Mineral Respawn Rate","ミネラルレーブレート";
+"Alien
+Population","エイリアン
+人口";
+"Alien
+Damage","エイリアン
+ダメージ";
+"Alien
+Health","エイリアン
+健康";
+"Alien
+Hearing","エイリアン
+聴覚";
+"Alien
+Sight","エイリアン
+視力";
+"Alien Suit Breach Chance","エイリアンスーツ侵害チャンス";
+"Plant Suit Breach Chance","植物のスーツの侵害チャンス";
+"Slope Slip Modifier","スロープスリップ修飾子";
+"Slope Damage Chance","斜面ダメージチャンス";
+"Slope Breach Chance","斜面違反のチャンス";
+"Weather Cycle Rate","天気サイクルレート";
+"Time Cycle Rate","時間サイクル率";
+"Storm Damage Chance","嵐のダメージチャンス";
+"Storm Damage Amount","嵐の損傷量";
+"Storm Suit Breach Chance","嵐のスーツのチャンス";
+"Storm Spawn Chance","嵐の出現チャンス";
+"Storm Length","嵐の長さ";
+"Respawn HP","回答する";
+"Permadeath (WIP)","permadeate（WIP）";
+"Drop Inventory On Death","死の在庫を落として";
+"Require Pressurization to Eat","加圧を食べる必要があります";
+"Allow Space Travel","スペースの旅行を許可します";
+"Invite Friends","友達を招待";
+"You can invite up to 5 friends into your own private universe.","あなたはあなた自身の民間宇宙に最大5人の友達を招待することができます。";
+"Friends","友達";
+"+ Send Invite","+招待を送る";
+"Invited Players","招待家";
+"Uninvite Player","Uninvite Player.";
+"What's New","新着情報";
+"Space Station Crafting","宇宙ステーションが作成されました";
+"Fully crafting your own Space Station in low orbit. All station modules can interconnect in any combination, allowing for total flexibility in design and layout.
+
+Each module has its own purpose and features, including crafting, power systems, and storage.
+
+Space Stations are free from the erosion and dangers of the existing planetside in an atmosphere, creating an interesting strategic option to store valuable resources.
+","低軌道であなた自身の宇宙ステーションを完全に洗練します。すべてのステーションモジュールは任意の組み合わせで相互接続することができ、設計とレイアウトの完全な柔軟性を可能にします。
+
+各モジュールには、クラフト、電力システム、および保管など、独自の目的と機能があります。
+
+宇宙ステーションは、大気中の既存の惑星の侵食や危険性がないため、貴重な資源を貯めるための興味深い戦略的オプションを作成しています。
+";
+"Next","次";
+"* Just a few of the many modules you can create in Space Station crafting.","*宇宙ステーションの作成で作成できる多くのモジュールのほんの数例。";
+"Nio Biomes","Nio Biomes";
+"Proteus 2 takes advantage of the new technology we’ve been developing that adds various zones and areas into a world.
+
+We’ve doubled the amount of world textures, rendered millions of blades of grass, and populated countless new alien foliages - each yielding various resources.
+","Proteus 2私たちが開発してきた新しいテクノロジーを利用しています。
+
+私たちは世界のテクスチャの量を2倍にし、何百万もの草の刃を動かし、そして数えない新しい外国人の葉の葉が様々な資源をもたらしました。
+";
+"Previous","前";
+"* Crouching now allows safe traversal on steep terrains. When climbing steep slopes, a warning indicator will appear.","*しゃがみが今急な地形で安全なトラバーサルを可能にします。急な斜面を登ると、警告インジケーターが表示されます。";
+"Discovery System
+","発見システム
+";
+"Everything you observe on your adventures can now be discovered. Far more than a simple achievement, the Discovery System actually unlocks all the various resources any found resource will yield.
+
+Essentially, each weapon or tool used on a resource may yield a different item, allowing for far more scientific exploration of the solar system and all of its life forms.
+","あなたがあなたの冒険で観察したすべてのものが発見されることができます。単純な実績以上のものではなく、発見システムは実際にはさまざまなリソースをすべてロック解除します。
+
+基本的に、リソース上で使用される各武器またはツールは、異なる項目を生み出すことができ、太陽系およびそのすべての生活形態のより多くの科学的探査を可能にする。
+";
+"* Geysers now display the gas type, along with instructions on how to harvest the gas.","* Geysersは現在ガスの種類を表示し、ガスの収穫方法について説明します。";
+"GPS Resource Filtering","GPSリソースフィルタリング";
+"Minerals can now be filtered on your updated GPS. This very handy tool, which is now always available in your HUD and no longer attached to your Locator, reads from your surrounding satellites and your own internal suit radar to create detection radii.
+
+This system will show you all the surrounding minerals, their hardness and density, so you can find what you’re looking for in your crafting missions.
+","ミネラルはあなたの更新されたGPSでフィルタリングされるようになりました。この非常に便利なツール。これは常にあなたのHUDで利用可能で、あなたのロケータに添付されていなくなり、あなたの周囲の衛星とあなた自身の内部スーツのレーダーから読み込み、検出半径を作成します。
+
+このシステムはあなたにすべての周囲のミネラル、彼らの硬さと密度を示すので、あなたがあなたのクラフトミッションであなたが探しているものを見つけることができます。
+";
+"* Satellite Dishes now display a radius for their scanning range.","*衛星ディッシュに走査範囲の半径が表示されます。";
+"New Skill Tree","新しいスキルツリー";
+"Replacing the old skill tree, is, uh, the new skill tree! Instead of grindy gates, you now can unlock actual skills or “perks” that boost your abilities.
+
+","古いスキルツリーを交換する、UH、新しいスキルツリー！ Grindy Gatesの代わりに、あなたはあなたの能力を高める実際のスキルや「特典」のロックを解除することができます。
+
+";
+"Got it. Let's Go!","とった。行こう！";
+"* Looting now fully functions on all creatures.","*略奪はすべてのクリーチャーに完全に機能します。";
+"Removal of Build Gates
+","ビルドゲートの除去
+";
+"The build gates are gone, which we felt was arbitrary and grindy. Instead are structure prerequisites which we feel make more sense and are more meaningful.","ビルドゲートはなくなり、私たちが恣意的かつ洗練されたと感じました。代わりに私たちがより理にかなっていると感じる構造の前提条件であり、より意味のあるものです。";
+"Login","ログイン";
+"Password","パスワード";
+"Remember me on this device","このデバイスで私を覚えてください";
+"Sign In","サインイン";
+"Go Offline","オフラインになる";
+"Sign Up","サインアップ";
+"The user information you entered could not be found","入力したユーザー情報が見つかりませんでした";
+"Confirm Password","パスワードを認証する";
+"Graphics Settings","グラフィックス設定";
+"Graphics Quality","グラフィックの質";
+"Terrain Detail
+","地形の詳細
+";
+"Draw Distance","距離を描く";
+"Shadows","影";
+"Scion Film Grain","SCIONフィルム穀物";
+"Scion Mode","SCIONモード";
+"Scion LUT","Scion Lut.";
+"Beautify","美しさに";
+"Dirty Lense","汚れた陳情";
+"Ambient Occlusion","周囲の閉塞";
+"Depth Of Field","被写界深度";
+"Motion Blur","モーションブラー";
+"Anti Aliasing","アンチエイリアシング";
+"Volumetric Clouds","体積雲";
+"Debug Text","デバッグテキスト";
+"Camera And Sound","カメラとサウンド";
+"First Person Field of View","一人称視野分野";
+"First Person Sprint Field of View","一人称スプリント視野";
+"First Person Camera Bob","一人称カメラボブ";
+"Third Person Camera Bob","サードパーソンカメラボブ";
+"Glitch FX","グリッチFX.";
+"Mouse Sensitivity Horizontal","マウス感度水平";
+"Mouse Sensitivity Vertical","マウス感度垂直";
+"Mouse Smooth Step","マウススムーズステップ";
+"Mouse Smooth Weight","マウス滑らかな体重";
+"Invert Y","ねじる";
+"Master Volume","マスターボリューム";
+"Music Volume","音楽ボリューム";
+"SFX Volume","SFXボリューム";
+"Voice Volume","音量";
+"Banter VO","バンターVo.";
+"Cancel","キャンセル";
+"Preview","プレビュー";
+"Save And Continue","保存して続行";
+"Key Bindings","キーバインディング";
+"Open Key Bindings","オープンキーバインディング";
+"Done","done";
+"Restore Defaults","デフォルトに戻す";
+"Players:","プレイヤー：";
+"Controller:","コントローラ：";
+"None","無し";
+"Remove","削除する";
+"Calibrate","校正";
+"Assign Controller","コントローラを割り当てます";
+"Assigned Controllers:","割り当てられたコントローラ：";
+"Settings:","設定：";
+"Categories:","カテゴリー：";
+"Fullscreen","全画面表示";
+"Custom Resolution","カスタム解像度";
+"Resolution","解決";
+"Width","幅";
+"Enter text...","テキストを入力してください...";
+"Bloom","咲く";
+"Film Grain","フィルムグレイン";
+"First Person Helmet","一人称ヘルメット";
+"North Facing Map","北向きの地図";
+"Erase Experimental Save Data","実験的なデータを消去します";
+"HINT: Unequip gun to run faster_","ヒント：早く実行するためのUnequip Gun";
+"Incoming Data","着信データ";
+"Planet Data","惑星データ";
+"Loading Persistent Nature","持続的な性質を読み込む";
+"MULTIPLAYER","マルチプレイヤー";
+"PLANET","惑星";
+"STRUCTURES","struct struct";
+"MACHINES","機械";
+"Osiris: New Dawn is still in Early Access. Please expect bugs. When you find something weird help us by reporting the issue on the Steam Forums. Thank you and let's make Osiris: New Dawn great together!","オシリス：新しい夜明けはまだ早いアクセスにあります。バグを期待してください。あなたがSteamフォーラムの問題を報告することによって私たちを助けている何かを見つけるとき。ありがとうございました、オシリスを作りましょう。";
+"Signing in","サインイン";
+"Are you sure you want to quit the application?","アプリケーションを終了してもよくよろしいですか？";
+"No","番号";
+"Yes","はい";
+"Confirmation Code","確認コード";
+"There was an issue connecting to the network.","ネットワークに接続する問題がありました。";
+"Quit","終了する";
+"Retry","リトライ";
+"HINT: Unequip gun to run faster","ヒント：より速く実行するためのUnequip Gun";
+"Player Name","プレーヤの名前";
+"Loading Avatar","アバターを読み込む";
+"Habitat","生息地";
+"A Habitat is a multi-purpose room that can house many interior items.","生息地は、多くの内装品を収容できる多目的な客室です。";
+"Add to Backpack","バックパックに追加してください";
+"Equip","装備";
+"Store in Inventory","在庫に保管してください";
+"Drink","ドリンク";
+"Empty out","out";
+"Drop","落とす";
+"Customize Colors","色をカスタマイズします";
+"Primary
+","一次
+";
+"LAT","lat";
+"LONG","長いです";
+"Missions","ミッション";
+"CRITICAL BREACH","批判的な違反";
+"Oxygen Low","酸素低い";
+"Local Time","現地時間";
+"You Are Dehydrated
+You are Starving","あなたは脱水されています
+あなたは飢えています";
+"Suit Pressue Low","スーツプレッか";
+"You Are FREEZING","あなたは凍っています";
+"Agility","機敏";
+"Fortitude","fort fort";
+"HOV","h";
+"HLTH","h";
+"Weight:","重量：";
+"Inventory","在庫";
+"Field Guide","フィールドガイド";
+"Skills","スキル";
+"Build / Craft [F3]","ビルド/クラフト[F3]";
+"Data Selection
+Matrix","データ選択
+マトリックス";
+"Env Pressure:","env prevession：";
+"Env Temp:","env temp：";
+"Personal Data Unit","個人データユニット";
+"Osiris Mission Team","オシリスミッションチーム";
+"Systems Data Selection","システムデータの選択";
+"Build 248.517.68200","248.517.68200を構築する";
+"Exit Data Matrix [Tab]","データ行列を終了する[タブ]";
+"Log","ログ";
+"[F4] - Map Settings
+[M] - Center Toggle","[F4]  - マップ設定
+[m]  - 中央のトグル";
+"Zoom Out [-]
+Zoom In [+]","ズームアウトする [-]
+ズームイン[+]";
+"Map Name","マップ名";
+"Bot","ボット";
+"House","家";
+"Focus Area","注目されるところ";
+"Health Area","健康地域";
+"Scanning","走査";
+"Spawn Location","出現場所";
+"Equip Map To Cycle Targets","サイクルターゲットに地図を装備します";
+"Aluminum","アルミニウム";
+"Iron","鉄";
+"Nearest Dish
+Scanning...","最寄りの料理
+走査...";
+"Hold [RMB] and Mouse Scroll to Zoom","[rmb]とマウスがズームにスクロールします";
+"© 2017 Fenix Fire Entertainment","©2017 Fenix Fire Entertainment.";
+"Com Link
+","COMリンク
+";
+"Mission List","ミッションリスト";
+"Warning System
+","警告システム
+";
+"o2 / Air Pressure
+Internal Temp","O2 /空気圧
+内温";
+"Hydration / Gestation
+Respiratory Vitals","水和/妊娠
+呼吸器";
+"Saving Data","データを保存します";
+"Location Type","場所タイプ";
+"-[ Tool Mode ]-"," -  [ツールモード]  - ";
+"Set Target","ターゲットを設定します";
+"Confirm Build","ビルドを確認してください";
+"Cancel Build","ビルドをキャンセルします";
+"Rotate Right","右に回る";
+"Rotate Left","左に回転";
+"Hold
+[Left Shift]","ホールド
+[左方移動]";
+"Release
+[Left Shift]","発売される
+[左方移動]";
+"Fine Rotation","細い回転";
+"SHIFT","シフト";
+"Control Panel","コントロールパネル";
+"[R] Return All Flank Droids","[R]すべての側面のドロイドを返します";
+"[1]","[1]";
+"Droid Nickname","ドロイドニックネーム";
+"Mining Azurnium","山羊院";
+"Back [Esc]","戻る[ESC]";
+"Stay","滞在";
+"Osiris Mission Personal Assistant","オシリスミッションパーソナルアシスタント";
+"Alien Blood","外国人の血";
+"Small Metal Dome","小さな金属ドーム";
+"Lightweight wall that is low cost and allows pressurization, but is low on armor and temperature regulation.","低コストであり、加圧を可能にする軽量の壁が装甲と温度調節には低いです。";
+"[MIDDLE MOUSE WHEEL]","[マウスホイール]";
+"Build Structure","建築構造";
+"Hint: Hold action button longer to build object with more health.","ヒント：アクションボタンを押すと、より多くの健康状態でオブジェクトを構築するために長くなります。";
+"Hold","ホールド";
+"COMPLETE","コンプリート";
+"DISCOVERED","発見しました";
+"Hold Right Click","右クリックしてください";
+"Nickname","ニックネーム";
+"Conduit Bender","コンジットベンダー";
+"Build Goal
+","ビルドゴールを築きます
+";
+"Avatar Name","アバターの名前";
+"Action","アクション";
+"*Colony naming not yet available","*まだ利用できないコロニーネーミング";
+"Party","パーティー";
+"Physical Stats","物理統計";
+"Stat Points:","スタートポイント：";
+"Proficiencies","環境";
+"Combat","戦闘";
+"Engineering","エンジニアリング";
+"Science","理科";
+"Suit Readings","スーツの読み";
+"Suit","スーツ";
+"
+
+Suit","
+
+スーツ";
+"Communications","コミュニケーション";
+"Contact Devs","Devs.";
+"Mobility","可動性";
+"Hover","h h";
+"Hover Fuel","ホバー燃料";
+"Coming
+Soon
+","到来
+ちょっと
+";
+"Suit System","スーツシステム";
+"Module 1","モジュール1";
+"Modules","モジュール";
+"Light","光";
+"Module","モジュール";
+"Attachment Slots","添付ファイルスロット";
+"Pants
+","撫でれた
+";
+"Knee Pads","膝パッド";
+"ShouldPads","服装";
+"External Inventory","外部在庫";
+"Take All","すべて取ります";
+"Default Sort","デフォルトのソート";
+"Alpha Sort","アルファソート";
+"Forge","フォージ";
+"Storage","ストレージ";
+"Upgrades","アップグレード";
+"Crafting","cr cr";
+"Fuel","燃料";
+"Empty","空の";
+"FUEL EMPTY","空の燃料";
+"Skeliopod Meat","スケ科植物の肉";
+"Steel","鋼";
+"Patch Tape","パッチテープ";
+"Rubber","ゴム";
+"Build Recipe","レシピを作る";
+"Grilled Alien Meat","エイリアンミートの焼き";
+"Fuel Input","燃料入力";
+"Any Fuel Item","燃料アイテム";
+"Add Fuel","燃料を加える";
+"Repair Table","修理テーブル";
+"Repair Object","修理オブジェクト";
+"Repair Amount","修理金額";
+"Repair COsts","修理費用";
+"Repair","修復";
+"Accessing Data","データへのアクセス";
+"Sorting","並べ替え";
+"Default","デフォルト";
+"Alphabetical","アルファベット順";
+"Sort","ソート";
+"Urchin Shell","ウルチンシェル";
+"Part of an urchin found on land. It's dangerous to eat raw, but can be used for crafting and cooking.","土地に見られるウニの一部。生を食べるのは危険ですが、クラフトや料理に使用できます。";
+"Equipment Slots","機器スロット";
+"Inventory
+","在庫
+";
+"[A] Skills","[A]スキル";
+"Crafting [D]","クラフト[D]";
+"Exit To Matrix [TAB]","行列を終了する[タブ]";
+"Craft","クラフト";
+"Utilities","ユーティリティ";
+"Defenses","守り";
+"Structures","struct struct";
+"Appliances","電化製品";
+"Underground","地下";
+"Spacecraft","宇宙船";
+"Space Utilities","スペースユーティリティ";
+"Buildable Capacity","建てられた容量";
+"Create Goal","目標を作成します";
+"[A] Inventory","[a]在庫";
+"GPS [D]","GPS [D]";
+"Compass","方位磁針";
+"Basic Scanning","基本的なスキャン";
+"Advanced Scanning","高度なスキャン";
+"Compass Target","コンパス目標";
+"Target Tracking System","ターゲットトラッキングシステム";
+"Cycle Target","サイクルターゲット";
+"Resources","リソース";
+"Droids
+","ドロイド
+";
+"Basic Scan Mineral","基本スキャンミネラル";
+"Low Density Minerals","低密度鉱物";
+"Lithium","リチウム";
+"Magnesium","マグネシウム";
+"Sulfur","硫黄";
+"Quartz","石英";
+"Obsidian","黒曜石";
+"Lonsdaleite","ロンズセライト";
+"Diamond","ダイヤモンド";
+"Medium Density Minerals","中密度鉱物";
+"Titanium","チタン";
+"Zirconium","ジルコニウム";
+"Chromium","クロム";
+"Zinc","亜鉛";
+"Tin","錫";
+"High Density Minerals","高密度ミネラル";
+"Cobalt","コバルト";
+"Nickel","ニッケル";
+"Copper","銅";
+"Molybdenum","モリブデン";
+"Silver","銀";
+"Lead","鉛";
+"Ultra Dense Minerals","超高密度ミネラル";
+"Mercury","水星";
+"Uranium","ウラン";
+"Tungsten","タングステン";
+"Gold","ゴールド";
+"ZOOM","ズーム";
+"Resource  Scanning","リソーススキャン";
+"Fabricated","fabric";
+"Low Density","低密度";
+"Medium Density","中密度";
+"High Density","高密度";
+"Ultra Dense","超高密度";
+"Droid Management","ドロイドマネジメント";
+"All
+","すべて
+";
+"O.M.P.A.","o.p.a.";
+"O.M.M.A.","o.m.";
+"O.M.S.U
+","o.s.u.
+";
+"Droid Type","ドロイドタイプ";
+"Patrol","巡回する";
+"Follow","follow";
+"Send to Position","場所に送る";
+"Choose a Position","位置を選択してください";
+"Resume","履歴書";
+"GPS","GPS";
+"[A] CRAFTING","[a]作成しました";
+"MISSIONS [D]","ミッション[D]";
+"Logs","ログ";
+"Voice Logs","ボイスログ";
+"Scribe","筆記";
+"Operational Mission List","運用ミッションリスト";
+"Mission","ミッション";
+"Completion","完了";
+"Completed Missions","完成したミッション";
+"Audio Log Files","オーディオログファイル";
+"Current File Name","現在のファイル名";
+"Voice Recording","音声録音";
+"Recorded By:
+Record Time:
+Record Date:","：
+記録タイム：
+記録日：";
+"Recording List","録音リスト";
+"CPU","CPU";
+"Found Voice Logs","ボイスログを見つけました";
+"Blueprint","青写真";
+"Scribe Server Log","スクライブサーバーログ";
+"TIMESTAMP","タイムスタンプ";
+"Message","メッセージ";
+"Personal","personal personal";
+"Colony","コロニー";
+"[A] GPS","[a] GPS";
+"DISCOVERIES [D]","発見[D]";
+"Plants","植物";
+"Creatures","creat creat";
+"Minerals","鉱物";
+"Locations","居場所";
+"1. Environment","1.環境";
+"2. Osiris EVA Suit","オシリスエヴァスーツ";
+"3. Nutrition","3.栄養";
+"4. Illness and Injuries","病気とけが";
+"5. Navigation","5.ナビゲーション";
+"6. Equipment","備品";
+"7. Communications","7.通信";
+"8. Fortifications","要塞";
+"9. Vehicle Piloting","9.車両の操縦士";
+"10. O.M.P.A. Manual","o.p.a.マニュアル";
+"Overview","概要";
+"Effects On Personnel","人員への影響";
+"Effects on Equipment","機器への影響";
+"Terrain","地形";
+"Atmosphere","雰囲気";
+"1-1. Physical environment plays a crucial role in survival. Temperature, weather systems, terrain and indigenous life forms all have a direct influence on health and sustainability. Being aware of these elements and the effect that they have is of utmost importance.
+
+1-2. Preventive measures, early recognition, and rapid treatment help minimize the likelihood of decreased functionality and possible death. In short, awareness is key.
+","1-1。身体環境は生存率において重要な役割を果たしています。温度、気象系、地形、先住民族の生活形態はすべて、健康と持続可能性に直接的な影響を与えます。これらの要素を知っていること、および彼らが持っている効果は最も重要です。
+
+1-2。予防策、早期認識、および迅速な治療は、機能性の低下と死亡可能な死亡の可能性を最小限に抑えるのに役立ちます。要するに、意識は重要です。
+";
+"1-3. Gliese 581 is complex and unforgiving of errors. Even in ideal conditions, instances of suit damage, dehydration and indigenous creature attacks may occur. Each instance will require immediate attention and response in order to avoid unfavorable and potentially fatal outcomes. It is wise not to ignore these, as they can become increasingly hazardous to overall health, suit integrity and survival.
+","1-3。 gliese 581は、エラーの複雑で非難されています。理想的な条件でも、スーツの損傷、脱水および先住民の生き物攻撃の事例が発生する可能性があります。各インスタンスは、不利で潜在的に致命的な結果を避けるために、即時の注意と反応を必要とします。それらが全体的な健康に危険にさらされる可能性があるので、完全性と生存率に耐えることができるので、これらを無視しないことは賢明です。
+";
+"1-4. Equipment has a deterioration factor that varies according to its type and purpose. Time decay and usage plays a part in deterioration, as well as terrain elements. As skill points are acquired, equipment can become more substantial, increasing the life expectancy of each item. However, none of the equipment has an infinite life span. Maintaining proper repair and upkeep of equipment will aid in progress and likelihood of survival.
+","1-4。機器の種類と目的に応じて変化する劣化係数があります。時間の崩壊と使用法は、地形要素だけでなく劣化の一部を演奏します。スキルポイントが取得されると、機器はより充実し、各項目の寿命を高めることができます。しかし、どの機器も無限の寿命を持っていません。機器の適切な修理や維持管理を維持すると、進行や生存の可能性が促進されます。
+";
+"1-5. Terrain on extra solar planets can be tretcherous and must be traversed with care. Any misstep can lead to damaging your EVA suit and lead to a suit breach, which can be catastrophic. It's imparitive to explore with extreme caution.
+
+1-6. Slope. When attempting to climb a slope be sure to look at your slope warning indicator. For slopes that are greater than 30 degrees, either at an incline or decline, poses a hazard for your traversal. Attempting to jump or run on this uneven terrain is not advised.
+
+Crouching can be used to traverse extreme slopes if needed.","1-5。余分な太陽惑星の地形はフェッチ革人になることができ、注意を払って横断しなければなりません。誤った段階はあなたのEVAのスーツを損傷し、壊滅的な違反につながることにつながる可能性があります。それは細心の注意を払って探索するのが曖昧です。
+
+1-6。スロープ。斜面を登ろうとすると、必ずスロープ警告インジケータを見てください。傾斜または衰退のどちらかで30度を超える斜面のために、あなたのトラバーサルの危険性をもたらします。この不均一な地形でジャンプまたは実行しようとすることはお勧めできません。
+
+必要に応じて極端な斜面を横断するために身をかがめることができます。";
+"1-7. Each planet and moon has a unique atmopsheric makeup and will tramatically alter your exploration capabilities.
+
+1-8. Atmopsheric Temperature. The temperature of a world's air and surface is a direct result of its atmopheric density and proximity to its star. Thicker atmopsheres will contain more greenhouse gas effects and create a more stable temperature range (although that temperature may still be extremely cold or hot). Thinner atmopsheres will show a higher range in temperature if the world is not tidally locked to the star, or if so, will ldepend on your geographic location on the world.
+
+1-9. Weather Patterns. There is no telling what you may discover in terms of weather. Your EVA suit was designed to handle known weather situations, but may be suseptible to damage in an extreme situation.
+
+If caught in a Dust Storm, be sure to pay attention to the direction the storm is coming from. Seek shelter however you can to avoid debris from the storm. Crouching can limit the chances of imact by up to 60%.","1-7。各惑星と月には独特のアメリカフェーフメイクがあり、探検能力を経験的に変更します。
+
+1-8。有機フェーフ温度世界の空気と表面の温度は、その雰囲気密度とその星への近さの直接的な結果です。より厚いアトメフェーズには、温室効果が高く、より安定した温度範囲を作ります（その温度は依然として非常に寒いか暑い場合があります）。世界が星に干渉していない場合、またはそうであれば、より薄い雰囲気がより高い範囲の温度を表示します。
+
+1-9。気象パターン。あなたが天候の観点から発見するかもしれないことを知らせることはありません。あなたのEVAスーツは既知の気象状況を処理するように設計されていましたが、極端な状況で損害を与える可能性があります。
+
+ほこりの嵐に巻き込まれたら、嵐がやってくる方向に注意を払うようにしてください。避難所を求めるしかしあなたは嵐からの破片を避けることができます。しゃがみは、束縛の可能性を最大60％まで制限することができます。";
+"1. Physical Environment","1.物理的環境";
+"Suit Repair","スーツの修理";
+"Suit Maintenance","スーツのメンテナンス";
+"2-1. The EVA Suit designed for the Osiris Mission is equipped with state-of-the-art sensors. These sensors in turn, provided detailed and up-to-the minute status reports on the viability and integrity of the EVA suit. Monitoring these readings in the HUD are integral to survivability. The sensors monitor: oxygen levels, temperature, hydration/nutrition levels, and health and suit health. 
+
+2-2. Oxygen Levels: Monitoring oxygen consumption is integral. Without oxygen, there is no breathing. Be mindful that running and other taxing activity consume more oxygen. Oxygen will replenish based on traces of O2 in the atmosphere.
+
+2-3. Temperature: Maintaining a viable suit temperature is of the utmost importance. Some climes within the Gliese 581 system will harbor environments that are blistering cold, piercingly hot, and variables in between. If the suit becomes too cold, look for ways to increase the temperature, as hypothermia may ensue. If the suit becomes too hot, look for ways to decrease the temperature, as it may result in death.
+
+2-4. Hydration/Nutrition: Hydration is the outer ring while Nutrition is the inner ring.  Hunger and thirst, if not remedied, can cause a decline in health and performance. Your actions such as running and jumping will impact your thirst and hunger.
+
+2-6. Health/Suit Integrity: Health is the outer ring while Suit Integrity is the inner ring. In instances or severe injuries or suit breaches, Oxygen levels will drop. To fix suit breaches or severe injuries, equip and use bandages, either found or crafted. ","2-1。 Osiris Mission用に設計されたEVAスーツは最先端のセンサーを備えています。これらのセンサーは、EVAスーツの実行可能性と完全性に関する詳細かつ最新のステータス報告を提供しました。 HUDのこれらの測定値を監視することは、生存可能性に不可欠です。センサーは、酸素レベル、温度、水和/栄養レベル、および健康とスーツの健康を監視します。
+
+2-2。酸素レベル：酸素消費量のモニタは不可欠です。酸素なしでは、呼吸はありません。実行やその他の課税活動がより多くの酸素を消費することに注意してください。酸素は大気中のO 2の痕跡に基づいて補充されます。
+
+2-3。温度：実行可能な温度を維持することは最も重要です。 Gliese 581システム内のいくつかのクリムは、風邪、積極的に暑く、そして変数を中にぼやけている環境を抱えています。スーツが寒すぎると、低体温が発生する可能性があるため、温度を上げる方法を探します。スーツが暑くなりすぎると、死が発生する可能性があるため、温度を下げる方法を探します。
+
+2-4。水和/栄養：水分補給は外輪であり、栄養は内輪です。怒られていない場合は、敵と渇望が治療されていない場合は、健康と性能が低下する可能性があります。ランニングやジャンプなどのあなたの行動はあなたの渇きと飢餓に影響を与えます。
+
+2-6。健康/スーツの整合性：健康は外輪ですが、スーツの完全性は内輪です。インスタンスや激しい怪我や違反の侵害では、酸素レベルが低下します。スーツの侵害や激しい怪我を修正するには、包帯を装備して使用しています。";
+"2-7. If the EVA suit becomes damaged or breached during exploration of the Gliese 581 system, make sure to equip and use patch tape to address the breach. Then equip and use bandages to re-stabilize suit integrity. Failure to do so may result in suffocation or possibly death.
+","2-7。 EVAスーツがGliese 581システムの探査中に損傷を受けるか違反された場合は、必ず違反に対処するためにパッチテープを装備して使用してください。その後、包帯を装備して使用してスーツの完全性を安定させます。そうしないと、窒息やおそらく死亡する可能性があります。
+";
+"*Use patch tape to repair your EVA suit.","*あなたのEVAスーツを修復するためにパッチテープを使用してください。";
+"2-8. To ensure optimal EVA performance is achieved, suit maintenance is required when necessary. Patch tape and bandages are required deal with suit breaches. Failure to maintain the suit may result in suffocation or possibly death.
+
+Be sure to mind the environment. Beware of sharp objects as these can pierce your suit and cause a suit breach. Take caution in climbing steep slopes, crouching carefully where possible.","2-8。最適なEVAの性能が達成されるようにするには、必要に応じてメンテナンスが必要です。パッチテープと包帯はスーツの侵害を伴う扱いに必要です。スーツを維持しないと、窒息やおそらく死が発生する可能性があります。
+
+必ず環境に気にしてください。これらがあなたのスーツを突き刺し、違反を引き起こす可能性があるので、鋭利なオブジェクトに注意してください。可能な限り慎重にしゃがんだり、急な斜面を登って注意してください。";
+"*Use patch tape and bandages for EVA suit repair and maintenance.","* EVAスーツの修理とメンテナンスのためのパッチテープと包帯を使用してください。";
+"*Keep your eye on o2 readings. Be sure to allow your o2 scrubber to replenish while in atmospheres with gases that contain oxygen. NOTE - o2 does not replenish while in space or in very thin atmospheres.","* O2の読み取りを目にしてください。 O 2スクラバーは、酸素を含むガスと雰囲気中で入りながら補充することを必ず許可してください。注 -  o2は空間内または非常に薄い雰囲気中で補充されません。";
+"*Zero oxygen will cause suffocation. It is advisable to cease moving until your o2 scrubber can begin to replenish o2 in your EVA suit.","*ゼロ酸素は窒息を引き起こします。あなたのO2スクラバーがあなたのEVAスーツでO2を補充することができるまで、動くことを止めることをお勧めします。";
+"2. Osiris Mission EVA Suit","オシリスミッションエヴァスーツ";
+"Physical Conditioning","身体調整";
+"Hydration","水分補給";
+"Food Preparation","食品の調理";
+"3-1. Quality of life is largely dependent on nutrition, hydration and general health. Over time, physical condition can deteriorate, affecting speed and survival. Hunger and thirst, if not remedied, can cause a decline in health and performance. Climate conditions such as heat and cold also have an effect. It is imperative to monitor these using the suit readings provided.
+
+3-2. When physical condition decreases and health is impaired, healing is possible using certain types of food and bandages. Healing is crucial in order to sustain life.
+","3-1。生活の質はほとんど栄養、水和、そして一般的な健康に依存しています。時間の経過とともに、体調が悪化し、速度と生存に影響を与える可能性があります。怒られていない場合は、敵と渇望が治療されていない場合は、健康と性能が低下する可能性があります。熱や寒さなどの気候条件も効果があります。提供されたスーツの読みを使用してこれらを監視することは不可欠です。
+
+3-2。体調が低下し、健康が損なわれると、特定の種類の食品や包帯を使用して治癒が可能です。命を維持するために癒しは非常に重要です。
+";
+"3-3. Loss of body water, or dehydration, plays a major role in health and survival. Depending upon level of exertion, hydration needs will fluctuate. Be sure to check hydration levels and consume water whenever the suit reading (located in the lower left-hand corner) indicates the need to do so.
+","3-3。体の水の喪失、または脱水は、健康と生存に大きな役割を果たします。運動レベルに応じて、水和ニーズが変動します。スーツの読み取り（左下隅にある）がそうする必要性を示すときはいつでも、水分補給レベルを確認して水を消費してください。
+";
+"3-4. Poor nutrition contributes to deterioration in quality of life and chance of survival. Caloric intake is necessary, as well as attention to the types and sources of calories. Almost anything is edible, but not every type of food will heal. Some sources of nutrition will only satisfy the need for calories. Remember to monitor hunger in the suit readings (located in the lower left-hand corner) and replenish calories as needed.
+","3-4。栄養不良が生き残ることや生存の可能性の悪化に貢献します。カロリーの種類や源への注意が必要です。ほとんど何でも食用がありますが、あらゆる種類の食品が癒されるわけではありません。いくつかの栄養源はカロリーの必要性を満たすだけです。必要に応じて、（左下隅にある）スーツの読みで飢えを監視し、カロリーを補充してください。
+";
+"Hypothermia","低体温";
+"Dehydration","脱水";
+"Minor Injuries","軽傷";
+"Severe Injuries","激しい怪我";
+"4-1. Cold injuries, both freezing and non-freezing, are a serious threat. Hypothermia is a potentially dangerous drop in body temperature, usually caused by prolonged exposure to cold temperatures. Keeping aware of the outside temperature and suit temperature is vital.  Cold weather injury prevention and timely shelter construction are also critical and may help avoid debilitating injuries. When temperatures drop, be sure to employ methods of creating internal warmth.","4-1。冷たい怪我、凍結と非凍結の両方は深刻な脅威です。低体温は体温の潜在的に危険な低下、通常は低温温度への長期暴露によって引き起こされます。外部温度とスーツの温度を気付くことは不可欠です。寒い気象のけがの防止とタイムリーな避難所建設も重要であり、衰弱さの衰弱を回避するのに役立ちます。気温が低下すると、内部暖かさの作成方法を必ず採用してください。";
+"4-2. Dehydration happens when your body doesn't have as much water as it needs. Without enough, your body can't function properly. You can have mild, moderate, or severe dehydration depending on how much fluid is missing from your body. Avoid becoming dehydrated by checking the suit reading on hydration level (located in the lower left-hand corner.) Replenish and consume fluids on a regular basis. When temperatures rise due to weather conditions, decreasing internal suit temperature may become necessary to avoid dehydration and even fatality.
+
+Food can be a source of hydration if a Chem Station to create water is not available.","4-2。あなたの体が必要なものと同じくらい多くの水を持っていないとき、脱水は起こります。十分なしに、あなたの体は正しく機能することはできません。体からどれだけの流体が欠けているかに応じて、軽度の、中程度、または重度の脱水を持つことができます。水和レベル（左下隅にある）のスーツの読み取りを確認することで脱水しないでください。液体を定期的に補充して消費する。気象条件のために温度が上がると、脱水や致死性を避けるために内部スーツの温度を下げることが必要になる可能性があります。
+
+水を作り出すための化学ステーションが利用できない場合、食品は水分補給源となる可能性があります。";
+"4-3. It is very likely that minor injuries will occur when in combat against indigenous creatures, during missions, or even performing regular tasks. Suit breaches are the most common type of minor injury. If a suit breach occurs, use patch type to repair as soon as is possible.
+","4-3。軽心の生き物に対して、ミッション中、または定期的な作業を実行することさえある場合は、軽傷が発生する可能性が非常に高いです。スーツの侵害は、最も一般的な種類の軽傷を負っています。スーツの違反が発生した場合は、可能な限り早く修理するためにパッチタイプを使用してください。
+";
+"*Bandages can heal minor wounds.","*包帯はマイナーな傷を癒すことができます。";
+"*If on a planet with foliage species, attempt to create crude bandages when out of manuafactured bandage reserves.","*葉の種を持つ惑星の上にある場合は、マナファチュレッド包帯準備が払われているときに粗包帯を作成しようとします。";
+"4-4. In the event a severe injury occurs, immediately find or craft bandages and use them to heal. If this is not done in an expedient manner, health will rapidly deteriorate and death may follow shortly thereafter.
+","4-4。イベントでは、激害が起こり、直ちに包帯を見つけたりクラフトしたり、癒しに使用したりします。これが便利な方法で行われていない場合、健康は急速に悪化し、その後間もなく死亡することができます。
+";
+"*Where possible, create large amounts of crude bandages while reserving Medkits for only dire situations.","*可能であれば、Direの状況のみのためのメドキーを予約しながら、大量の粗包帯を作成します。";
+"*Medkits can save your life when experiencing severe wounds.","* Medkitsは重度の傷を経験するときにあなたの人生を救うことができます。";
+"Navigation","ナビゲーション";
+"5-1. Navigating through the Gliese 581 System can be both enthralling and frightening. But basic navigation shouldn’t be confusing.
+
+5-2. The Locator provided for the Osiris Mission is an extremely helpful navigational tool. Equipping the locator will reveal the terrain’s topography, names of discovered areas, locations of resources (as indicated by icons), as well as longitude and latitude. Metallic objects will appear on your Locator, as well as your structures.
+
+5-3. Longitude: Longitude is the designated coordinate that identifies the east-west position of a point on the planets terrain. 
+
+5-4. Latitude: Latitude is the designated coordinate that identifies the north-south position of a point on the planets terrain.
+
+5-5. Compass: Your compass is shown in the Top Middle of your display and indicates your direction along with any primary structures you own.
+","5-1。 gliese 581システムを介してナビゲートすることは、魅力的で恐ろしいの両方であり得る。しかし基本的なナビゲーションは混乱しないでください。
+
+5-2。オシリスの使命に提供されるロケータは非常に役立つナビゲーションツールです。ロケーターを装備すると、地形の地形、発見された地域の名前、リソースの場所（アイコンで示すように）、および経度と緯度が明らかになります。あなたの構造体だけでなく、メタリックオブジェクトはあなたのロケータに表示されます。
+
+5-3。経度：経度は、惑星の地形上のポイントの東西位置を識別する指定座標です。
+
+5-4。緯度：緯度は、惑星の地形上のポイントの南北位置を識別する指定座標です。
+
+5-5。コンパス：あなたのコンパスはあなたのディスプレイの上部中央に表示され、あなたが所有するどんな主な構造と共にあなたの方向を示します。
+";
+"*Locator will give you positional coordinates on your current planet and can help find natural resources.","*ロケーターはあなたの現在の惑星の位置座標を与え、天然資源を見つけるのに役立ちます。";
+"DATA NOT AVAILABLE
+","データが利用できません
+";
+"Tools","ツール";
+"Artillery","砲兵";
+"Combat Tactics","戦闘戦術";
+"6-1. When exploring and crafting, different tools will be useful in accomplishing various tasks. Tools do not have infinite usage and will wear down over time. It is imperative to repair tools when necessary and/or craft new ones as needed. The rate of decay varies from tool to tool. Some tools will require recipes and specific resources, obtainable only by mining or harvesting them, in order to be crafted. Most tools are only useful for mining, though there are a couple that may be used in combat. These are referred to as hybrid tools.
+
+6-2. Keep in mind that not all tools are able to be obtained right from the start. Some tools will only become available as progress is made and skill points are acquired.","6-1。探索と作成時に、さまざまなタスクを実行するのに役立ちます。ツールは無限の使用をしており、時間の経過とともに磨耗します。必要に応じて、必要に応じて新しいものを修理することが不可欠です。減衰率は工具ごとに異なります。いくつかのツールは、作成されるために、それらを採掘または収穫することによってのみ得られるレシピと特定のリソースを必要とするでしょう。ほとんどのツールは採掘にのみ役立ちますが、戦闘で使用される可能性があるカップルがあります。これらはハイブリッドツールと呼ばれます。
+
+6-2。すべてのツールを開始から正しく入手できるわけではないことに注意してください。進歩が行われ、スキルポイントが取得されるため、一部のツールは利用可能になるだけです。";
+"*Chisel can be used to break down minerals.","*チゼルはミネラルを分解するために使用することができます。";
+"*Shovel can gather loose materials like sand.","*シャベルは砂のような緩い材料を集めることができます。";
+"6-3. Artillery can be used to protect against indigenous creatures and human threats.  There are several different types of weapons available for use, not all of them available immediately. Which weapons are initially given depends on chosen class: Marine, Scientist, Ranger, or Engineer. There are two main categories of artillery, Melee and Ranged. Each weapon sustains and gives different levels of damage, depending on ammo and weapon type.","6-3。砲兵は、先住民の生き物や人間の脅威から保護するために使用することができます。使用可能な武器にはいくつかの異なる種類があります。どの武器が最初に与えられているかは、農民、科学者、レンジャー、またはエンジニアによって選択されたクラスによって異なります。砲兵の2つのカテゴリー、近接、そして範囲があります。各武器は維持し、弾薬と武器の種類によって異なる損傷を与えます。";
+"*For ranged weapons be mindful of ammunition reserves.","*さまざまな武器のために弾薬埋蔵量に注意してください。";
+"*Melee weapons take a lot of punishment and frequently need to be repaired.","*近接武器は多くの罰を受け、頻繁に修理する必要があります。";
+"6-4. Strategy is a key component to surviving Gliese 581 and all that it encompasses. Remaining vigilant at all times and keeping an eye on the horizon is of dire importance. Threats to safety come not only in the form of environmental events, but also indigenous creatures and even other humans. Be prepared. Keep weapons at the ready and fully stocked with ammunition. In some cases, the best tactic is actually fleeing as quickly as possible. Tactics will change on a case by case basis and require critical thinking as well as quick reflexes.","6-4。戦略は、gliese 581とそれが網羅するすべてのものを生き残るための重要な要素です。常に警戒して、地平線に目を向けておくことは恐れがあります。安全への脅威は、環境イベントの形でだけでなく、先住民の生き物や他の人間でもあります。準備して。準備ができて武器を保管し、弾薬を完全に在庫しています。場合によっては、最高の戦術は実際にできるだけ早く逃げています。戦術はケースで変化し、迅速な反射と同様に批判的思考を必要とします。";
+"Comms Feed","コムフィード";
+"Locating Personnel","人間の位置を見つける";
+"Colony Development","コロニー開発";
+"7-1. Proper and meaningful communication is extremely valuable and an important tool when exploring the Gliese 581 System. That’s where the Communication Feed is a helpful tool. To access the Communication Feed, press ENTER and then one of the chat commands as needed. 
+
+Chat Commands are as follows:
+[TAB] Cycle Available Channels
+[/g] Global Channel
+[/l] Local Channel
+[/c] Colony Channel
+[/p] Party Channel
+[/w] Whisper Channel
+[/r] Reply to previous Whisper
+[/ix] Ignore Channel x
+[/ux] Unignore Channel x
+[/ping] Toggle Audio Ping
+[/ompa help] O.M.P.A. Commands
+","7-1。適切で意味のあるコミュニケーションは、Gliese 581システムを探索するときに非常に価値があり、重要なツールです。それが通信フィードが役立つツールである場所です。通信フィードにアクセスするには、必要に応じてEnter以降のチャットコマンドを押します。
+
+チャットコマンドは次のとおりです。
+[TAB]サイクル利用可能なチャンネル
+[/ g]グローバルチャンネル
+[/ l]ローカルチャンネル
+[/ c]コロニーチャンネル
+[/ P]パーティーチャネル
+[/ w]ささやきチャンネル
+[/ r]前のささやきに返信してください
+[/ IX]チャネルXを無視します
+[/ UX] unignoreチャネルX.
+[/ ping]オーディオピンを切り替えます
+[/ ompaヘルプ] o.p.a.コマンド
+";
+"DATA NOT AVAILABLE 
+","データが利用できません
+";
+"7-2. Locating other personnel within the Gliese 581 System can greatly increase the chance of survival. That’s why it’s key to constantly be on the look out for others roaming the foreign terrain. 
+
+7-3. One way to locate Personnel is through the Communication Feed located in the upper left-hand corner of your HUD. To access this helpful tool, press ENTER and then locate the appropriate channel you wish to chat in. Once communication with other personnel has been achieved, share the current coordinates and wait until they arrive at the location. 
+
+7-4. Another way to locate personnel is through the use of the Flare Gun. For those times when communication is down or not working, simply equip the flare gun, point it towards the sky, and fire. This will alert any other personnel within the vicinity. 
+","7-2。 Gliese 581システム内の他の人員を見つけることは、生存の可能性を大幅に増やすことができます。それが、外国の地形をローミングする他の人のために絶えず絶えずされるのが鍵です。
+
+7-3。人員を見つける1つの方法は、HUDの左上隅にある通信フィードを通してです。この役に立ちましたツールにアクセスするには、Enterキーを押してからチャットしたい適切なチャンネルを見つけます。他の人員との通信が達成されると、現在の座標を共有して、場所に到着するまで待ちます。
+
+7-4。人員を見つけるためのもう一つの方法はフレアガンの使用を通してです。コミュニケーションが停止していない場合は、フレアガンを装備し、空に向かってそれを発射してください。これにより、その他の職員に近くの職員に警告します。
+";
+"*Flares can be used to locate personnel.","*フレアは人員を見つけるために使用することができます。";
+"7-5. U.N.E. operatives may find themselves coming into contact with other personnel. In these situations, these personnel can group up by either setting up a party or colony. 
+
+7-6. Setting Up A Party: For the personnel creating a party, they need to walk up to the other operative, look at them, and then press [F] to invite. The personnel joining the party must then look and the inviter and then click [ACCEPT] in the menu.
+","7-5。 u u手作りは自分自身が他の人員と接触するのを見つけるかもしれません。このような状況では、これらの人員はパーティーやコロニーを設定することによってグループ化することができます。
+
+7-6。パーティーを設定する：パーティーを作成する担当者のために、彼らは他の手術を行って、それらを見てから[F]を押して招待する必要があります。当事者に参加する担当者は、そしてインバータを見て、メニューの[承諾]をクリックする必要があります。
+";
+"7-5. U.N.E. operatives may find themselves coming into contact with other personnel. In these situations, these personnel can group up by either setting up a party or colony. 
+
+7-6. Setting Up A Party: For the personnel creating a party, they need to walk up to the other operative, look at them, and then press [F] to invite. The personnel joining the party must then look and the inviter and then click [ACCEPT] in the menu.
+
+7-7. Setting Up A Colony: A colony is a territory at a specific location on a planet or moon, claimed and controlled by at least one personnel. Personnel can automatically claim a territory when placing a structure on unclaimed ground. This colony can be joined by other personnel when it has been officially created. Creating a colony can be done by following the steps below:
+
+Click on ‘Create Colony.’
+Add other personnel by using the multi tool. Please note that personnel have to belong to the same faction in order to join a colony.
+
+Adding other personnel to an existing colony automatically gives them access to anything that is built or crafted after they joined. In order to give them access to previously built/crafted objects, the creator of the colony needs to give access manually using the multi-tool on each object (make public to colony).","7-5。 u u手作りは自分自身が他の人員と接触するのを見つけるかもしれません。このような状況では、これらの人員はパーティーやコロニーを設定することによってグループ化することができます。
+
+7-6。パーティーを設定する：パーティーを作成する担当者のために、彼らは他の手術を行って、それらを見てから[F]を押して招待する必要があります。当事者に参加する担当者は、そしてインバータを見て、メニューの[承諾]をクリックする必要があります。
+
+7-7。コロニーを設定する：コロニーは、惑星や月の特定の場所にある領域で、少なくとも1人の職員によって請求され管理されています。要員は、除血されていない地面に構造を置くときに自動的に領土を主張することができます。このコロニーは、正式に作成されたときに他の人員によって結合することができます。コロニーを作成するには、以下の手順に従って行うことができます。
+
+「コロニーを作成」をクリックしてください。
+マルチツールを使用して他の人員を追加します。民主党に参加するために職員は同じ派閥に属する必要があります。
+
+既存のコロニーに他の人員を追加すると、自動的に結合された後に構築または作成されたものへのアクセスが自動的にアクセスできます。以前に構築されたオブジェクトへのアクセスを与えるために、コロニーの作成者は、各オブジェクトのマルチツールを使用して手動でアクセスする必要があります（Publicをコロニーにする）。";"
+#VALUE!
+"Access to utilities","ユーティリティへのアクセス";
+",MISSING_TRANSLATION;","、Missing_translation; ";
+"7. Commuinications","コミュニション";
+"Basic Shelter","基本避難所";
+"Habitat System","生息地システム";
+"Maintenance","メンテナンス";
+"8-1. Creating some form of shelter is in the best interest of survival.
+
+8-2. Upon exiting the pod, an Inflatable Dome will be provided, however, this type of shelter has a short time decay and only offers temporary sanctuary from the harsh environment. Creating a much sturdier shelter should be at the top of the priority list. ","8-1。いくつかの形の避難所を作り出すことは生存の最良の関心事です。
+
+8-2。ポッドを出ると、膨脹可能なドームが提供されますが、このタイプの避難所は短時間の崩壊を持っており、過酷な環境から一時的な聖域のみを提供しています。たくさんの頑丈な避難所を作成することは、優先順位リストの上にあるべきです。";
+"*When Inflatable Dome is not available, create shelter from found materials.","*インフレータブルドームが利用できない場合は、見つかった素材から避難所を作成してください。";
+"8-3. Habitats are based on a modular system of building. Once a habitat is created, adding an airlock will allow for pressurization of the structure. Custom walls make habitats more expansive and personalized. Interconnecting habitats is possible with the incorporation of hallways. Building multilevel structures is also possible, but will require the addition of an elevator.
+","8-3。生息地は建物のモジュール式システムに基づいています。生息地が作成されると、エアロックを追加すると構造の加圧が可能になります。カスタムウォールは生息地をより広く、パーソナライズさせます。廊下の組み込みで生息地を相互接続することが可能です。マルチレベル構造の構築も可能ですが、エレベーターの追加が必要です。
+";
+"*Modular HAB system building is the foundation of all Osiris Mission Colony settlements.","*モジュラhabシステム構築は、すべてのオシリスミッションコロニー集落の基礎です。";
+"*Airlock is needed for pressurized HABs.","*加圧上隆起にはエアロックが必要です。";
+"*Hallways join HABs and other structures.","* HallwaysはHABSやその他の構造物を結合します。";
+"*Add mutliple levels by stacking HABs with the Upper Story attachment.","*上層の物語の添付ファイルで積み重ねを積み重ねることで、ムトリプルレベルを追加します。";
+"*Barracks can contain special furniture equipment.","*兵舎には特別な家具機器を含めることができます。";
+"8-4. Utilities are functional elements that generate air, electricity, and other essentials. Some of these items include: Storage units, Fabricator, Forges, Crafting Tables. In order to craft or build certain utilities, materials must be obtained and required skills must be unlocked. Certain items can also be found in the game by exploring, like batteries, wires, heavy machine gun.Items such as regular bandages and Medkits are able to be crafted using a 3D Printer or Fabricator.
+
+8-5. The ability to craft water in an empty glass jar is possible upon the accumulation of Oxygen & Hydrogen. A Water Reclaimer unit built inside a Habitat will also allow for quenching thirst every few minutes.","8-4。ユーティリティは、空気、電気、およびその他の必需品を生成する機能要素です。これらの項目のいくつかは次のとおりです。記憶装置、製造装置、偽造品、作成テーブル。特定のユーティリティを作成または構築するためには、材料を取得し、必要なスキルをロック解除する必要があります。特定の項目は、電池、ワイヤー、重機銃のようなものを探索することによって、3Dプリンターまたは製造業者を使用して作成することができます。
+
+8-5。空のガラス瓶に水を作る能力は、酸素と水素の蓄積時に可能である。生息地の中に建てられた水再生ユニットも数分ごとの渇きを急冷することができます。」";
+",MISSING_TRANSLATION;","、Missing_translation; ";
+"*Storage containers are essential to keeping large amounts of materials safe.","*貯蔵容器は大量の材料を安全に保つために不可欠です。";
+"*Crafting Utilities such as the 3D Printer can create small useful items.","* 3Dプリンタなどの作成ユーティリティは、小さな有用な項目を作成できます。";
+"*Smelting equipment is necessary for melting down minerals for structure building and item crafting.","※構造体の建物や商品の作成のために鉱物を融解させるためには、製錬機器が必要です。";
+"8-6. Structures are the constituent elements of the colony. Built on essentially a grid, the different components can be snapped together to create large colony complexes for growing food, research, and mutual survival. The current maximum for structures on a single planet is 200, or 20 per player. Aside from Habitats and Huts, there are a many other structures that can be built such as a Biodome, Laboratory, Furniture, Custom Wall Pieces and Utilities.
+","8-6。構造はコロニーの構成要素です。本質的にグリッド上に構築された、異なる成分を一緒に巻きつけることができ、食物、研究、そして相互の生存のための大きなコロニー複合体を作成することができる。単一の惑星上の構造の最大値は200、プレーヤーあたり20、または20です。生息地や小屋とは別に、生物学、実験室、家具、カスタムの壁の駒やユーティリティなど、建てられてもらうことができる他の多くの構造があります。
+";
+"*Biodome are perfect for cultivating food reserves.","*生物学的埋蔵量の栽培に最適です。";
+"*Specialty furniture equipment in the HAB can be extremely useful.","* HABの特殊な家具装置は非常に便利です。";
+"*Solar panels must be used to power structures and utilities.","*ソーラーパネルは構造やユーティリティに電力を供給するために使用されなければなりません。";
+"*Create unique structures with custom prefabs.","*カスタムプレハブを使用して固有の構造を作成します。";
+"*Laboratory is a factory system that can build vehicles and robots.","*実験室は車両やロボットを作ることができる工場システムです。";
+"8-7. To keep structures, vehicles and other important elements in proper working order, performing regular maintenance is necessary. Maintenance can be performed with the Multi-Tool. This is an indestructible tool used for repairing damaged structures, walls vehicles and droids.
+","8-7。構造、車両、その他の重要な要素を適切な作業秩序に保つためには、定期的なメンテナンスを実行する必要があります。メンテナンスはマルチツールで実行できます。これは、損傷した構造、壁の車両、およびドロイドの修復に使用される不死のツールです。
+";
+"*OMPA can be programmed to auto repair your colony structures.","* ompaはあなたのコロニー構造を自動修理するようにプログラムすることができます。";
+"*Repair your structures and equipment with the Multi-Tool.","*マルチツールで構造や機器を修理してください。";
+"Driver Training","ドライバートレーニング";
+"Planning for Space","宇宙の計画";
+"Space Travel","宇宙旅行";
+"Space Walking","スペースウォーキング";
+"9-1. Vehicles allow for rapid transportation across large distances, moving resources and more. There are two different types of vehicles<semicolon> hovering and wheeled. The durability, speed and maneuverability varies depending on the type of vehicle. They can be built using the Laboratory. Each type of vehicle will require different resources in order to craft.
+
+9-2. Default Vehicle Controls:
+Enter the vehicle - F key.
+Directional Maneuvers - WASD keys.
+Exit the vehicle -  F key.
+
+9-3. Please Note:
+- In certain vehicles, hold the shift key will activate a boost that uses a large amount of fuel to gain additional speed.
+
+- When in third person view, it is possible to look left or right while driving.
+
+- The Ground Assault Vehicle has the capacity for an an additional passenger who may control the turret.
+","9-1。車両は、大きな距離、移動資源などを越えて急速な輸送を可能にします。 <セミコロン>ホバリングとホイールドの2つの異なるタイプの車両があります。耐久性、速度および操縦性は車両の種類によって異なります。それらは実験室を使って建設することができます。各タイプの車両は、作るために異なるリソースを必要とします。
+
+9-2。デフォルトの車両の制御
+車両Fキーを入力してください。
+方向性能操作 -  WASDキー。
+車両Fキーを出ます。
+
+9-3。ご注意ください：
+ - 特定の車両では、Shiftキーを押しながら大量の燃料を使用して追加の速度を得るためのブーストを起動します。
+
+ -  3枚目の視聴中に、運転中に左右に見えることが可能です。
+
+ - 地上アサルト車両は、タレットを制御する可能性がある追加の乗客の能力を持っています。
+";
+"9-3. Before journeying out, prepare accordingly. Be sure that the vehicle used for operation is adequately fueled and in good working order. Check water and food supply to make certain that there is enough to sustain for the journey ahead. Bring any necessary resources and supplies that may be needed while away from the base.
+","9-3。旅行する前に、それに応じて準備してください。操作に使用される車両が適切に燃料を供給していることを確認してください。水と食糧供給を確認して、先の旅のために維持するのに十分なことを確実にすることを確認してください。基地から離れている間必要とされる可能性がある必要なリソースと電源を入れる。
+";
+"9-4. Spaceships have a translational life that require a large amount of fuel when leaving the atmosphere. Prepare accordingly. Once in orbit, lack of gravity and friction allow for less fuel consumption. The following controls are used for operation of the Spaceship:
+
+9-5. Default surface controls while flying:
+Start the ship and accelerate - LMB
+Land and deccelerate - RMB
+Directional maneuvers - WASD keys from wherever the mouse is currently pointed.
+","9-4。宇宙船は、大気を出るときに大量の燃料を必要とする翻訳寿命を持っています。それに応じて準備します。軌道に入ったら、重力と摩擦の欠如は燃料消費量の少ないことを可能にします。以下のコントロールは宇宙船の運用に使用されます。
+
+9-5。フライング中のデフォルトのサーフェスコントロール：
+船を始めて加速する -  1mb
+土地と急流 - 乗組員
+方向性能操作 - マウスが現在指摘されている場所からのWASDキー。
+";
+"9-7. The E.V.A. Suit has been designed to allow for prolonged Space Walks. Personnel may find themselves in a predicament where they need to leave their space station or ship and begin space walking. The default controls for space walking are as follows: 
+
+Move Forward - W Key
+Move Backward - S Key
+Strafe Left - A Key
+Strafe Right - D Key
+Move Upward - Spacebar Key
+Move Downward - Left Control Key
+Orient to Camera - Right Mouse Button
+Boost - Left Shift Key
+","9-7。 e.v.a.スーツは長期間の宇宙の散歩を可能にするように設計されています。職員は自分たちの宇宙ステーションや船を残してスペースウォーキングを始める必要がある賞を受賞しているかもしれません。スペースウォーキングのデフォルトコントロールは次のとおりです。
+
+前方へ移動 -  Wキー
+後方を移動します
+Strafe Left  - キー
+STRAFE right-Dキー
+上に移動 - スペースバーキー
+下向き - 左制御キーを移動します
+カメラへのオリエント - マウスの右ボタン
+ブースト - 左シフトキー
+";
+"9-8. Vehicles will require reparations and regular maintenance. The Multi Tool can be used to repair vehicles. Be sure to refuel each vehicle on a consistent basis. Refueling is performed by using the container that holds fuel. When prompted, press the [F] key.
+","9-8。車両は賠償と定期的なメンテナンスを必要とします。マルチツールを使用して車両を修理することができます。各車両を一貫した給油してください。燃料補給は、燃料を保持する容器を使用することによって行われる。プロンプトが表示されたら、[F]キーを押してください。
+";
+"9. Vehicle Piloting and Aeronotics","車両の操縦と航空ティックス";
+"Steering Behaviors","ステアリングビヘイビアー";
+"Mining","鉱山";
+"Repairing","修理";
+"10-1. The Osiris Mission Personal Assistant (O.M.P.A.) was developed to assist field personnel with their active duties on alien planets. Each O.M.P.A. has been installed with a set of upgradeable algorithms that include navigation, repair, mining, and self defense.
+
+10-2. Follow: Activating the Follow procedure engages the O.M.P.A. unit to trail personnel. This will keep the unit nearby to provide assistance when needed.
+
+10-3. Flank: Activating the Flank procedure engages the O.M.P.A. unit to lead. This maneuver is ideal for guarding personnel from oncoming attacks. The O.M.P.A. is also equipped with high tech sensors that can spot danger quickly and engage the threat before it gets nearby.
+
+10-4. Engage (Passive): If the necessary upgrades have been installed, the O.M.P.A. unit will automatically engage hostile threats to protect human personnel from injuries and prevent structural damage.
+
+10-5. Repair: Activating the Repair procedure engages the O.M.P.A. unit to patrol a specified area and repair any owned structures that have accrued any damage.
+
+10-6. Mine: Activating the Mine procedure engages the O.M.P.A. unit to patrol a specified area and mine any valuable resources. If the necessary upgrades have been installed, the unit will also be able to detect nearby storage units and unload the collected materials.
+
+10-7. Summon (Experimental): Each O.M.P.A. has been equipped with a newly discovered mineral that has been found to contain manipulatable quantum properties. The material has been harnessed to allow the unit to teleport when the Summon procedure is activated. Using this feature comes at a cost, in order to provide the necessary energy to activate the reaction, a large amount of power is drained from the battery power source.","10-1。オシリスミッションパーソナルアシスタント（o.m.a.）は、エイリアン惑星での積極的な職務で現地職員を支援するために開発されました。各o.p.a.ナビゲーション、修理、採掘、および自己防衛を含む一連のアップグレード可能なアルゴリズムがインストールされています。
+
+10-2。従う：フォロー手順を有効にするo.p.a.a。トレイル担当者へのユニット。これにより、ユニットは必要に応じて支援を提供します。
+
+10-3。 FLANK：フランク手順を活性化すると、o.p.aが働きます。リードするユニット。この操縦者は、対向攻撃から担当者を守るのに理想的です。 o.p.a.また、近くに近くなる前に迅速に危険を見つけて脅威に従事することができるハイテクセンサーを搭載しています。
+
+10-4。 Engage（Passive）：必要なアップグレードがインストールされている場合は、o.m.a.ユニットは、人員の担当者を怪我から保護し、構造的な損害を防ぐために、敵対的な脅威を自動的に取り組みます。
+
+10-5。修理：修理手順を起動すると、o.p.aが従事します。指定された領域を巡回し、損傷を受けた所有構造を修理します。
+
+10-6。鉱山：鉱山処置を活性化すると、o.p.a。指定された領域を巡回し、貴重なリソースを採用するための単位。必要なアップグレードがインストールされている場合、ユニットは近くのストレージユニットを検出して収集した資料をアンロードすることもできます。
+
+10-7。召喚（実験的）：各o.p.a.マニピュレータ可能な量子特性を含むことが判明した新しく発見されたミネラルを備えています。この材料は、召喚手順が活性化されたときにユニットがテレポートをすることを可能にするために利用されてきました。この特徴を使用すると、反応を起動するために必要なエネルギーを提供するために、コストが得られ、大量の電力がバッテリ電源から排出される。";
+"10-8. The O.M.P.A. has been programmed for mining valuable resources scattered across the various terrains of the GLiese 581 System. Activating the Mine procedure engages the O.M.P.A. unit to patrol a specified area, mine, and if upgraded with the necessary components, detect nearby storage units and unload the collected resources.
+","10-8。 o.p.a. Gliese 581システムのさまざまな地形に散在している貴重なリソースを採掘するためにプログラムされています。鉱山手順を活性化すると、o.p.a。指定されたエリア、鉱山、そして必要なコンポーネントでアップグレードされた場合は、近くのストレージユニットを検出し、収集されたリソースをアンロードしてください。
+";
+"10-9. The O.M.P.A. has been programmed to provide assistance to injured personnel and repair structural damage while patrolling is assigned coordinates. 
+","10-9。 o.p.a.議論の座標が割り当てられている間、負傷した人員や構造損傷を補修するようにプログラムされています。
+";
+"10-10. The O.M.P.A. has been programmed to target and engage in combat if equipped with the necessary upgrades. Once achieved the O.M.P.A. will be armed and ready to protect and automatically engage hostile threats.
+","10-10。 o.p.a.必要なアップグレードを装備した場合は、戦闘をターゲットにして参加するようにプログラムされています。かつて腫を達成した。武装して、敵対的な脅威を保護し、自動的に取り込む準備ができています。
+";
+"10-11. The O.M.P.A. unit requires periodical repair and battery maintenance. When engaging in combat the O.M.P.A. can sustain damage that requires repair. If this occurs, personnel must equip the repair tool and use it on the O.M.P.A. to return it to a working condition. If the O.M.P.A. suffers from battery depletion, it will remain in the same location it lost power. To fix, simply equip a new battery and install in into the O.M.P.A.
+","10-11。 o.p.a.ユニットには定期的な修理と電池のメンテナンスが必要です。戦闘に携わるとき、o.p.a.修理が必要な損傷を維持できます。これが発生した場合、担当者は修理ツールを装備し、それをo.p.aに使用する必要があります。それを作業状況に戻す。 o.m.aの場合バッテリーの枯渇に苦しんでいるので、それは電力を失ったのと同じ場所に残ります。修正するには、新しいバッテリーを装備してo.p.aにインストールするだけです。
+";
+"10. Osiris Mission Personal Assistant Manual","10.オシリスミッションパーソナルアシスタントマグル";
+"Alien Plant","エイリアンプラント";
+"Blunt Object","鈍いオブジェクト";
+"Slashing Tool","スラッシュツール";
+"Sharp Weapon","鋭い武器";
+"Surgical Tool","外科用器具";
+"Extracting Tool","抽出ツール";
+"Discoveries","発見";
+"[A] MISSIONS","[a]ミッション";
+"SKILLS [D]","スキル[D]";
+"[A] DISCOVERIES","[a]発見";
+"INVENTORY [D]","在庫[D]";
+"Bug Report / Feedback","バグレポート/フィードバック";
+"Menu","メニュー";
+"Settings","設定";
+"Force Kill","強制殺す";
+"Report Player","レポートプレーヤー";
+"Main Menu","メインメニュー";
+"Exit Game","出口ゲーム";
+"Players","プレーヤー";
+"Player Name...","プレーヤの名前...";
+"Avatar Name...","アバター名...";
+"Cheating","不正行為";
+"Additional Comments...","追加コメント...";
+"Submit","参加する";
+"Menu Options","メニューオプション";
+"[A] SKILLS","[A]スキル";
+"Feedback","フィードバック";
+"Enter feedback here (optional)","ここでフィードバックを入力してください（オプション）";
+"General Feedback","一般フィードバック";
+"Gameplay / Balancing","ゲームプレイ/バランス";
+"Bug / Tech Issue / Frame Rate","バグ/技術発行/フレームレート";
+"Feature Request","機能リクエスト";
+"Include Screenshot","スクリーンショットを含みます";
+"All is good, just giving feedback","フィードバックを与えるだけで、すべてが良いです";
+"This is kind of serious","これは非常に深刻です";
+"This is stopping gameplay","これはゲームプレイを停止しています";
+"Missions | Logs | Blueprints","ミッション|ログに記録します青写真";
+"Mission 1 - Explore Proteus 2","ミッション1  - プロテウス2を探索する";
+"Now that I've gotten a foothold on this planet, I should explore and see if I can regroup with the Phoenix Team. ([F3] will open up the GPS, your suit has a radar installed that will allow for Basic Scanning. [NUM +] and [NUM -] to change the zoom of the map.)","私はこの惑星の足がかりを得たので、私はPhoenixチームと登録できるかどうかを探り、そして見るべきです。 （[F3] GPSを開きます、あなたのスーツに基本的なスキャンを可能にするレーダーが設置されています。マップのズームを変更するには、[Num +]と[Num]  - ]。）";
+"Mission 2 - N/A","ミッション2  -  N / A.";
+"Activate new mission in Mission Menu","ミッションメニューで新しいミッションを有効にします";
+"Mission 3 - N/A","ミッション3  -  N / A.";
+"Encrypted Disks","暗号化されたディスク";
+"Item Name","項目名";
+"Decrypt","復号する";
+"Are you sure you want to quit to main menu?","メインメニューを終了してもよろしいですか？";
+"Placeholder","プレースホルダー";
+"O.M.P.A. Overview","o.p.a.概要";
+"dev console commands","dev consoleコマンド";
+"Push-to-Talk Initializing...","プッシュトーク初期化...";
+"[F1] Push-To-Talk","[F1]プッシュツートーク";
+"Talk now","今話す";
+"World Channel","ワールドチャンネル";
+"Chat Commands","チャットコマンド";
+"[TAB] Cycle Available Channels
+[/g] Global Channel
+[/l] Local Channel
+[/c] Colony Channel
+[/p] Party Channel
+[/w] Whisper Channel
+[/r] Reply to previous whisper","[TAB]サイクル利用可能なチャンネル
+[/ g]グローバルチャンネル
+[/ l]ローカルチャンネル
+[/ c]コロニーチャンネル
+[/ P]パーティーチャネル
+[/ w]ささやきチャンネル
+[/ r]前のささやきに返信してください";
+"Equip Locator To Cycle Targets","ロケータをサイクルターゲットに装備します";
+"Nearest Dish
+Scanning...
+","最寄りの料理
+走査...
+";
+"Downloading Transmission","送信のダウンロード";
+"Performing System Dyagnostics_","システムの実行Dyagnostics_";
+"Party Member 1","パーティーメンバー1.";
+"Toggle Flashlight [L]","懐中電灯を切り替える[L]";
+"Slope:","スロープ：";
+"SUIT","スーツ";
+"ENV","羨む";
+"Incline","傾く";
+"Noise","ノイズ";
+"EARLY ACCESS","早いアクセス";
+"This new ability unlocks your wildest dreams!","この新しい能力はあなたの最も野生の夢のロックを解除します！";
+"Status","状態";
+"New Ability","新しい能力";
+"Username","ユーザー名";
+"Exit","出口";
+"Options","オプション";
+"News","ニュース";
+"Multiplayer","マルチプレイヤー";
+"Single Player","シングルプレーヤー";
+"Fully crafting your own Space Station in low orbit. All station modules can interconnect in any combination, allowing for total flexibility in design and layout.
+
+Each module has its own purpose and features, including crafting, power systems, and storage.
+
+Space Stations are free from the erosion and dangers of the existing planetside in an atmosphere, creating an interesting strategic option to store valuable resources.
+","低軌道であなた自身の宇宙ステーションを完全に洗練します。すべてのステーションモジュールは任意の組み合わせで相互接続することができ、設計とレイアウトの完全な柔軟性を可能にします。
+
+各モジュールには、クラフト、電力システム、および保管など、独自の目的と機能があります。
+
+宇宙ステーションは、大気中の既存の惑星の侵食や危険性がないため、貴重な資源を貯めるための興味深い戦略的オプションを作成しています。
+";
+"Proteus 2 takes advantage of the new technology we’ve been developing that adds various zones and areas into a world.
+
+We’ve doubled the amount of world textures, rendered millions of blades of grass, and populated countless new alien foliages - each yielding various resources.
+","Proteus 2私たちが開発してきた新しいテクノロジーを利用しています。
+
+私たちは世界のテクスチャの量を2倍にし、何百万もの草の刃を動かし、そして数えない新しい外国人の葉の葉が様々な資源をもたらしました。
+";
+"Discovery System
+","発見システム
+";
+"Everything you observe on your adventures can now be discovered. Far more than a simple achievement, the Discovery System actually unlocks all the various resources any found resource will yield.
+
+Essentially, each weapon or tool used on a resource may yield a different item, allowing for far more scientific exploration of the solar system and all of its life forms.
+","あなたがあなたの冒険で観察したすべてのものが発見されることができます。単純な実績以上のものではなく、発見システムは実際にはさまざまなリソースをすべてロック解除します。
+
+基本的に、リソース上で使用される各武器またはツールは、異なる項目を生み出すことができ、太陽系およびそのすべての生活形態のより多くの科学的探査を可能にする。
+";
+"Minerals can now be filtered on your updated GPS. This very handy tool, which is now always available in your HUD and no longer attached to your Locator, reads from your surrounding satellites and your own internal suit radar to create detection radii.
+
+This system will show you all the surrounding minerals, their hardness and density, so you can find what you’re looking for in your crafting missions.
+","ミネラルはあなたの更新されたGPSでフィルタリングされるようになりました。この非常に便利なツール。これは常にあなたのHUDで利用可能で、あなたのロケータに添付されていなくなり、あなたの周囲の衛星とあなた自身の内部スーツのレーダーから読み込み、検出半径を作成します。
+
+このシステムはあなたにすべての周囲のミネラル、彼らの硬さと密度を示すので、あなたがあなたのクラフトミッションであなたが探しているものを見つけることができます。
+";
+"Removal of Build Gates
+","ビルドゲートの除去
+";
+"Options","オプション";
+"News","ニュース";
+"Multiplayer","マルチプレイヤー";
+"Single Player","シングルプレーヤー";
+"Exit","出口";
+"New Ability","新しい能力";
+"Status","状態";
+"EARLY ACCESS","早いアクセス";
+"This new ability unlocks your wildest dreams!","この新しい能力はあなたの最も野生の夢のロックを解除します！";
+"Glide Unit Mk. II","グライドユニットMK。 ii";
+"Weight: ","重量：";
+"Hover Duration: ","ホバー期間：";
+"Hover Height: ","ホバーの高さ：";
+"Hover Fuel Usage: ","ホバー燃料使用量：";
+"Oxygen Consumption: ","酸素消費量：";
+"Stamina Usage: ","スタミナの使い方：";
+"Quartz","石英";
+"Class: ","クラス：";
+"Amount: ","量：";
+"A hardened, white, and sometimes colorless mineral that consists of silicon dioxide.","二酸化ケイ素からなる硬化した、白、そして時々無色のミネラル。";
+"Cobalt Bolt Rifle","コバルトボルトライフル";
+"Bolt Rifle Magazine","ボルトライフルマガジン";
+"Remaining Ammo: ","残りの弾薬：";
+"Clip Size: ","クリップサイズ：";
+"Damage: ","ダメージ：";
+"10% critical hit","10％クリティカルヒット";
+"Durability Consumption: ","耐久性消費量：";
+"Orcek Meat","オルスクミート";
+"Health Bonus: ","健康ボーナス：";
+"Nutrition Bonus: ","栄養ボロン：";
+"Meat ripped right off the body of a Orcek. Cook to avoid food poisoning.","肉はオルセクの体をすぐから裂かった。食中毒を避けるために調理する。";
+"Gold","ゴールド";
+"A soft, malleable, ductile metal primarily used in the production of electronic devices due to it's corrosion resistance and electrical conductivity.","耐食性および導電性のために、電子デバイスの製造に主に使用されている柔らかくて可鍛性のある延性金属。";
+"Reactor Cell","原子炉セル";
+"Total Weight: ","総重量：";
+"Ammo charges for the Reactor Pistol. It is automatically used when reloading, if stored in your backpack.","反応器ピストルの弾薬電荷。バックパックに保存されている場合は、リロード時に自動的に使用されます。";
+"Grunt","ぶらぶら";
+"Strength Boosted: ","強度ブースト：";
+"A strong compound created to give a boost to your carrying capacity.","あなたの運搬能力に後押しするために作成された強い化合物。";
+"02 Pump Unit Mk. III","02ポンプユニットMK。 i";
+"Oxygen Recharge: ","酸素充電：";
+"Stamina Recharge: ","スタミナリチャージ：";
+"DIA-72 Assault Rounds","DIA-72アサルトラウンド";
+"20% critical hit","20％クリティカルヒット";
+"Advanced ammo magazine for the Assault Rifle. It is automatically used when reloading, if stored in backpack.","アサルトライフルのための高度なAMMOマガジン。バックパックに保存されている場合は、リロード時に自動的に使用されます。";
+"Blood Sausage","血のソーセージ";
+"Quench Bonus: ","クエンチボーナス：";
+"Fortitude Boosted: ","司教はブーストしました：";
+"A delicious sausage created with congealed alien blood stuffed into an alien intestine. Eat while equipped or straight from inventory.","エイリアンの腸に詰まった凝固した外来血で作られたおいしいソーセージ。在庫を装備している間またはまっすぐに食べます。";
+"Nickel","ニッケル";
+"A metal commonly used in various alloys.","様々な合金で一般的に使用されている金属。";
+"Branches","枝";
+"Wood is often used to stoke fires.","木はしばしば火事を染みやすくします。";
+"Crab Shell","カニの殻";
+"Shell taken from a crab monster, often used to make defenses.","カニモンスターから撮影されたシェルは、しばしば防御をするために使用されます。";
+"Recovery Unit Mk. III","回復ユニットMK。 i";
+"Prevents Fall Damage","秋の損傷を防ぎます";
+"Hover Fuel Recharge: ","ホバー燃料充電：";
+"Gold Ingot","金塊";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1064 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：1064℃
+";
+"Heat Cell","熱セル";
+"Ammo charges for the Heat Pistol. It is automatically used when reloading, if stored in your backpack.","熱ピストルのための弾薬電荷。バックパックに保存されている場合は、リロード時に自動的に使用されます。";
+"Flourine","華々しい";
+"A poisonous gas that will cause severe burns, used in cable insulations and waterproof materials.","ケーブルの断熱材や防水材料で使用される重度の火傷を引き起こす有毒ガス。";
+"Phencyclidine","ピンククリドーニ";
+"Potent tranqualizing agent.","強力な静止化剤。";
+"Fire Gem","火宝";
+"A strange gem that gives off immense heat, its physical properties unknown.","非常に暑い熱を与える奇妙な宝石、その物理的性質は不明です。";
+"Alien Organ","エイリアンオルガン";
+"An Organ surgically removed from the body of an indigenous alien creature.","先住民の外国人の生き物の体から外科的に取り除かれた臓器。";
+"Heat Sink Unit Mk. I","ヒートシンクユニットMK。私";
+"Cold Resistance: ","耐寒性：";
+"Crab Antenna","カニアンテナ";
+"Antenna taken from a crab monsters.","カニモンスターから取られたアンテナ。";
+"Cobalt Assault Rifle","コバルトアサルトライフル";
+"0% critical hit","0％クリティカルヒット";
+"Mechanized Spanner","機械化スパナ";
+"Durability: ","耐久性：";
+"Indestructible multi-tool needed for repairing any damaged structures, walls, vehicles, and droids. Also needed to build new walls.","破損した構造物、壁、車両、およびドロイドを修復するために必要な不滅のマルチツール。新しい壁を作るためにも必要です。";
+"Apple","林檎";
+"Nutritious fruit to replenish hunger. Can be eaten while equipped or straight from storage.","飢餓を補充する栄養価の高い果物。装備されている間、またはストレージからのストレートで食べることができます。";
+"Medical Bandage","包帯";
+"Heals hitpoints. Can be used while equipped or straight from inventory.","ヒットポイントを癒します。在庫を備えている間またはまっすぐに使用できます。";
+"Scrap Plastic","スクラッププラスチック";
+"Leftover chunk of plastic that need to be melted down and reformed to be useful.","融解する必要があり、有用であるように改革されるプラスチックの塊の塊。";
+"Arachnoid Small Leg","アラクノイド小脚";
+"The smaller leg of an Arachnoid ripped right off from its body. Used in a variety of crafting recipes.","アラクノイドの小さな脚はその体からすぐに裂かった。さまざまなクラフトレシピで使用されます。";
+"Paradise Bloom","パラダイスブルーム";
+"Bloom taken from what looks like an unusual strain of a Birds of Paradise. Can be eaten while equipped or straight from storage.","楽園の様々なひずみのように見えるものから撮った。装備されている間、またはストレージからのストレートで食べることができます。";
+"U.N.E. Emergency Ration","u u緊急支給";
+"Packaged nutritional paste commonly found in Emergency kits, can be easily consumed and provides vital sustenance. Eat while equipped or straight from inventory.","包装された栄養ペーストは一般的に緊急キットに見られるように、簡単に消費され、そして重要なサポートを提供することができます。在庫を装備している間またはまっすぐに食べます。";
+"Small Radar Dish Kit","小さなレーダーディッシュキット";
+"Max Durability: ","最大の耐久性：";
+"Kit used to build Small Radar Dish. To build select the Small Radar Dish from the Utilities tab in your Character build Menu.","小さなレーダー皿を作るために使用されたキット。キャラクタビルドメニューの[ユーティリティ]タブから[ユーティリティ]タブから[小型]タブから[ビルド]をビルドします。";
+"Mud Cover","泥カバー";
+"Heat Resistance: ","耐熱性：";
+"Glide Unit Mk. III","グライドユニットMK。 i";
+"Fuel Compressor Mk. I","燃料圧縮機MK。私";
+"Hover Fuel Amount: ","ホバー燃料量：";
+"Light Unit","軽量";
+"Flashlight Power Usage: ","懐中電灯の消費電力：";
+"Flashlight Range: ","懐中電燈の範囲：";
+"Glide Unit Mk. I","グライドユニットMK。私";
+"Heat Pistol","熱ピストル";
+"Circuit Board","回路基板";
+"Processor used to build complex structures, vehicles, and items.","プロセッサは複雑な構造、車両、およびアイテムを構築するために使用されます。";
+"Plutonium","プルトニウム";
+"Highly radioactive energy source.","高放射性エネルギー源。";
+"Sand","砂";
+"Crafting item for forging glass in Furnace or making soil in Chemistry Table.","炉内ガラスの鍛造品や化学表の土壌を作るためのクラフト項目。";
+"Hose","ホース";
+"A Rubber hose.","ゴムホース。";
+"Lead","鉛";
+"A soft, very dense metal that is commonly used for projectiles and in radiation shielding applications.","発射体および放射線遮蔽用途に一般的に使用されている柔らかく、非常に高密度の金属。";
+"Plutonium Ingot","プルトニウムインゴット";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 639.4 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：639.4°C.
+";
+"Fury","f f";
+"Stamina Boosted: ","スタミナブースト：";
+"A strong compound created to give you a boost to your stamina.","あなたのスタミナへの後押しをするために作成された強い化合物。";
+"Cubic Zirconia","キュービックジルコニア";
+"A cut, refined piece of crystalline Zirconium.","カット、洗練された結晶ジルコニウム。";
+"Storage Unit Mk. I","記憶装置MK。私";
+"Adds Inventory Slots: ","インベントリスロットを追加します。";
+"Tree Sap","s s";
+"Viscous liquid used for crafting more advanced items.","より高度なアイテムを作成するために使用される粘性液。";
+"Gnat Teeth","GNATの歯";
+"Crafting item for building weapon modifications, calcium powder and other items.","武器の修正、カルシウム粉末、その他のアイテムを構築するためのクラフト項目。";
+"Potato","ポテト";
+"Raw food that can be eaten to replenish hunger. Is more nutritious when cooked. Can be eaten while equipped or straight from storage.","飢餓を補充するために食べることができる生の食品。調理するともっと栄養価があります。装備されている間、またはストレージからのストレートで食べることができます。";
+"Arachnoid Leg","アラコノイドの脚";
+"Leg ripped right off the body of a Arachnoid. Used in a variety of crafting recipes.","足が荒布の体をすぐに裂かった。さまざまなクラフトレシピで使用されます。";
+"Sword Leaves","刀の葉";
+"Leaves taken from a sword plant used as an ingredient to craft different items. Can be eaten for a small increase in health and nutrition.","さまざまなアイテムを作るための成分として使用される刀プラントから撮影された葉。健康と栄養の小さな増加のために食べることができます。";
+"Sweet Alien Jerky","甘いエイリアンジャーキー";
+"A delicious piece of candied alien meat. Eat while equipped or straight from inventory.","砂糖漬けのエイリアンの肉のおいしい部分。在庫を装備している間またはまっすぐに食べます。";
+"Tool Holster","ツールホルスター";
+"Tree Bark","樹皮";
+"Bark taken from an indigenous tree used as an ingredient to craft different items.","さまざまなアイテムを作るための成分として使用される先住民族の木から撮影された樹皮。";
+"Crab Leg Meat","カニレッグミート";
+"Meat taken from the leg of a Crab monster. Cook to avoid food poisoning.","カニモンスターの脚から撮った肉。食中毒を避けるために調理する。";
+"Reactor Pistol","反応器ピストル";
+"Fuel Compressor Mk. II","燃料圧縮機MK。 ii";
+"Cryo Rifle","クライオライフル";
+"Stim Unit Mk. III","STIMユニットMK。 i";
+"Rock","岩";
+"Rocks are used as tools and building materials. To use it as a weapon convert it in your crafting menu to a Bashing Rock.","岩は工具や建材として使用されています。それを武器として使用するには、あなたのクラフトメニューにそれをバッシュロックに変換します。";
+"Makeshift Chisel","マケシフトチーゼル";
+"Hardness: ","硬度：";
+"Makeshift blunt tool used for mining mineral ores with a hardness of 3. It can be reused for melee combat.","Makeshift Bluntツール3の硬さで鉱物鉱石を採掘するために使用された。それは近接戦闘のために再利用することができます。";
+"Crude Metal Blade","粗金属刃";
+"A piece of sharpened metal that can be used to make a basic sword.","基本的な刀を作るために使用できる鋭利な金属。";
+"A51 Heavy Assault Rifle","A51重いアサルトライフル";
+"Broken Hose","壊れたホース";
+"A damaged section of hose, could be patched up to be operational again.","ホースの破損した部分は、再び運転するためにパッチを添えてください。";
+"Crude Metal Axe","粗金属斧";
+"A slashing tool that is essentially a sharpened metal ingot on a stick with some tape.","テープが付いているスティックの上に本質的に鋭利な金属インゴットであるスラッシュツール。";
+"Bolt Rifle","ボルトライフル";
+"Scrap Hinge","スクラップヒンジ";
+"A small hinge salvaged from debris.","デブリから救済された小さなヒンジ。";
+"Medkit","メドキット";
+"Advanced medical kit that heals a lot of hitpoints. Can be used while equipped or straight from inventory.","たくさんのヒットポイントを癒す高度な医療キット。在庫を備えている間またはまっすぐに使用できます。";
+"Plastic","プラスチック";
+"Crafting item for building structures, walls, and other items.","建物構造、壁、その他の項目のためのクラフト項目。";
+"Propellant Tank","推進薬タンク";
+"Where propellant is stored in a container belonging within a vehicle.","推進剤が車両内に属する容器に保管されている場合。";
+"Flare","フレア";
+"Bashing Rock","バッシュロック";
+"Useful when you have no other tools.","他のツールがない場合に便利です。";
+"Broken Barrel","壊れた樽";
+"A Barrel that has been damaged and can no longer store gases. A few patches could make this functional again.","破損しており、もはやガスを保管することができないバレル。いくつかのパッチはこれを再び機能させることができます。";
+"Vampire Dust","吸血鬼のほこり";
+"Agility Boosted: ","敏捷性はブーストしました：";
+"Advanced compound created to boost your strength and speed.","あなたの強さと速度を後押しするために作成された高度な化合物。";
+"Carbon Ingot","カーボンインゴット";
+"
+
+- Melting point: 3550 °C
+","
+
+ - 融点：3550℃
+";
+"Inflatable Dome Kit","インフレータブルドームキット";
+"Kit used to build Inflatable Dome. To build, right-click on Inventory Item and select Build or select the Inflatable Dome from the Structures tab in your Character Menu.","膨脹可能なドームを構築するために使用されたキット。ビルドするには、[インベントリ]アイテムを右クリックして[ビルド]を選択するか、[文字]メニューの[構造]タブから[インフレータブルドーム]を選択します。";
+"Grilled Tumbo Meat","焼き塊の肉";
+"Meat ripped right off the body of a Tumbo. Has been cooked and is safe to eat.","肉は塊の体から離れた。調理されて食べるのは安全です。";
+"Chisel","チセル";
+"Powerful blunt tool used for mining mineral ores with a hardness of 7. It can be reused for melee combat.","硬さ7の硬さで鉱物鉱石を採掘するために使用される強力な鈍い道具。";
+"Hiking Cleats","ハイキングクリート";
+"25% critical hit","25％クリティカルヒット";
+"Ammo magazine for the Bolt Rifle. It is automatically used when reloading, if stored in backpack.","ボルトライフル用の弾薬マガジン。バックパックに保存されている場合は、リロード時に自動的に使用されます。";
+"Stim Unit Mk. II","STIMユニットMK。 ii";
+"Scrap Metal","金属くず";
+"Small pieces of metal left over after the greater portion of metal has already been used.","金属の大部分が既に使用されていた後に残った金属片が既に使用されています。";
+"Tungsten Ingot","タングステンインゴット";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 3422 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：3422℃
+";
+"Uranium","ウラン";
+"A dense, radioactive metal used commonly in nuclear fission based power generation.
+","核分裂ベースの発電で一般的に使用される緻密で放射性の高い金属。
+";
+"Nitrogen","窒素";
+"An odorless and colorless component of nucleic acids, amino acids, and thus proteins, important to create fertilisers and explosives.","肥料、アミノ酸、したがってタンパク質の無臭で無色の成分、肥料や爆発物を作り出すために重要です。";
+"Cobalt","コバルト";
+"A metal often used in the creation of magnets, batteries and as an additive in wear-resistant alloys.","磁石、電池、および耐摩耗性合金の添加剤としてよく使用される金属。";
+"Pipe","パイプ";
+"50% critical hit","50％クリティカルヒット";
+"A basic formed pipe, can be used as a melee weapon.","基本的に形成された管は、近接兵器として使用することができる。";
+"Makeshift Laser Chisel","Makeshift Laser Chisel.";
+"An overclocked makeshift laser that can slowly sample the hardest minerals, its short battery life makes it a poor mining device.","最も硬い鉱物をゆっくりとサンプリングすることができるオーバークロックされたメキシフトレーザー、その短い電池寿命はそれを貧弱なマイニング装置にします。";
+"D24k Assault Rounds","D24Kアサルトラウンド";
+"Zirconium Circuit Board","ジルコニウム回路基板";
+"Mother board made using zirconium and used when building certain complex structures, vehicles, and items.","マザーボードはジルコニウムを使用して作られ、ある種の複雑な構造、車両、およびアイテムを構築するときに使用されます。";
+"Yellow Pedal Flower","黄色いペダルの花";
+"Indigenous fungus found in the wild. It's poisonous to eat, but can be used to craft special items.","野生の中で見つかった先住民菌。食べることは有毒ですが、特別なアイテムを作り直すために使用することができます。";
+"Wrench","レンチ";
+"A basic multi-tool that can be used for repairing, salvaging, and precise tinkering.","修理、救済、および正確ないじりに使用することができる基本的なマルチツール。";
+"Battery","電池";
+"Replaces depleted battery in flashlight.","懐中電灯の枯渇したバッテリーを置き換えます。";
+"Gem Leaf Fruit","宝石の葉の果実";
+"Very nutritious food to replenish hunger. Can be eaten while equipped or straight from storage.","飢餓を補充するための非常に栄養価の高い食べ物。装備されている間、またはストレージからのストレートで食べることができます。";
+"Azurnium","鞍譜";
+"Strange crystal with sparsely understood physical properties. Useful in High-Tech devices.","疎に理解されている物理的性質を持つ奇妙な結晶。ハイテクデバイスで便利です。";
+"Shaped Crab Antenna","形のカニアンテナ";
+"A shaped fragment of a Crab Antenna, could be fashioned into a crude precision tool.","カニアンテナの成形フラグメントは、粗精密工具に作ることができた。";
+"Blitz","ブリッツ";
+"A weak compound created to give a small boost to your stamina.","スタミナに小さなブーストを与えるために作成された弱い化合物。";
+"Fungus","菌類";
+"Heat Sink Unit Mk. III","ヒートシンクユニットMK。 i";
+"Light Unit Mk. I","ライトユニットMK。私";
+"Crude Pipe","粗管";
+"A crude pipe fashioned from bent scrap metal.","曲がったスクラップメタルから作られた粗管。";
+"Orcek Soup","Orcek Soup";
+"Delicious broth preserved in highly mobile packaging. Eat while equipped or straight from inventory.","非常にモバイル包装で保存されているおいしいスープ。在庫を装備している間またはまっすぐに食べます。";
+"Charge Rifle","充電ライフル";
+"Hydrogen","水素";
+"A highly-flammable gas that is without both color and odor, and is used mainly as rocket fuel for energy.","色と臭いの両方なしでは、主にエネルギーのためのロケット燃料として使用されている非常に可燃性のガス。";
+"Obsidian","黒曜石";
+"A volcanic glass capable of being knapped into sharp blades.","鋭い刃に麻を詰めることができる火山ガラス。";
+"Gnat Hook","Gnatフック";
+"Crafting item for building weapon modifications, calcium powder 
+and other items.","武器の修正、カルシウムパウダーの建物の作成項目
+そして他のアイテム。";
+"White Gold","白金";
+"A malleable alloy used most commonly in jewelry, could be used for manufaturing small parts.","宝石類で最も一般的に使用されている展性のある合金は、小さな部分の製造に使用することができます。";
+"Zircaloy","ジルカロイ";
+"High heat, hardness, and corrosion resistant alloy.","高温、硬度、耐食性合金。";
+"Zinc","亜鉛";
+"A brittle metal generally used as an anti-corrosive coating and in various alloys.","抗腐食性コーティングおよび様々な合金として一般的に使用される脆性金属。";
+"Snake Stew","ヘビシチュー";
+"Gnat Meat","Gnat Meat";
+"Meat ripped right off the body of a Gnat. Cook to avoid food poisoning.","肉はGNATの体から離れた。食中毒を避けるために調理する。";
+"Oxygen","酸素";
+"A life-supporting colorless and odorless gas.","無色の無色および無臭ガスを支持する。";
+"Solar Unit","太陽電池";
+"Flashlight Battery Recharge: ","懐中電池の充電：";
+"Key Card Tier-2","キーカードTier-2";
+"A mid-level clearance keycard used to open Osiris mission doors in abandoned settlements and mines.","放棄された集落と鉱山でオシリスのミッションドアを開くために使用される中間レベルのクリアランスキーカード。";
+"Light Range Extender","ライトレンジエクステンダ";
+"Cast Iron","鋳鉄";
+"High-Carbon steel alloy that is strong under compression and can be used for armor plating.","圧縮下で強い高炭素鋼合金と鎧メッキに使用することができます。";
+"Alien Fiber","エイリアンファイバー";
+"Fibrous material harvested from indigenous plantlife. Can be woven into cloth that is an ingredient to craft many different items.","先住民族の植物生物から収穫された繊維状物質。多くの異なるアイテムを作り出すための成分である布に織り込むことができます。";
+"Leather","レザー";
+"Tanned piece of animal skin used in crafting.
+","クラフトに使用されている動物の皮膚の日焼け片。
+";
+"Assault Rifle","アサルトライフル";
+"Talonite","Talonite";
+"Durable alloy that holds an edge very well. Used in high precision applications.","エッジを非常によく保持する耐久性のある合金。高精度用途で使用されます。";
+"Blaster Cell","ブラスターセル";
+"Basic laser blaster cell.","基本レーザーブラスターセル。";
+"Assault Rifle Commander","アサルトライフル司令官";
+"Land Mine Set","土地鉱山セット";
+"An explosive device that is used for defending you and your colony.","あなたとあなたのコロニーを守るために使用される爆発的な装置。";
+"Lonsdaleite","ロンズセライト";
+"An allotrope of carbon that is a precursor to the crystalline formation of diamonds.","ダイヤモンドの結晶形成に対する前駆体である炭素の同種プロープ。";
+"Booster Unit Mk. II","ブースターユニットMK。 ii";
+"Titanium","チタン";
+"A low density, high strength metal commonly used in aeronautical crafts due to its high tensile strenght to density ratio and corrosion resistance.","密度比と耐食性に対する高い引張強度のために一般的に航空工芸品で一般的に使用される低密度の高強度金属。";
+"Alien Meat","エイリアンミート";
+"Meat ripped right off the body of an indigenous alien creature. Cook to avoid food poisoning.","肉は先住民のエイリアンの生き物の体から離れた。食中毒を避けるために調理する。";
+"Alien Tissue","エイリアンの組織";
+"Tissue ripped right off the body of an indigenous alien creature.","組織は、右の先住民族のエイリアンの生き物の体食い物。";
+"Steel","鋼";
+"Complex metal used for building advanced structures and walls.
+
+- Melting point: 1370 °C
+","高度な構造と壁を建てるために使用される複雑な金属。
+
+ - 融点：1370℃
+";
+"Solar Unit Mk. I","ソーラーユニットMK。私";
+"Desert Yuccudis Fruit","砂漠ユッチフルーツ";
+"Nutritious fruit to replenish hunger and slightly damage your health. Can be eaten while equipped or straight from storage. Also used as an ingredient in the crafting of some items.","飢餓を補充し、あなたの健康を少し傷つけるための栄養価の高い果物。装備されている間、またはストレージからのストレートで食べることができます。いくつかのアイテムの作成の成分としても使用されます。";
+"Heat Sink Unit Mk. II","ヒートシンクユニットMK。 ii";
+"Glide Unit","グライドユニット";
+"Gravity Strength: ","重力強度：";
+"Scrap Rubber","スクラップゴム";
+"Small pieces of rubber that need to be melted down and reformed to be useful.","溶融し、有用であることを改定する必要があるゴム製の小片。";
+"Crab Stew","カニチューズ";
+"A delicious stew with added Crab Meat, Potatoes, and Carrots. Eat while equipped or straight from inventory.","カニの肉、じゃがいも、そしてニンジンを追加した美味しいシチュー。在庫を装備している間またはまっすぐに食べます。";
+"Skeliopod Tail","スケ科植物のテール";
+"Tail taken from a Skeliopod to be used for crafting purposes.","カーチョニング目的に使用されるスケリアポッドから撮影した。";
+"02 Pump Unit Mk. I","02ポンプユニットMK。私";
+"Light Unit Mk. III","ライトユニットMK。 i";
+"Explosive","爆発物";
+"A chemical explosive.","化学物質爆発物。";
+"Chromium","クロム";
+"A hard metal that is the main additive in stainless steel due to its increase in strengthening and corrosion resistance when alloying.","合金化時の強化および耐食性が増加するため、ステンレス鋼中の主添加剤である硬質金属。";
+"Crab Eye","カニテリー";
+"Eye recovered from a crab monster.","カニのモンスターから回収されました。";
+"Afterburner","アフターバーナー";
+"A weak compound created to give a small boost to your carrying capacity.","あなたの運搬能力に小さな後押しをするために作成された弱い化合物。";
+"Arctlily","アークリー";
+"Petals from an Arctlily, thrives in extremely cold climates.","弧からの花びら、非常に寒い気候で繁栄しています。";
+"Stim Unit Mk. I","STIMユニットMK。私";
+"Backpack Storage","バックパックストレージ";
+"T19 Assault Rounds","T19アサルトラウンド";
+"5% critical hit","5％クリティカルヒット";
+"Broken Glass","割れたガラス";
+"Fragments of glass. Would need to be melted and reformed to create usable glass.","ガラスの断片使用可能なガラスを作成するために溶けて改革する必要があります。";
+"Grilled Orcek Meat","焼きオルエクの肉";
+"Meat ripped right off the body of an Orcek. Has been cooked and is safe to eat.","肉はオーセクの体をすぐに裂かった。調理されて食べるのは安全です。";
+"Cloth Bundle","布束";
+"A bundle of tightly woven fibers.","しっかりと織られた繊維の束。";
+"Bronze","ブロンズ";
+"A basic alloy commonly used as a material for mechanical parts in modern times.","現代の機械部品の材料として一般的に使用される基本合金。";
+"Aluminum Ingot","アルミインゴット";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 660.3 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：660.3℃
+";
+"Titanium Ingot","チタニウムインゴット";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1668 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：1668℃
+";
+"Diamond Chisel","ダイヤモンドチゼル";
+"A chisel with a diamond tip that can chip away at the hardest of minerals.","鉱物の硬い鉱物で剥離できるダイヤモンドのチップを持つチゼル。";
+"Conduit Bender","コンジットベンダー";
+"A heavy blunt weapon commonly used for bending pipes. Makes for an effective bludgeoning weapon.","曲げパイプには一般的に使用されている重い鈍い武器。効果的なブラッジの武器を作ります。";
+"Data Disk SN:134.33","データディスクSN：134.33";
+"Status: ","状態：";
+" (3 chances)"," （3チャンス）";
+"Booster Unit Mk. III","ブースターユニットMK。 i";
+"Unlocks Ability: ","能力のロックを解除します。";
+"Blue Palms","青いヤシの";
+"Large blue palms taken from an indiginous plant that are used as an ingredient to craft many different items.","多くの異なるアイテムを作るための成分として使用されている絆創膏から撮影された大きな青い手のひら。";
+"Tungsten","タングステン";
+"A hard, dense metal often used to make hard material alloys and armor-piercing projectiles.","硬い材料の合金と装甲穿孔をするためによく使用される硬い、密な金属。";
+"Skeliopod Shell","スケ科植物の殻";
+"Shell taken from a Skeliopod to be used for building defensive walls.","防御壁を建てるために使用されるスケリアポッドから撮影されたシェル。";
+"Crab Meat","カニの身";
+"Meat taken from the body of a Crab monster. Cook to avoid food poisoning.","カニモンスターの体から撮った肉。食中毒を避けるために調理する。";
+"Fuel Compressor","燃料コンプレッサー";
+"Zirconium","ジルコニウム";
+"A lustrous metal primarily used as a refractory and opacifier.","耐火物および不透明剤として主に使用される光沢のある金属。";
+"Scrap Antenna","スクラップアンテナ";
+"Pieces of antenna's that have been left over.","アンテナの残りが残っています。";
+"Hydrochloric Acid","塩酸";
+"Violent chemical used to disintegrate matter.","暴力的な化学物質は物質を崩壊させるために使用されます。";
+"Shovel","シャベル";
+"Tool used to gather Sand for use in crafting.","作品に使用するための砂を集めるために使用されるツール。";
+"Shard Blade","シャードブレード";
+"A small sharp weapon made from a rock shard.","岩の断片から作られた小さな鋭い武器。";
+"Steamed Carrot","蒸した";
+"Nutritious steamed carrot. Eat while equipped or straight from inventory.","栄養価の高いニンジン。在庫を装備している間またはまっすぐに食べます。";
+"Suit Heater","スーツヒーター";
+"Recovery Unit","リカバリーユニット";
+"Damage Taken: ","損傷した損傷";
+"Stone Shovel","ストーンシャベル";
+"Wire","ワイヤー";
+"Complex material used for crafting complex electric devices.","複合電気装置を作成するために使用される複合材料。";
+"Voice Log1","音声ログ1";
+"VoiceLog1","Voicelog1";
+"02 Pump Unit Mk. II","02ポンプユニットMK。 ii";
+"Zoom","ズーム";
+"A compound created to give a boost to your speed.","あなたの速度に後押しするために作成された化合物。";
+"Zirconium Plate","ジルコニウムプレート";
+"Metal plating used for building certain advanced structures and walls.
+
+- Melting point: 1370 °C
+","ある高度な構造と壁を建設するために使用される金属メッキ。
+
+ - 融点：1370℃
+";
+"Tactical Knife","戦術ナイフ";
+"The Tactical Knife is a sharp weapon that is quieter to use than most weapons.","戦術的なナイフは、ほとんどの武器よりも使用が静かな鋭い武器です。";
+"Lens Cover","レンズカバー";
+"Tumbo Meat","ムーボミート";
+"Meat taken from the body of a Tumbo. Cook to avoid food poisoning.","塊の体から服用した肉。食中毒を避けるために調理する。";
+"Skeliopod Stew","スケリアポッドシチュー";
+"A-2 Heavy Assault Rounds","A-2重いアサルトラウンド";
+"Advanced ammo magazine for the Heavy Assault Rifle. It is automatically used when reloading, if stored in backpack.","重いアサルトライフルのための高度な弾薬マガジン。バックパックに保存されている場合は、リロード時に自動的に使用されます。";
+"Stone Axe","石の斧";
+"A slashing tool that is essentially a rock on a stick with a nice handle.","素敵なハンドルが付いているスティックの上の岩であるスラッシュツール。";
+"Makeshift Cloth Bundle","牧船布束";
+"A makeshift bundle of loosely woven fibers.","ゆるく織られた繊維のマキシフトバンドル。";
+"Stone Blade","石ブレード";
+"A sharpened rock that can be used to make a blade.","ブレードを作るために使用することができる鋭い岩。";
+"Stone Axe Head","ストーンアックスヘッド";
+"A sharpened rock that can be used to make an axe","斧を作るために使用できる鋭い岩";
+"Beetle Ball","カブトムシボール";
+"Sack taken from a Skeliopod.","Skeliopodから取らサック。";
+"Gnat Leg","GNATの脚";
+"Leg ripped right off the body of a Gnat. The meat can be cooked or the bone from the leg can be used to make a weapon.","足はGNATの体をすぐにリッピングしました。肉を調理することも、足からの骨を使って武器を作ることができます。";
+"Bark","吠える";
+"Tree bark is used as an ingrediant to make different items in chemistry.","木の樹皮は、化学でさまざまな品目を作るための原則として使用されています。";
+"Water","水";
+"Liquid used for crafting more advanced items. Can also be drank to quench thirst.","より高度なアイテムを作成するために使用される液体。渇きを急冷するように飲んでもよい。";
+"Coral Branches","サンゴの枝";
+"Branches taken from a fan coral used as an ingredient to make different items in chemistry.","成分として使用されたファンサンゴから採取された枝は、化学に異なる項目を作る。";
+"Botany Kit","植物キット";
+"Tool used for extracting fluids from plants and creatures.","植物や生き物から流体を抽出するためのツール。";
+"Copper","銅";
+"A soft, ductile metal with high electrical and thermal conductivity, commonly used in electrical wiring.","電気的および熱伝導率が高い柔らかく延性金属、電気配線に一般的に使用されています。";
+"P C X","PC X.";
+"Liquid used for crafting more advanced items.","より高度なアイテムを作成するために使用される液体。";
+"Urchin Shell","ウルチンシェル";
+"Part of an urchin found on land. It's dangerous to eat raw, but can be used for crafting and cooking.","土地に見られるウニの一部。生を食べるのは危険ですが、クラフトや料理に使用できます。";
+"Hydrogen Torch","水素トーチ";
+"Fern Tree Berry","シダツリーベリー";
+"Charred Alien Bits","魅力的なエイリアンビット";
+"Bits of Alien Meat quickly cooked in extremely high temperature, not too tasty, but its technically safe to eat.","エイリアンの肉のビットは非常に高温で急速に調理され、おいしいではなく、その技術的には食事が安全です。";
+"Alien Hide","エイリアン";
+"Hide skinned from the body of an indigenous alien creature.","先住民の外国人のクリーチャーの体から皮を皮を隠します。";
+"Crab Egg","カニエッグ";
+"Egg taken from the body of a Crab monster. Cook to avoid food poisoning.","カニモンスターの体から撮った卵。食中毒を避けるために調理する。";
+"Scrap Dish","スクラップ皿";
+"Dish parts that have been left over.","残された皿の部分。";
+"Molybdenum","モリブデン";
+"A metal that is commonly used for the strengthening of steel.","鋼の強化に一般的に使用されている金属。";
+"Iron","鉄";
+"A moderately soft metal commonly used as a structural material when alloyed with other elements, mostly in the form of Steel.","他の元素と合金化したときに、主に鋼の形で合金化されたときに、一般的に構造材料として使用される適度に柔らかい金属。";
+"Arachnoid Meat","アラコノイドミート";
+"Meat ripped right off the body of a Arachnoid. Cook to avoid food poisoning.","肉はアラクノイドの体から離れた。食中毒を避けるために調理する。";
+"Stone Shovel Head","ストーンシャベルヘッド";
+"A shaped rock that can be used to make a shovel.","シャベルを作るために使用することができる形の岩。";
+"Sponge Tubes","スポンジチューブ";
+"Tubes taken from a sponge tube trees used as an ingredient to make different items in chemistry.","成分として使用されるスポンジチューブの木から撮影されたチューブは化学的に異なるアイテムを作る。";
+"Tumbo Soup","タムボスープ";
+"Orcek Leg","Orcekの足";
+"Leg ripped right off the body of a Orcek. Cook to avoid food poisoning.","足はオルクの体をすぐに裂けた。食中毒を避けるために調理する。";
+"Grilled Alien Meat","エイリアンミートの焼き";
+"Meat ripped right off the body of an indigenous alien creature. Has been cooked and is safe to eat.","肉は先住民のエイリアンの生き物の体から離れた。調理されて食べるのは安全です。";
+"Storage Unit Mk. II","記憶装置MK。 ii";
+"Data Disk SN:144.22","データディスクSN：144.22";
+"Redfern Tree Berry","レッサーツリーベリー";
+"Nutritious fruit to replenish hunger and will slightly improve your health. Can be eaten while equipped or straight from storage. Also used as an ingredient in the crafting of some items.","飢餓を補給するための栄養価の高いフルーツそしてあなたの健康を少し改善するでしょう。装備されている間、またはストレージからのストレートで食べることができます。いくつかのアイテムの作成の成分としても使用されます。";
+"Moonshroom","モンスルーム";
+"Indigenous fungus found on the surface of Lutari. It's edible, but isn't very nutritious.","Lutariの表面上にある先住民族真菌。それは食用ですが、それほど栄養価が悪くない。";
+"Brass","真鍮";
+"Soft alloy that excels in low friction applications.","低摩擦用途に優れた柔らかい合金。";
+"Cryo Rifle Ammo","Cryo Rifle Amo.";
+"Advanced water filled ammo clip for a Cryo Rifle. This water filled container can only be fabricated in and advanced fabricator.","Cryo Rifleのための高度な水充填されたAMMOクリップ。この水充填容器は、高度な製造用のみを製造することができます。";
+"Tumbo Leg","身長";
+"Leg taken from the body of a Tumbo. Cook to avoid food poisoning.","トゥムボの体から取った足。食中毒を避けるために調理する。";
+"Berry Juice","ベリージュース";
+"A syrupy, tart juice created from cooked berries.","調理された果実から作成されたシロップ、タルトジュース。";
+"Magnesium","マグネシウム";
+"A metal susceptible to corrosion commonly used in creating lightweight materials and alloys.","軽量材料および合金の作成に一般的に使用される腐食の影響を受けやすい金属。";
+"Cooked Orcek Egg","調理されたOrcek Egg.";
+"Delicious cooked Orcek Egg. Eat while equipped or straight from inventory.","おいしい調理されたオーケットの卵。在庫を装備している間またはまっすぐに食べます。";
+"Hydrocarbon Solution","炭化水素溶液";
+"A solution rich in hydrocarbons, very flamable and combustible, can be refined into a better fuel.","炭化水素が豊富な溶液、非常にフラマンスで可燃性で、より良い燃料に精製することができます。";
+"Methane Gas","メタンガス";
+"A flammable gas that is both colorless and odorless. It is the main constituent of natural gas, as well as the simplest member of the alkane series of hydrocarbons.","無色と無臭の両方である可燃性ガス。それは天然ガスの主要な構成要素、ならびにアルカンシリーズの炭化水素の最も単純な部材である。";
+"Data Disk SN:851.47","データディスクSN：851.47";
+" (0 chances)"," （0チャンス）";
+"Radar Scanner","レーダースキャナー";
+"Advanced handheld Radar Scanner used for navigating terrain and scanning for resources based on their elemental density. Equip item to activate scanner.","高度なハンドヘルドレーダースキャナは、地形をナビゲートし、それらの元素密度に基づいてリソースのスキャンに使用されます。スキャナを有効にするための項目を装備してください。";
+"Gnat Stew","Gnatシチュー";
+"Snake Spikes","スケーキスパイク";
+"Spikes taken from the back of a snake.","蛇の後ろから撮ったスパイク。";
+"Cobalt Pistol","コバルトピストル";
+"Laser Cell","レーザーセル";
+"15% critical hit","15％クリティカルヒット";
+"Broken Circuit Board","壊れた回路基板";
+"A Circuit Board that has been broken and is missing some circuitry, could be repaired to be functional again.","破損している回路基板といくつかの回路が欠けているため、再度機能するように修理できます。";
+"Dragon Tooth","ドラゴンの歯";
+"Powerful piercing melee weapon with a sharp obsidian blade.","鋭い黒曜石のブレードを持つ強力な貫通する近接武器。";
+"Arachnoid Teeth","アラコノイドの歯";
+"Hover Booster","ホバーブースター";
+"Stim Unit","刺されたユニット";
+"Nichrome","ニクロム";
+"An alloy with high electrical resistance commonly used in heating elements.","発熱体に一般的に使用される高い電気抵抗を有する合金。";
+"Crude Metal Sword","粗金属刀";
+"60% critical hit","60％クリティカルヒット";
+"A crude sharp weapon made from a piece of sharpened metal. ","鋭利な金属の片から作られた粗い鋭い武器。";
+"Solar Unit Mk. III","ソーラーユニットMK。 i";
+"Lithium","リチウム";
+"The lightest and least dense metal, while commonly used in the creation of batteries, can also be used in air purification applications.","最も軽いかつ最小の金属は、電池の創造に一般的に使用されているが、空気浄化用途にも使用することができる。";
+"Masking Tape","マスキングテープ";
+"Suit Integrity Bonus: ","スーツの整合性ボーナス：";
+"IMPORTANT! Use masking tape to repair suit punctures. Can be used while equipped or straight from inventory.","重要！マスキングテープを使用してスーツの穿刺を修理してください。在庫を備えている間またはまっすぐに使用できます。";
+"Cinna Fern","シナナシナティー";
+"Leather Straps","レザーストラップ";
+"Sections of leather used in crafting.","クラフトに使用される革のセクション。";
+"Recovery Unit Mk. II","回復ユニットMK。 ii";
+"Fuel Compressor Mk. III","燃料圧縮機MK。 i";
+"Wrath","怒りに";
+"Advanced compound created to increase your carrying capacity and stamina.","あなたの運搬能力とスタミナを増やすために作成された高度な化合物。";
+"Gunmetal","ガンメタル";
+"Corrosion resistant alloy commonly used in weapons.","武器で一般的に使用されている耐食性合金。";
+"Flourescence","華やか";
+"Liquid that has lumenescent properties.","じんましんでいる液体。";
+"Magnesium Ingot","マグネシウムインゴット";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 650 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：650℃
+";
+"Silver","銀";
+"A precious metal with very high electrical and thermal conductivity.","非常に高い電気的および熱伝導率を有する貴金属。";
+"Metal material found off of broken human made structures and vehicles. Can be recycled into other materials or used to create makeshift structures and other items.","壊れた人間の構造物と車両から見た金属材料。他の材料にリサイクルすることも、Makeshift構造体やその他の項目を作成するために使用することもできます。";
+"Cooling Unit Mk. III","冷却装置MK。 i";
+"Blue Blades","ブルーブレード";
+"Blades taken from a Blueblade plant used as an ingredient to craft different items. Can also be eaten.","異なるアイテムを作るための成分として使用されるブルーブレード工場から撮影されたブレード。食べることもできます。";
+"Lava Leaves","溶岩の葉";
+"Lava leaves are used as an ingredient to craft different items. Can be eaten for a small increase in health and nutrition.","溶岩の葉は、さまざまな品目を作るための成分として使用されています。健康と栄養の小さな増加のために食べることができます。";
+"Data Disk SN:251.35","データディスクSN：251.35";
+"Makeshift Screwdriver","マキシフトドライバー";
+"A makeshift multi-tool fashioned from scrap metal to allow for repairing, salvaging, and precise tinkering.","スクラップメタルから作られたMakeshiftマルチツールを修理、救済、そして正確ないじりを可能にする。";
+"Spicy Sausage Gumbo","スパイシーなソーセージガンボ";
+"An extravagant, delicious stew with multiple types of meats and vegetables. Eat while equipped or straight from inventory.","複数種類の肉や野菜の贅沢で美味しいシチュー。在庫を装備している間またはまっすぐに食べます。";
+"C19 Heavy Assault Rifle","C19重いアサルトライフル";
+"Human Waste","人間の浪費";
+"Fertilizer to be mixed with Sand to create Soil for growing crops.","作物を成長させるための土壌を作り出すために砂と混ぜる肥料。";
+"O2 Pump","O2揚水";
+"Cooked Crab Egg","調理されたカニエッグ";
+"Delicious cooked Crab Monster Egg. Eat while equipped or straight from inventory.","おいしい調理カニのモンスターエッグ。在庫を装備している間またはまっすぐに食べます。";
+"Azure Rifle Magazine","Azureライフルマガジン";
+"Ammo magazine for the Assault Rifle. It is automatically used when reloading, if stored in backpack.","アサルトライフル用の弾薬マガジン。バックパックに保存されている場合は、リロード時に自動的に使用されます。";
+"Magnalium","マグネラリウム";
+"An alloy with high strength, workability and low density commonly used in various vehicles types.","様々な車種で一般的に使用される高強度、加工性および低密度の合金。";
+"Frenzy","狂信者";
+"Advanced compound created to increase your health and stamina.","健康とスタミナを増やすために作成された高度な化合物。";
+"Aluminum","アルミニウム";
+"A low-density metal that is highly conductive and resist to corrosion.","高密度の金属は高度に導電性であり、腐食に抵抗する。";
+"Dymalloy","ディマロイ";
+"Conductive alloy used for high-powered electronics.","高出力電子機器に使用される導電性合金。";
+"Carrot","にんじん";
+"Nutritious vegetable to replenish hunger. Can be eaten while equipped or straight from storage.","飢餓を補充する栄養価の高い野菜。装備されている間、またはストレージからのストレートで食べることができます。";
+"Snow","雪";
+"Pile of frozen water flakes.","凍結水フレークの山。";
+"Dirty Water","汚い水";
+"Liquid water to be drank for quenching thirst. This will be bad for your nutrition but the water can be purified using some simple chemistry.","急冷するために飲み込むための液体水。これはあなたの栄養のために悪いでしょうが、水はいくつかの簡単な化学的性質を使って浄化されます。";
+"Cooling Unit Mk. II","冷却装置MK。 ii";
+"Diamond","ダイヤモンド";
+"A crystalline form of pure carbon with immensely high hardness and thermal conductivity, commonly used in industrial cutting and grinding applications.","工業的切断および粉砕用途に一般的に使用される、非常に高い硬度および熱伝導率を有する結晶形の純粋な炭素。";
+"Dyno","ダイノミー";
+"A weak compound created to give a small boost to your speed.","あなたの速度に小さな後押しをするために作成された弱い化合物。";
+"Pistol","ピストル";
+"Lithium Ingot","リチウムインゴット";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 180.5 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：180.5°C.
+";
+"Pick Axe","斧を選ぶ";
+"Large slashing tool that is primarily for mining but can be used in self defense.","主に採掘のための大規模なスラッシングツールが自己防衛に使用することができます。";
+"Assault Rifle Magazine","アサルトライフルマガジン";
+"Booster Unit Mk. I","ブースターユニットMK。私";
+"Anvil","アンビル";
+"A strong compound created to give a boost to your health.","あなたの健康を後押しするために作成された強い複合。";
+"Meat Stew","肉シチュー";
+"Simple Meat broth, an improvement over basic charred meat. Eat while equipped or straight from inventory.","単純な肉スープ、基本的な慈悲の肉の上の改善。在庫を装備している間またはまっすぐに食べます。";
+"Light Unit Mk. II","ライトユニットMK。 ii";
+"Charge Cell","充電セル";
+"Advanced portable power source made in a printer or fabricator. Used as a power source for the charge rifle.","プリンタまたは製造者で作られた高度な携帯電源。電荷ライフルの電源として使用されます。";
+"Orcek Egg","オルクエの卵";
+"Egg taken from an Orcek. Cook to avoid food poisoning.","オルクから撮影された卵。食中毒を避けるために調理する。";
+"Broken Computer Screen","壊れたコンピューターの画面";
+"A computer with a screen that is defective.","欠陥のある画面を備えたコンピュータ。";
+"Dull Survival Knife","鈍いサバイバルナイフ";
+"A Survival Knife is a slashing tool that is an essential part of all U.N.E. standard issue Emergency Kits. Not sharp enough to precisely skin creatures, but could be used to separate plant fibers or butcher meat in a pinch.","生存ナイフは、すべてのU.eの本質的な部分であるスラッシュツールです。標準問題緊急キット。正確に肌の生き物を肌にするのに十分急激ではありませんが、ピンチ内の植物繊維や肉肉を分離するために使用することができます。";
+"Sulfur","硫黄";
+"A nonmetallic element that is commonly used in chemical applications and as a component in fertilizers.","化学的用途で、および肥料中の成分として一般的に使用されている非金属元素。";
+"Oxygen Scrubber","酸素スクラバー";
+"Snake Meat","蛇の肉";
+"Meat ripped right off the body of a snake. Cook to avoid food poisoning.","肉は蛇の体から裂けた。食中毒を避けるために調理する。";
+"Power Cell","電源セル";
+"A basic lithium-ion power cell.","基本的なリチウムイオン電力セル。";
+"Hydrazine","ヒドラジン";
+"Highly explosive gas commonly used to fuel rockets.","燃料ロケットに一般的に使用される非常に爆発性ガス。";
+"Crab Scythe","カニの鎌";
+"Melee weapon made from the talon of a crab monster.","カニのモンスターのタロンから作られた近接兵器。";
+"Tin","錫";
+"A soft metal commonly used in various alloys and as a coating to prevent corrosion.","様々な合金で一般的に使用される軟質金属および腐食を防ぐためのコーティングとして。";
+"Horse Bract","馬の母";
+"Horse bract are used as an ingredient to craft different items.","馬の母麦は、さまざまな品目を作るための成分として使用されています。";
+"Targe","ターゲット";
+"A weak compound created to give you a small boost to your health.","あなたの健康への小さな後押しをするために作成された弱い複合。";
+"Makeshift Bandage","マケシフトの包帯";
+"Orcek Stew","オルスクシチュー";
+"A delicious stew with added Orcek Meat and Carrots. Eat while equipped or straight from inventory.","オルク肉とニンジンを追加した美味しいシチュー。在庫を装備している間またはまっすぐに食べます。";
+"Duralumin","ジュラルミン";
+"An alloy with a high strength to weight ratio commonly used on vehicles and aircraft.","車両や航空機で一般的に使用される重量比の高い合金。";
+"Glass","ガラス";
+"Crafting item for building structures, walls, and other items.
+","建物構造、壁、その他の項目のためのクラフト項目。
+";
+"Cooling Unit Mk. I","冷却装置MK。私";
+"Soil","土";
+"Natural crafting agent for growing crops in a Bio Dome.","バイオドームで作物を成長させるための天然製の作物。";
+"Psychroptera","精神科";
+"Fleshy growth from a Psychroptera.","精神科療法からの肉質成長";
+"Cooling Unit","冷却装置";
+"Azure Rifle","紺碧のライフル";
+"Fuel Cell","燃料電池";
+"A long lasting power source.","長い長持ちする電源。";
+"Solar Unit Mk. II","ソーラーユニットMK。 ii";
+"Lead Ingot","鉛インゴット";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 327.5 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：327.5℃
+";
+"Solar Panel Small Kit","ソーラーパネルスモールキット";
+"Kit used to build Small Solar Panel. To build, right-click on Inventory Item and select Build or select the  Small Solar Panel from the Structures tab in your Character Menu.","小型の太陽電池パネルを構築するために使用されたキット。 [インベントリ]アイテムを作成し、[ビルド]を選択するか、[文字]メニューの[構造]タブから[スモールソーラー]パネルを選択します。";
+"Fibon Tree Fruit","フィボロウの木の果実";
+"Alien Blood","外国人の血";
+"Blood extracted from the body of an indigenous alien creature.","先住民の外国人の生き物の体から抽出された。";
+"Beacon Kit","ビーコンキット";
+"Kit used to build beacons. To build, right-click on Inventory Item and select Build or select the Beacon from the Utilities tab in your Character Menu.","キットはビーコンを構築するために使用されます。ビルドするには、インベントリアイテムを右クリックして、[ビルド]を選択するか、[キャラクタ]メニューの[ユーティリティ]タブからビーコンを選択します。";
+"Storage Unit","記憶装置";
+"Nickel Ingot","ニッケルインゴット";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1455 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：1455℃
+";
+"Key Card Tier-1","キーカードTier-1";
+"A low-level clearance keycard used to open Osiris mission doors in abandoned settlements and mines.","放棄された集落と鉱山でオシリスミッションドアを開くために使用される低レベルのクリアランスキーカード。";
+"Frost Lotus","霜ロータス";
+"A flower from the Frost Lotus plant.","霜蓮の植物からの花。";
+"Crude Metal Axe Head","粗金属斧ヘッド";
+"A piece of sharpened metal that can be used to make an axe.","AXを作るために使用できる鋭利な金属。";
+"Survival Tool","サバイバルツール";
+"A multi-tool included in all U.N.E. standard issue Emergency Kits, useful for repairing, salvaging, and precise tinkering when in a pinch.","すべてのU.eに含まれるマルチツール標準的な問題緊急キットは、ピンチ内に修理、救済、および正確な綱引きに役立ちます。";
+"Oxygen Tanks","酸素タンク";
+"Oxygen Bonus: ","酸素ボーナス：";
+"Tanks filled with oxygen that can be plugged directly in to your suit. This will help you catch your breath by providing oxygen in the field.","あなたのスーツに直接入れることができる酸素で満たされたタンク。これはあなたが分野で酸素を提供することによってあなたの息を捕まえるのを助けるでしょう。";
+"Zamak","ザマック";
+"A general purpose alloy with a wide range of applications.","幅広い用途を有する汎用合金。";
+"6al-4v","6Al-4V";
+"An alloy with high specific strength and excellent corrosion resistance.","高い比強度と優れた耐食性の合金。";
+"Makeshift Patch Tape","Makeshiftパッチテープ";
+"Ladder","はしご";
+"Used to reach high places.","高い場所に到達するために使用されます。";
+"Banana","バナナ";
+"Nitrogen Compress Cell","窒素圧縮セル";
+"ADD DETAILS
+","詳細を追加してください
+";
+"Crude Metal Shovel","粗金属シャベル";
+"Scarburros Palm","スカーブルスパウム";
+"Data Disk SN:231.25","データディスクSN：231.25";
+"Test Boots","ブーツをテストする";
+"Prevents Lava Damage","溶岩の損傷を防ぎます";
+"Gnat Underhook","GNATの後退";
+"Baked Potato","ベークドポテト";
+"Scrap Cloth","スクラップクロス";
+"Soft fragments of cloth.","布の柔らかい断片。";
+"Data Disk SN:385.21","データディスクSN：385.21";
+"Test Backpack","バックパックをテストする";
+"Ferrochrome","フェロクローム";
+"Acid-resistent alloy used in the production of stainless steel.","ステンレス鋼の製造に使用される酸抵抗性合金。";
+"T21 Heavy Assault Rounds","T21重いアサルトラウンド";
+"Patch Tape","パッチテープ";
+"IMPORTANT! Use patch tape to repair suit punctures. Can be used while equipped or straight from inventory.","重要！スーツの穿刺を修理するには、パッチテープを使用してください。在庫を備えている間またはまっすぐに使用できます。";
+"Dirt","泥";
+"Useless","無駄になる";
+"Iron Ingot","鉄インゴット";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1538 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：1538℃
+";
+"Test Helmet","テストヘルメット";
+"Snake Hide","ヘビが隠れます";
+"Hide from a snake used to make items for crafting weapons and different items.","武器を作成するために使用されるヘビから隠れてください。";
+"Tumbo Shell","粘土殻";
+"Shell taken from a Tumbo, often used to make defenses.","粘膜から撮影されたシェルは、しばしば防御をするために使用されます。";
+"Gnat Hide","GNAT隠す";
+"Ion Assault Rifle Magazine","イオンアサルトライフルマガジン";
+"Spirit","精神";
+"Advanced compound created to increase your health and speed.","あなたの健康と速度を上げるために作成された高度な化合物。";
+"Spirea","霊長";
+"Spirea plant sample used as an ingredient to craft different items. Can be eaten for a small increase in health and nutrition.","Speia Plantサンプルは、さまざまなアイテムを作り出すための成分として使用されます。健康と栄養の小さな増加のために食べることができます。";
+"Organic Sludge","有機汚泥";
+"A thick sludge that appears to have high concentrations of graphene strands suspended in solution.","高濃度のグラフェン鎖を溶液中に懸濁させるように思われる厚いスラッジ。";
+"Heat Sink Unit","ヒートシンクユニット";
+"Broken Wire","壊れたワイヤー";
+"Short segments of wire. With more pieces, could be combined into a usable segment of wire.","ワイヤーの短いセグメント。より多くのピースを使用すると、使用可能なワイヤのセグメントに組み合わせることができます。";
+"Machete","マチェーテ";
+"A sharp weapon that is essentially a steel blade with a nice handle.","素敵なハンドルを備えたスチールブレードである鋭い武器。";
+"Copper Ingot","銅インゴット";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1085 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：1085℃
+";
+"Alien Insect Parts","エイリアン昆虫部品";
+"Squished parts of an indigenous alien insect.","先住民族のエイリアンの昆虫のスクロード部分。";
+"Crab Screwdriver","クラブドライバー";
+"A makeshift multi-tool fashioned from tough pieces of chitinous antenna to allow for repairing, salvaging, and precise tinkering.","修理、救済、および正確ないじりを可能にするために、チティンなアンテナのタフな部分から作られたマキシフトマルチツール。";
+"Military Medkit","軍のメドキット";
+"Rubber","ゴム";
+"Computer Screen","コンピューターの画面";
+"A computer screen with an internal processor.","内部プロセッサを備えたコンピュータ画面。";
+"Fungtiple Bulb","燃料球";
+"A Bulb off a Fungtiple plant.","ファミティプルプラントから電球。";
+"Glass Container","ガラスコンテナ";
+"Stores liquid so that it can be drank or used to craft more useful items.","液体を貯蔵して、より有用な品目を作るために飲んだり使用できるように貯蔵してください。";
+"Heavy Assault Magazine","重いアサルトマガジン";
+"Ammo magazine for the Heavy Assault Rifle. It is automatically used when reloading, if stored in backpack.","重いアサルトライフルのための弾薬マガジン。バックパックに保存されている場合は、リロード時に自動的に使用されます。";
+"Scrap Solar Panel","スクラップソーラーパネル";
+"Scraps of solar panel parts that have been left over.","残っている太陽電池パネル部分のスクラップ。";
+"Ammo charges for the Pistol. It is automatically used when reloading, if stored in your backpack.","ピストルのための弾薬の料金。バックパックに保存されている場合は、リロード時に自動的に使用されます。";
+"Mercury","水星";
+"A heavy metal often used in its liquid form for scientific instruments such as thermometers.","温度計などの科学的機器のための液体の形でよく使用されます。";
+"Tumbo Egg","雲";
+"Egg taken from the body of a Tumbo. Cook to avoid food poisoning.","卵の体から撮影した卵。食中毒を避けるために調理する。";
+"Mercury Ingot","水星インゴット";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: -38.83 °C
+","インゴットは精製建材のレンガです。あなたはこれらのインテを使ってさまざまなものを構築します。
+
+ - 融点：-38.83℃
+";
+"Crab Talon","カニタロン";
+"Talon taken from a crab monsters leg.","カニのモンスターの足から取られたTalon。";
+"Shears","剪断する";
+"A precise surgical tool used for carefully gathering organic matter.","有機物を注意深く集めるために使用される正確な外科用器具。";
+"Path Light Kit","パスライトキット";
+"Solar light used for path marking","パスマーキングに使用される太陽光発電";
+"Barrel","たる";
+"Stores gas so that it can be used to craft more useful items.","より有用なアイテムを作るために使用できるようにガスを貯蔵してください。";
+"Storage Unit Mk. III","記憶装置MK。 i";
+"Arachnoid Hide","アラクノイド";
+"Hide taken from an Arachnoid, used for crafting purposes.","クラフト目的に使用されるアラクノイドから撮影した隠れます。";
+"Arachnoid Tail","アラクノイドテール";
+"Tail taken from a Arachnoid to be used for crafting purposes.","クラフト目的に使用されるアラクノイドから撮影した。";
+"Skeliopod Meat","スケ科植物の肉";
+"Meat ripped right off the body of a Skeliopod. Cook to avoid food poisoning.","肉はスケ科植物の体から裂けた。食中毒を避けるために調理する。";
+"Data Disk SN:349.01","データディスクSN：349.01";
+"Mission Cryptex","ミッションクリプテックス";
+"Recovery Unit Mk. I","回復ユニットMK。私";
+"Hydrogen Canister","水素キャニスター";
+"1% critical hit","1％クリティカルヒット";
+"Container holding a pressurized hydrogen mixture. Made in either a printer or a fabricator. Used as a fuel source for the hydrogen torch.","加圧水の混合物を保持する容器。プリンタまたは製造業者で作られています。水素トーチの燃料源として使用されます。";
+"Darts","ダーツ";
+"Projectiles used by Dart Gun.","Dart Gunによって使用される発射体。";
+"Hover Recharger","ホバーリチャージャー";
+"Cobalt Ingot","コバルトインゴット";
+"Gnat Tongue","GNAT Tongue";
+"Tongue ripped right from the mouth of a Gnat. Cook to avoid food poisoning.","舌はGNATの口から右にリッピングされました。食中毒を避けるために調理する。";
+"Gold Cover","ゴールドカバー";
+"Nitro","ニトロ";
+"Advanced compound created to give you more speed and stamina.","もっと速いとスタミナを与えるために作成された高度な複合。";
+"Chlorine","塩素";
+"A pale green gas, important for water purification.","淡い緑色のガス、浄水にとって重要です。";
+"Adhesive","接着剤";
+"Adhesive is used in the fabrication of Patch Tape.","接着剤はパッチテープの製造に使用されます。";
+"English","英語";
+"Avatar Inventory","アバターインベントリ";
+"Back","バック";
+"Avatars","アバター";
+"Create New Avatar","新しいアバターを作成します";
+"Universe:","宇宙：";
+"Single Player","シングルプレーヤー";
+"Owner:","オーナー：";
+"Current Base","現在のベース";
+"Planet:","惑星：";
+"Launch","発行する";
+"Loading Avatar","アバターを読み込む";
+"Loading Persistent Nature","持続的な性質を読み込む";
+"EARLY ACCESS","早いアクセス";
+"HINT: Unequip gun to run faster","ヒント：より速く実行するためのUnequip Gun";
+"Depository","寄託金";
+"Habitat","生息地";
+"A Habitat is a multi-purpose room that can house many interior items.","生息地は、多くの内装品を収容できる多目的な客室です。";
+"Add to Backpack","バックパックに追加してください";
+"Equip","装備";
+"Store in Inventory","在庫に保管してください";
+"Drink","ドリンク";
+"Empty out","out";
+"Drop","落とす";
+"New Ability","新しい能力";
+"Status","状態";
+"This new ability unlocks your wildest dreams!","この新しい能力はあなたの最も野生の夢のロックを解除します！";
+"Customize Colors","色をカスタマイズします";
+"Primary
+","一次
+";
+"Secondary","二次";
+"Detail","detail detail";
+"Glow","輝く";
+"Hazy","h h";
+"Missions","ミッション";
+"CRITICAL BREACH","批判的な違反";
+"Oxygen Low","酸素低い";
+"Local Time","現地時間";
+"You Are Dehydrated
+You are Starving","あなたは脱水されています
+あなたは飢えています";
+"Suit Pressue Low","スーツプレッか";
+"You Are FREEZING","あなたは凍っています";
+"Agility","機敏";
+"4m 5s","4M 5S";
+"Fortitude","fort fort";
+"Strength","力";
+"Stamina","元気";
+"HOV","h";
+"-62°","-62°";
+"HYD
+---","ハイドリー
+ -  ---";
+"
+
+NTR","
+
+n";
+"HLTH","h";
+"Restoring Oxygen in 10s","10代の酸素を復元する";
+"0.99","99％";
+"Atmos o2: 1.29%","ATMOS O2：1.29％";
+"Weight:","重量：";
+"Patch Tape","パッチテープ";
+"Medical Bandage","包帯";
+"Scrap Metal","金属くず";
+"Fern Tree Berry","シダツリーベリー";
+"Alien Fiber","エイリアンファイバー";
+"Rock","岩";
+"Shard Blade","シャードブレード";
+"Alien Hide","エイリアン";
+"Makeshift Chisel","マケシフトチーゼル";
+"Barrel","たる";
+"Now that I've gotten a foothold on this planet, I should explore and see if I can regroup with the Phoenix Team. ([F3] will open up the GPS, your suit has a radar installed that will allow for Basic Scanning. [NUM +] and [NUM -] to change the zoom of the map.)","私はこの惑星の足がかりを得たので、私はPhoenixチームと登録できるかどうかを探り、そして見るべきです。 （[F3] GPSを開きます、あなたのスーツに基本的なスキャンを可能にするレーダーが設置されています。マップのズームを変更するには、[Num +]と[Num]  - ]。）";
+"Slope: 35.6°","斜面：35.6°";
+"Laboratory","実験室";
+"New1","new1";
+"Level 08 - SCIENTIST","レベル08  - 科学者";
+"Sol 01","SOL 01";
+"13 hrs to next sol","次のSOLまで13時間";
+"Level 01","レベル01";
+"XP: 25/100","XP：25/100";
+"Physical Stats","物理統計";
+"Speed","速度";
+"Health","健康";
+"Stat Points:","スタートポイント：";
+"Proficiencies","環境";
+"Combat","戦闘";
+"Engineering","エンジニアリング";
+"Science","理科";
+"HLTH
+---","h
+ -  ---";
+"Suit","スーツ";
+"NTR","n";
+"Creation Center","作成センター";
+"Skeliopod Meat","スケ科植物の肉";
+"Steel","鋼";
+"Rubber","ゴム";
+"Grilled Alien Meat","エイリアンミートの焼き";
+"<color=silver>Class: </color><color=white>Consumable</color>
+<color=silver>Amount: </color><color=white>1/50</color>
+<color=silver>Weight: </color><color=white>0.50</color><color=lime> kgs</color>
+<color=silver>Health Bonus: </color><color=white>10</color>
+<color=silver>Nutrition Bonus: </color><color=white>50</color>
+
+<color=white>Meat ripped right off the body of an indigenous alien creature. Has been cooked and is safe to eat.</color>","<color = silver>クラス：</ color> <color =白>消耗品</ color>
+<color =銀>量：</カラー> <color =白> 1/50 </カラー>
+<color =銀>重量：</カラー> <color =白> 0.50 </カラー> <color = Lime> KGS </ COLLOW>
+<color = silver>健康ボーナス：</カラー> <color =白> 10 </カラー>
+<color =銀>栄養ボーナス：</カラー> <color =白> 50 </カラー>
+
+<color =白>肉は先住民のエイリアンのクリーチャーの体をすぐにリッピングしました。調理されて食べるのは安全です。</カラー>";
+"Backpack","バックパック";
+"Default","デフォルト";
+"Alphabetical","アルファベット順";
+"43.61 / 80.00 kgs
+54.5% Weight Capacity","43.61 / 80.00 kgs
+54.5重量容量";
+"Inventory
+","在庫
+";
+"[A] Skills","[A]スキル";
+"Crafting [D]","クラフト[D]";
+"Urchin Shell","ウルチンシェル";
+"Duralumin","ジュラルミン";
+"Titanium","チタン";
+"Brass","真鍮";
+"Tungsten","タングステン";
+"Bronze","ブロンズ";
+"Wire","ワイヤー";
+"Circuit Board","回路基板";
+"Power Cell","電源セル";
+"Diamond Chisel","ダイヤモンドチゼル";
+"Magnalium","マグネラリウム";
+"Gunmetal","ガンメタル";
+"Lead","鉛";
+"Battery","電池";
+"Assault Rifle","アサルトライフル";
+"Talonite","Talonite";
+"Mechanized Spanner","機械化スパナ";
+"Crab Antenna","カニアンテナ";
+"Crab Shell","カニの殻";
+"Crab Meat","カニの身";
+"Crab Talon","カニタロン";
+"Crab Leg Meat","カニレッグミート";
+"Fuel Cell","燃料電池";
+"Cast Iron","鋳鉄";
+"Ferrochrome","フェロクローム";
+"6al-4v","6Al-4V";
+"Nichrome","ニクロム";
+"Azurnium","鞍譜";
+"Glass","ガラス";
+"Cobalt","コバルト";
+"Inventory","在庫";
+"Field Guide","フィールドガイド";
+"Skills","スキル";
+"Options","オプション";
+"Build / Craft [F3]","ビルド/クラフト[F3]";
+"Data Selection
+Matrix","データ選択
+マトリックス";
+"Aziel","アジエル";
+"Env Pressure:","env prevession：";
+"Env Temp:","env temp：";
+"Personal Data Unit","個人データユニット";
+"Osiris Mission Team","オシリスミッションチーム";
+"Systems Data Selection","システムデータの選択";
+"Build 248.517.68200","248.517.68200を構築する";
+"Exit Data Matrix [Tab]","データ行列を終了する[タブ]";
+"Log","ログ";
+"Lorem ipsum dolor sit amet, sed ea offendit aliquando mediocritatem. Cum ad quis malorum recusabo, nam ea audiam fuisset incorrupte, et eirmod aperiam pro. Quod detracto eloquentiam an vel, cum mutat argumentum ex. Ex eam partem dolores pertinacia, et alterum maiorum praesent his. Copiosae laboramus assentior te per, te eam feugiat elaboraret. Ut cum quas minim, has quot prodesset assueverit ei, an his utamur tibique.","Lorem Ipsum Dolor Sit Sit、SED EA攻撃Aliquando Mediocritatem。 Cum Ad Quis Malorum Recusabo、Nam Ea Audiam Fuisset e Tirepte、Et Eirmod Aperiam Pro。 Quod Detracto Eloquentiam an vel、cum mutat angumentum ex。 Ex EAM Partem Dolores Pertinacia、et alterum maiorumは彼のものです。 Copioae LaboramusアッセンテリアTe Teeam Feugiat Elaboraret。 UT Cum Quas Minimは、Quot Prodesset AssueVerit Ei、彼のユタムールチブリックです。";
+"Craft","クラフト";
+"Utilities","ユーティリティ";
+"Defenses","守り";
+"Structures","struct struct";
+"Appliances","電化製品";
+"Custom","カスタム";
+"Crafting","cr cr";
+"[A] Inventory","[a]在庫";
+"GPS [D]","GPS [D]";
+"Makeshift Patch Tape","Makeshiftパッチテープ";
+"Class: ","クラス：";
+"Amount: ","量：";
+"Weight: ","重量：";
+" kgs"," kgs.";
+"Suit Integrity Bonus: ","スーツの整合性ボーナス：";
+"IMPORTANT! Use masking tape to repair suit punctures. Can be used while equipped or straight from inventory.","重要！マスキングテープを使用してスーツの穿刺を修理してください。在庫を備えている間またはまっすぐに使用できます。";
+"Makeshift Bandage","マケシフトの包帯";
+"Health Bonus: ","健康ボーナス：";
+"Heals hitpoints. Can be used while equipped or straight from inventory.","ヒットポイントを癒します。在庫を備えている間またはまっすぐに使用できます。";
+"Makeshift Cloth Bundle","牧船布束";
+"A makeshift bundle of loosely woven fibers.","ゆるく織られた繊維のマキシフトバンドル。";
+"Bashing Rock","バッシュロック";
+"Durability: ","耐久性：";
+"%","％";
+"Hardness: ","硬度：";
+"Damage: ","ダメージ：";
+"0% critical hit","0％クリティカルヒット";
+"Useful when you have no other tools.","他のツールがない場合に便利です。";
+"Stone Blade","石ブレード";
+"A sharpened rock that can be used to make a blade.","ブレードを作るために使用することができる鋭い岩。";
+"Stone Axe Head","ストーンアックスヘッド";
+"A sharpened rock that can be used to make an axe","斧を作るために使用できる鋭い岩";
+"Stone Shovel Head","ストーンシャベルヘッド";
+"A shaped rock that can be used to make a shovel.","シャベルを作るために使用することができる形の岩。";
+"Shaped Crab Antenna","形のカニアンテナ";
+"A shaped fragment of a Crab Antenna, could be fashioned into a crude precision tool.","カニアンテナの成形フラグメントは、粗精密工具に作ることができた。";
+"Crab Screwdriver","クラブドライバー";
+"A makeshift multi-tool fashioned from tough pieces of chitinous antenna to allow for repairing, salvaging, and precise tinkering.","修理、救済、および正確ないじりを可能にするために、チティンなアンテナのタフな部分から作られたマキシフトマルチツール。";
+"20% critical hit","20％クリティカルヒット";
+"A small sharp weapon made from a rock shard.","岩の断片から作られた小さな鋭い武器。";
+"Stone Axe","石の斧";
+"A slashing tool that is essentially a rock on a stick with a nice handle.","素敵なハンドルが付いているスティックの上の岩であるスラッシュツール。";
+"Crab Scythe","カニの鎌";
+"Melee weapon made from the talon of a crab monster.","カニのモンスターのタロンから作られた近接兵器。";
+"Stone Shovel","ストーンシャベル";
+"Tool used to gather Sand for use in crafting.","作品に使用するための砂を集めるために使用されるツール。";
+"Soil","土";
+"Natural crafting agent for growing crops in a Bio Dome.","バイオドームで作物を成長させるための天然製の作物。";
+"Redfern Tree Berry","レッサーツリーベリー";
+"Branches","枝";
+"Sand","砂";
+"Human Waste","人間の浪費";
+"Accessing Data","データへのアクセス";
+"Crude Pipe","粗管";
+"Scrap Hinge","スクラップヒンジ";
+"Sulfur","硫黄";
+"Mercury","水星";
+"Aluminum","アルミニウム";
+"Iron","鉄";
+"Computer Screen","コンピューターの画面";
+"Hose","ホース";
+"White Gold","白金";
+"Dymalloy","ディマロイ";
+"Small Radar Dish Kit","小さなレーダーディッシュキット";
+"Solar Panel Small Kit","ソーラーパネルスモールキット";
+"Nickel","ニッケル";
+"Gold","ゴールド";
+"Lonsdaleite","ロンズセライト";
+"Copper","銅";
+"Zinc","亜鉛";
+"Plastic","プラスチック";
+"Beacon Kit","ビーコンキット";
+"Path Light Kit","パスライトキット";
+"Diamond","ダイヤモンド";
+"Zirconium Plate","ジルコニウムプレート";
+"Zirconium Circuit Board","ジルコニウム回路基板";
+"Land Mine Set","土地鉱山セット";
+"Cubic Zirconia","キュービックジルコニア";
+"Skeliopod Shell","スケ科植物の殻";
+"Skeliopod Tail","スケ科植物のテール";
+"Inflatable Dome Kit","インフレータブルドームキット";
+"Zamak","ザマック";
+"Lithium","リチウム";
+"Cloth Bundle","布束";
+"dev console commands","dev consoleコマンド";
+"Buggie","バギー";
+"_","_";
+"Space Utilities","スペースユーティリティ";
+"Spacecraft","宇宙船";
+"Plutonium","プルトニウム";
+"Zircaloy","ジルカロイ";
+"Bug Report / Feedback","バグレポート/フィードバック";
+"Resume","履歴書";
+"Settings","設定";
+"Main Menu","メインメニュー";
+"Exit Game","出口ゲーム";
+"Menu Options","メニューオプション";
+"Are you sure you want to quit to main menu? <color=#00FFB7FF>Your current position and profile will be saved.</color>","メインメニューを終了してもよろしいですか？ <color =＃00FFB7FF>現在の位置とプロファイルは保存されます。</ color>";
+"No","番号";
+"Yes","はい";
+

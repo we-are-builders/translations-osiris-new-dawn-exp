@@ -1,0 +1,2288 @@
+"English","中文";
+"Enter","进入";
+"OK","好的";
+"Public Universes","公共宇宙";
+"Colony Defense","殖民地辩护";
+"Private Universe","私人宇宙";
+"Pair Mobile App","配对移动应用程序";
+"Debug Levels","调试级别";
+"Logout","登出";
+"Next Update","下一次更新";
+"Debug Menu","调试菜单";
+"PUBLIC UNIVERSE","公共宇宙";
+"PRIVATE UNIVERSE","私人宇宙";
+"Avatar Inventory","头像库存";
+"Universe:","宇宙：";
+"Planet:","行星：";
+"Owner:","所有者：";
+"Droids","Droids.";
+"Vehicles","车辆";
+"Current Base","当前基地";
+"Avatars","头像";
+"Create New Avatar","创建新的头像";
+"US West","美国西部";
+"Back","后退";
+"Launch","发射";
+"Faction","派";
+"U.N.E.","U.N.E.";
+"Outlanders","外地人";
+"Scientist","科学家";
+"Science: 18","科学：18";
+"Engineering: 7","工程：7";
+"Combat: 5","战斗：5";
+"Male","男性";
+"Female","女性";
+"Ranger","游侠";
+"Combat: 10","战斗：10";
+"Engineering: 10","工程：10";
+"Science: 10","科学：10";
+"Marine","mar";
+"Combat: 20","战斗：20";
+"Engineering: 6","工程：6";
+"Science: 4","科学：4";
+"Engineer","工程师";
+"Combat: 8","战斗：8";
+"Engineering: 16","工程：16";
+"Science: 6","科学：6";
+"SELECT YOUR CLASS","选择你的课程";
+"Starting Items","起始物品";
+"Description","描述";
+"Choose Colors","选择颜色";
+"Primary","基本的";
+"Secondary","中学";
+"Detail","细节";
+"Glow","辉光";
+"CUSTOMIZE FEATURES","自定义特征";
+"Height","高度";
+"Head","头";
+"Torso","躯干";
+"Upper Arms","上臂";
+"Forearms","前臂";
+"Hands","hands";
+"Thighs","大腿";
+"Calves","小牛";
+"Feet","脚";
+"Random","随机的";
+"Reset","重启";
+"Assign Name","分配名称";
+"Type Name","键入名称";
+"Create","创造";
+"Colors","颜色";
+"Head / Shoulders","头/肩膀";
+"Mid","中";
+"Legs / Feet","腿/脚";
+"Randomize","随机化";
+"Head/Shoulders","头/肩膀";
+"Helmet","头盔";
+"Shoulder pads","肩垫";
+"Body","身体";
+"Backpack","背包";
+"Gloves","手套";
+"Legs/Feet","腿/脚";
+"Legs","腿";
+"Knee pads","护膝";
+"Boots","靴子";
+"Assign Stat Points","分配统计点";
+"Speed","速度";
+"Health","健康";
+"Strength","力量";
+"Stamina","耐力";
+"Stat Points :","统计点：";
+"Assign Skill Points","分配技能点";
+"Clear","清除";
+"Confirm","确认";
+"Region","地区";
+"Server Name","服务器名称";
+"Rules","规则";
+"Days Left","剩下的日子";
+"Players In World","世界上的球员";
+"Players In Universe","宇宙中的球员";
+"US East","我们东方";
+"Canada","加拿大";
+"Asia","亚洲";
+"Europe","欧洲";
+"Australia","澳大利亚";
+"Japan","日本";
+"South America","南美洲";
+"Favorite","最喜欢的";
+"Join","加入";
+"Refresh","刷新";
+"Colony Defense Lobby","殖民地防御大厅";
+"<color=#00FFFF><size=24>U.N.E. Team Objective</size></color>
+
+<color=#FFFFFF>Defend your settlement until the timer runs out. At the end of the game, if All of your structures are still standing, You win!</color>
+
+<color=#B4B4B4>Hint: Win early by destroying all of the Outlander Inflatable Domes</color>
+
+
+<color=#00FFFF><size=24>Outlander Team Objective:</size></color>
+
+<color=#FFFFFF>Attack the U.N.E. settlement! If you destroy any of the original settlement structures, it's an automatic win!</color>
+
+<color=#B4B4B4>Hint: Use the Dart Gun to sedate large creatures and ride them into battle</color>","<color =＃00ffff> <size = 24> u.n.e。团队客观</ size> </ color>
+
+<color =＃ffffff>捍卫您的结算，直到计时器耗尽。在游戏结束时，如果您的所有结构仍然站立，您赢了！</ color>
+
+<color =＃b4b4b4>提示：通过销毁所有的外地装入圆顶</ color>
+
+
+<color =＃00ffff> <size = 24> Outlander团队目标：</ size> </ color>
+
+<color =＃ffffff>攻击u.n.e.沉降！如果您销毁任何原始结算结构，则它是一个自动获胜！</ color>
+
+<color =＃b4b4b4>提示：使用飞镖枪镇静大生物并将它们乘坐战斗</ color>";
+"Ready","准备好";
+"Leave","离开";
+"UNIVERSE","宇宙";
+"Creator","创造者";
+"RULES","规则";
+"Players in world","世界上的球员";
+"Players in universe","宇宙中的球员";
+"Players with Access","有访问的玩家";
+"No Private Universes to Join.
+Create a New Universe and Invite Your Friends To Join!","没有私人宇宙加入。
+创建一个新的宇宙，邀请您的朋友加入！";
+"View","看法";
+"Customize Universe","自定义宇宙";
+"Universe Name:","宇宙名称：";
+"Enter universe name...","输入Universe名称......";
+"Mode:","模式：";
+"Region:","地区：";
+"Difficulty:","困难：";
+"Normal","普通的";
+"The way the game was meant to be played. Battle the elements, search for resources, and monitor your suit readings to stay alive in the harsh climates of space.","游戏的意思是播放的方式。对元素进行战斗，搜索资源，并监控您的套装阅读，以便在恶劣的空间中保持活力。";
+"Easy
+","简单的
+";
+"A lighter Osiris: New Dawn experience. You will still need to survive, but the experience is more forgiving. Better for explorers who want less to worry about. ","一个更轻的奥西里斯：新的黎明经历。您仍然需要生存，但体验更加原谅。更好地为想要少担心的探险家。";
+"Extreme","极端";
+"Test your survival skill to its limit. Your success is not assured. ","将您的生存技能测试到其限制。您的成功并不保证。";
+"Creative
+","有创造力的
+";
+"Craft anything you'd like without the worry of creatures  or survival gameplay.","在没有生物或生存游戏的担忧的情况下，你想要的任何东西。";
+"Custom","风俗";
+"Make your Osiris experience perfect for you!","让您的Osiris体验完美！";
+"Delete","删除";
+"Invite
+Players","邀请
+玩家";
+"Update","更新";
+"Advanced Customization","先进的定制";
+"Player","播放器";
+"Proficiency","熟练程度";
+"Stat Points Per Level","每级统计点";
+"Thirst","口渴";
+"Hunger","饥饿";
+"Oxygen
+Consumption","氧
+消费";
+"Stamina
+Consumption","耐力
+消费";
+"Flashlight Power Drain (WIP)","手电筒功率漏极（WIP）";
+"Fall
+Damage","落下
+损害";
+"Crash 
+Items","碰撞
+项目";
+"Stamina Penalty Duration","耐力罚款持续时间";
+"No Stamina Speed","没有耐力的速度";
+"Hover Fuel
+Consumption","悬停燃料
+消费";
+"Hover 
+Duration","徘徊
+期间";
+"Vehicle Fuel
+Consumption","车辆燃料
+消费";
+"Tool/Weapon 
+Decay Rate","工具/武器
+衰减率";
+"Structure Decay Speed","结构衰减速度";
+"Inventory Weight","库存重量";
+"Item Stack Size","项目堆栈大小";
+"Encumberance Penalty","诱惑罚款";
+"Creative Mode
+(Infinite Resources and Unlocks)","创意模式
+（无限资源和解锁）";
+"Invulnerability","无懈可击";
+"First Person Hit Reaction","第一人称反应";
+"Pickup Animation","皮卡动画";
+"Auto-Pickup Bonus Resources","自动拾取奖金资源";
+"Planets","行星";
+"Resource Yield","资源收益率";
+"Mineral Respawn Rate","矿物重生率";
+"Alien
+Population","外星人
+人口";
+"Alien
+Damage","外星人
+损害";
+"Alien
+Health","外星人
+健康";
+"Alien
+Hearing","外星人
+听力";
+"Alien
+Sight","外星人
+视觉";
+"Alien Suit Breach Chance","外星人诉讼违规机会";
+"Plant Suit Breach Chance","植物诉讼违规机会";
+"Slope Slip Modifier","斜率滑动修饰符";
+"Slope Damage Chance","坡损伤机会";
+"Slope Breach Chance","斜坡漏洞机会";
+"Weather Cycle Rate","天气周期率";
+"Time Cycle Rate","时间周期率";
+"Storm Damage Chance","风暴伤害机会";
+"Storm Damage Amount","风暴损伤金额";
+"Storm Suit Breach Chance","风暴诉讼违规机会";
+"Storm Spawn Chance","风暴产卵机会";
+"Storm Length","风暴长度";
+"Respawn HP","重生HP.";
+"Permadeath (WIP)","PermAdeath（WIP）";
+"Drop Inventory On Death","辍学库存";
+"Require Pressurization to Eat","需要加压吃";
+"Allow Space Travel","允许空间旅行";
+"Invite Friends","邀请朋友";
+"You can invite up to 5 friends into your own private universe.","您可以邀请最多5位朋友进入自己的私人宇宙。";
+"Friends","朋友们";
+"+ Send Invite","+发送邀请";
+"Invited Players","邀请玩家";
+"Uninvite Player","不公开的球员";
+"What's New","什么是新的";
+"Space Station Crafting","空间站制作";
+"Fully crafting your own Space Station in low orbit. All station modules can interconnect in any combination, allowing for total flexibility in design and layout.
+
+Each module has its own purpose and features, including crafting, power systems, and storage.
+
+Space Stations are free from the erosion and dangers of the existing planetside in an atmosphere, creating an interesting strategic option to store valuable resources.
+","在低轨道中完全制作自己的空间站。所有电台模块都可以在任何组合中互连，允许在设计和布局方面的完全灵活性。
+
+每个模块都有自己的目的和功能，包括制作，电力系统和存储。
+
+空间站摆脱现有阵列的侵蚀和危险在大气层中，创造了一个有趣的战略选择来存储宝贵的资源。
+";
+"Next","下一个";
+"* Just a few of the many modules you can create in Space Station crafting.","*只有少数众多模块，您可以在空间站制作中创建。";
+"Nio Biomes","nio biomes.";
+"Proteus 2 takes advantage of the new technology we’ve been developing that adds various zones and areas into a world.
+
+We’ve doubled the amount of world textures, rendered millions of blades of grass, and populated countless new alien foliages - each yielding various resources.
+","Proteus 2利用新技术，我们一直在开发，将各种区域和地区添加到世界中。
+
+我们已经增加了世界纹理的数量增加了数百万的草叶，并且填充了无数的新外国人叶子 - 每个人都会产生各种资源​​。
+";
+"Previous","以前的";
+"* Crouching now allows safe traversal on steep terrains. When climbing steep slopes, a warning indicator will appear.","*蹲伏现在允许在陡峭的地形上安全遍历。爬上陡坡时，将出现警告指示。";
+"Discovery System
+","发现系统
+";
+"Everything you observe on your adventures can now be discovered. Far more than a simple achievement, the Discovery System actually unlocks all the various resources any found resource will yield.
+
+Essentially, each weapon or tool used on a resource may yield a different item, allowing for far more scientific exploration of the solar system and all of its life forms.
+","您现在可以发现您在冒险中观察的一切。远远超过一个简单的成就，发现系统实际上解锁了任何找到的资源都会产生的所有资源。
+
+基本上，资源上使用的每个武器或工具可以产生不同的项目，允许对太阳系和所有生命形式的远远探索。
+";
+"* Geysers now display the gas type, along with instructions on how to harvest the gas.","*间歇泉现在显示气体类型，以及如何收获气体的说明。";
+"GPS Resource Filtering","GPS资源过滤";
+"Minerals can now be filtered on your updated GPS. This very handy tool, which is now always available in your HUD and no longer attached to your Locator, reads from your surrounding satellites and your own internal suit radar to create detection radii.
+
+This system will show you all the surrounding minerals, their hardness and density, so you can find what you’re looking for in your crafting missions.
+","现在可以在更新的GPS上过滤矿物质。这款非常方便的工具，现在可以随时可用，不再连接到您的定位器，从周围的卫星读取和您自己的内部套装雷达以创建检测到半径。
+
+该系统将向您展示所有周围的矿物质，其硬度和密度，因此您可以在制作任务中找到您正在寻找的内容。
+";
+"* Satellite Dishes now display a radius for their scanning range.","*卫星菜肴现在显示了扫描范围的半径。";
+"New Skill Tree","新技能树";
+"Replacing the old skill tree, is, uh, the new skill tree! Instead of grindy gates, you now can unlock actual skills or “perks” that boost your abilities.
+
+","替换旧技能树，是，呃，新技能树！而不是Grindy Gates，您现在可以解锁实际技能或“津贴”，以提高您的能力。
+
+";
+"Got it. Let's Go!","知道了。我们走吧！";
+"* Looting now fully functions on all creatures.","*抢劫现在全部函数全部功能。";
+"Removal of Build Gates
+","拆除构建门
+";
+"The build gates are gone, which we felt was arbitrary and grindy. Instead are structure prerequisites which we feel make more sense and are more meaningful.","Build Gates已经消失了，我们感觉是任意和磨练的。而是我们觉得我们觉得更有意义的结构先决条件，更有意义。";
+"Login","登录";
+"Password","密码";
+"Remember me on this device","记住我这个设备";
+"Sign In","登入";
+"Go Offline","下线";
+"Sign Up","报名";
+"The user information you entered could not be found","找不到您输入的用户信息";
+"Confirm Password","确认密码";
+"Graphics Settings","图形设置";
+"Graphics Quality","图形质量";
+"Terrain Detail
+","地形细节
+";
+"Draw Distance","拉距离";
+"Shadows","阴影";
+"Scion Film Grain","苍米电影粮食";
+"Scion Mode","曲米模式";
+"Scion LUT","苍蝇lut.";
+"Beautify","美化";
+"Dirty Lense","肮脏的亮度";
+"Ambient Occlusion","环境光遮蔽";
+"Depth Of Field","景深";
+"Motion Blur","运动模糊";
+"Anti Aliasing","抗锯齿";
+"Volumetric Clouds","体积云";
+"Debug Text","调试文本";
+"Camera And Sound","相机和声音";
+"First Person Field of View","第一人称视野";
+"First Person Sprint Field of View","第一人称冲刺视野";
+"First Person Camera Bob","第一人称相机鲍勃";
+"Third Person Camera Bob","第三人称相机鲍勃";
+"Glitch FX","毛刺fx.";
+"Mouse Sensitivity Horizontal","水平鼠标敏感度";
+"Mouse Sensitivity Vertical","鼠标灵敏度垂直";
+"Mouse Smooth Step","鼠标流畅的步骤";
+"Mouse Smooth Weight","小鼠平滑的重量";
+"Invert Y","逆变y";
+"Master Volume","主音量";
+"Music Volume","音乐卷";
+"SFX Volume","SFX卷";
+"Voice Volume","语音卷";
+"Banter VO","Banter vo.";
+"Cancel","取消";
+"Preview","预习";
+"Save And Continue","保存并继续";
+"Key Bindings","关键绑定";
+"Open Key Bindings","打开关键绑定";
+"Done","完毕";
+"Restore Defaults","恢复默认值";
+"Players:","球员：";
+"Controller:","控制器：";
+"None","没有任何";
+"Remove","去掉";
+"Calibrate","校准";
+"Assign Controller","分配控制器";
+"Assigned Controllers:","分配的控制器：";
+"Settings:","设置：";
+"Categories:","类别：";
+"Fullscreen","全屏";
+"Custom Resolution","定制解析";
+"Resolution","解析度";
+"Width","宽度";
+"Enter text...","输入文本......";
+"Bloom","盛开";
+"Film Grain","电影谷物";
+"First Person Helmet","第一个人头盔";
+"North Facing Map","朝北地图";
+"Erase Experimental Save Data","擦除实验保存数据";
+"HINT: Unequip gun to run faster_","提示：未能运行速度速度速度_";
+"Incoming Data","传入数据";
+"Planet Data","行星数据";
+"Loading Persistent Nature","加载持久性质";
+"MULTIPLAYER","多人游戏";
+"PLANET","行星";
+"STRUCTURES","结构";
+"MACHINES","机器";
+"Osiris: New Dawn is still in Early Access. Please expect bugs. When you find something weird help us by reporting the issue on the Steam Forums. Thank you and let's make Osiris: New Dawn great together!","奥西里斯：新黎明仍在早期访问。请期待错误。当你发现一些奇怪的东西通过在Steam论坛上报告问题来帮助我们。谢谢你，让我们成为奥西里斯：新黎明在一起！";
+"Signing in","登录中";
+"Are you sure you want to quit the application?","您确定要退出申请吗？";
+"No","不";
+"Yes","是的";
+"Confirmation Code","验证码";
+"There was an issue connecting to the network.","有一个问题连接到网络。";
+"Quit","放弃";
+"Retry","重试";
+"HINT: Unequip gun to run faster","提示：未更顺上枪跑得更快";
+"Player Name","选手姓名";
+"Loading Avatar","装载头像";
+"Habitat","栖息地";
+"A Habitat is a multi-purpose room that can house many interior items.","栖息地是一个多功能的房间，可以容纳许多室内物品。";
+"Add to Backpack","加入背包";
+"Equip","装备";
+"Store in Inventory","存放库存";
+"Drink","喝";
+"Empty out","清空";
+"Drop","降低";
+"Customize Colors","自定义颜色";
+"Primary
+","基本的
+";
+"LAT","拉特";
+"LONG","长";
+"Missions","任务";
+"CRITICAL BREACH","关键违规行为";
+"Oxygen Low","氧气低";
+"Local Time","当地时间";
+"You Are Dehydrated
+You are Starving","你是脱水的
+你在挨饿";
+"Suit Pressue Low","适用于压力";
+"You Are FREEZING","你正在冻结";
+"Agility","敏捷";
+"Fortitude","坚韧";
+"HOV","h";
+"HLTH","Hlth.";
+"Weight:","重量：";
+"Inventory","存货";
+"Field Guide","现场指南";
+"Skills","技能";
+"Build / Craft [F3]","构建/工艺[F3]";
+"Data Selection
+Matrix","数据选择
+矩阵";
+"Env Pressure:","ENV压力：";
+"Env Temp:","ENV TEMP：";
+"Personal Data Unit","个人数据单位";
+"Osiris Mission Team","奥西里斯任务团队";
+"Systems Data Selection","系统数据选择";
+"Build 248.517.68200","建立248.517.68200.";
+"Exit Data Matrix [Tab]","退出数据矩阵[选项卡]";
+"Log","日志";
+"[F4] - Map Settings
+[M] - Center Toggle","[F4]  - 地图设置
+[M]  - 中心切换";
+"Zoom Out [-]
+Zoom In [+]","缩小 [-]
+放大[+]";
+"Map Name","地图名称";
+"Bot","机器人";
+"House","屋";
+"Focus Area","重点地区";
+"Health Area","卫生区";
+"Scanning","扫描";
+"Spawn Location","产卵位置";
+"Equip Map To Cycle Targets","装备映射到循环目标";
+"Aluminum","铝";
+"Iron","铁";
+"Nearest Dish
+Scanning...","最近的菜
+扫描...";
+"Hold [RMB] and Mouse Scroll to Zoom","保持[RMB]和鼠标滚动以缩放";
+"© 2017 Fenix Fire Entertainment","©2017 Fenix Fire Entertainment";
+"Com Link
+","COM链接
+";
+"Mission List","使命列表";
+"Warning System
+","警告系统
+";
+"o2 / Air Pressure
+Internal Temp","O2 /气压
+内部温度";
+"Hydration / Gestation
+Respiratory Vitals","水合/妊娠
+呼吸变化";
+"Saving Data","保存数据";
+"Location Type","位置类型";
+"-[ Tool Mode ]-"," -  [工具模式]  - ";
+"Set Target","设定目标";
+"Confirm Build","确认构建";
+"Cancel Build","取消构建";
+"Rotate Right","右旋";
+"Rotate Left","向左旋转";
+"Hold
+[Left Shift]","抓住
+[左移]";
+"Release
+[Left Shift]","释放
+[左移]";
+"Fine Rotation","细旋转";
+"SHIFT","转移";
+"Control Panel","控制面板";
+"[R] Return All Flank Droids","[R]返回所有侧翼机器人";
+"[1]","[1]";
+"Droid Nickname","机器人昵称";
+"Mining Azurnium","矿山矿业";
+"Back [Esc]","回来[esc]";
+"Stay","停留";
+"Osiris Mission Personal Assistant","Osiris使命个人助理";
+"Alien Blood","外星血";
+"Small Metal Dome","小金属圆顶";
+"Lightweight wall that is low cost and allows pressurization, but is low on armor and temperature regulation.","轻质墙体成本低，允许加压，但铠装和温度调节较低。";
+"[MIDDLE MOUSE WHEEL]","[中鼠标轮]";
+"Build Structure","构建结构";
+"Hint: Hold action button longer to build object with more health.","提示：按住Action按钮更长的时间以构建具有更多健康的对象。";
+"Hold","抓住";
+"COMPLETE","完全的";
+"DISCOVERED","发现";
+"Hold Right Click","右键单击";
+"Nickname","昵称";
+"Conduit Bender","导管Bender.";
+"Build Goal
+","建立目标
+";
+"Avatar Name","头像名称";
+"Action","行动";
+"*Colony naming not yet available","*污物命名尚未可用";
+"Party","派对";
+"Physical Stats","物理统计数据";
+"Stat Points:","统计点：";
+"Proficiencies","诡计不断";
+"Combat","战斗";
+"Engineering","工程";
+"Science","科学";
+"Suit Readings","套装读物";
+"Suit","套装";
+"
+
+Suit","
+
+套装";
+"Communications","通讯";
+"Contact Devs","联系Devs.";
+"Mobility","移动性";
+"Hover","徘徊";
+"Hover Fuel","悬停燃料";
+"Coming
+Soon
+","未来
+很快
+";
+"Suit System","西装系统";
+"Module 1","模块1";
+"Modules","模块";
+"Light","光";
+"Module","模块";
+"Attachment Slots","附件插槽";
+"Pants
+","裤子
+";
+"Knee Pads","护膝";
+"ShouldPads","潮湿";
+"External Inventory","外部库存";
+"Take All","拿";
+"Default Sort","默认排序";
+"Alpha Sort","阿尔法排序";
+"Forge","锻造";
+"Storage","贮存";
+"Upgrades","升级";
+"Crafting","制作";
+"Fuel","燃料";
+"Empty","空的";
+"FUEL EMPTY","燃料空";
+"Skeliopod Meat","Skeliopod肉类";
+"Steel","钢";
+"Patch Tape","补丁胶带";
+"Rubber","橡胶";
+"Build Recipe","打造食谱";
+"Grilled Alien Meat","烤外星肉";
+"Fuel Input","燃料输入";
+"Any Fuel Item","任何燃料项目";
+"Add Fuel","加油";
+"Repair Table","修复表";
+"Repair Object","修复对象";
+"Repair Amount","维修金额";
+"Repair COsts","维修费用";
+"Repair","修理";
+"Accessing Data","访问数据";
+"Sorting","排序";
+"Default","默认";
+"Alphabetical","按字母顺序排列";
+"Sort","种类";
+"Urchin Shell","核心壳";
+"Part of an urchin found on land. It's dangerous to eat raw, but can be used for crafting and cooking.","在土地上发现的核素的一部分。吃原来是危险的，但可用于制作和烹饪。";
+"Equipment Slots","设备插槽";
+"Inventory
+","存货
+";
+"[A] Skills","[A]技能";
+"Crafting [D]","制作[D]";
+"Exit To Matrix [TAB]","退出到矩阵[选项卡]";
+"Craft","工艺";
+"Utilities","公用事业";
+"Defenses","辩护";
+"Structures","结构";
+"Appliances","电器";
+"Underground","地下";
+"Spacecraft","宇宙飞船";
+"Space Utilities","空间公用事业";
+"Buildable Capacity","可建立的能力";
+"Create Goal","创造目标";
+"[A] Inventory","[a]库存";
+"GPS [D]","GPS [D]";
+"Compass","罗盘";
+"Basic Scanning","基本扫描";
+"Advanced Scanning","高级扫描";
+"Compass Target","指南针目标";
+"Target Tracking System","目标跟踪系统";
+"Cycle Target","循环目标";
+"Resources","资源";
+"Droids
+","Droids.
+";
+"Basic Scan Mineral","基本扫描矿物质";
+"Low Density Minerals","低密度矿物质";
+"Lithium","锂";
+"Magnesium","镁";
+"Sulfur","硫";
+"Quartz","石英";
+"Obsidian","黑曜石";
+"Lonsdaleite","lonsdaleite.";
+"Diamond","钻石";
+"Medium Density Minerals","中密度矿物质";
+"Titanium","钛";
+"Zirconium","锆";
+"Chromium","铬";
+"Zinc","锌";
+"Tin","锡";
+"High Density Minerals","高密度矿物质";
+"Cobalt","钴";
+"Nickel","镍";
+"Copper","铜";
+"Molybdenum","钼";
+"Silver","银";
+"Lead","带领";
+"Ultra Dense Minerals","超密集矿物质";
+"Mercury","汞";
+"Uranium","铀";
+"Tungsten","钨钨";
+"Gold","金子";
+"ZOOM","飞涨";
+"Resource  Scanning","资源扫描";
+"Fabricated","制作";
+"Low Density","低密度";
+"Medium Density","中密度";
+"High Density","高密度";
+"Ultra Dense","超密";
+"Droid Management","机器人管理";
+"All
+","全部
+";
+"O.M.P.A.","o.m.p.a.";
+"O.M.M.A.","o..m.a.";
+"O.M.S.U
+","o.m.s.u.
+";
+"Droid Type","机器人类型";
+"Patrol","巡逻";
+"Follow","跟随";
+"Send to Position","发送到位";
+"Choose a Position","选择一个位置";
+"Resume","恢复";
+"GPS","全球定位系统";
+"[A] CRAFTING","[a]制作";
+"MISSIONS [D]","任务[D]";
+"Logs","日志";
+"Voice Logs","语音日志";
+"Scribe","隶";
+"Operational Mission List","运营使命列表";
+"Mission","使命";
+"Completion","完成";
+"Completed Missions","完成任务";
+"Audio Log Files","音频日志文件";
+"Current File Name","当前文件名称";
+"Voice Recording","录音";
+"Recorded By:
+Record Time:
+Record Date:","记录：
+记录时间：
+记录日期：";
+"Recording List","录制列表";
+"CPU","中央处理器";
+"Found Voice Logs","找到了语音日志";
+"Blueprint","蓝图";
+"Scribe Server Log","抄写服务器日志";
+"TIMESTAMP","时间戳";
+"Message","信息";
+"Personal","个人的";
+"Colony","殖民地";
+"[A] GPS","[A] GPS";
+"DISCOVERIES [D]","发现[D]";
+"Plants","植物";
+"Creatures","生物";
+"Minerals","矿物质";
+"Locations","地点";
+"1. Environment","1.环境";
+"2. Osiris EVA Suit","2. Osiris Eva Suit";
+"3. Nutrition","3.营养";
+"4. Illness and Injuries","4.疾病和伤害";
+"5. Navigation","5.导航";
+"6. Equipment","6.设备";
+"7. Communications","7.通信";
+"8. Fortifications","8.防御工事";
+"9. Vehicle Piloting","9.车辆试点";
+"10. O.M.P.A. Manual","10. o.m.p.a.手动的";
+"Overview","概述";
+"Effects On Personnel","对人员的影响";
+"Effects on Equipment","对设备的影响";
+"Terrain","地形";
+"Atmosphere","气氛";
+"1-1. Physical environment plays a crucial role in survival. Temperature, weather systems, terrain and indigenous life forms all have a direct influence on health and sustainability. Being aware of these elements and the effect that they have is of utmost importance.
+
+1-2. Preventive measures, early recognition, and rapid treatment help minimize the likelihood of decreased functionality and possible death. In short, awareness is key.
+","1-1。物理环境在生存中起着至关重要的作用。温度，天气系统，地形和土着生活形式都对健康和可持续性有直接影响。意识到这些要素和它们具有最重要的效果。
+
+1-2。预防措施，早期识别和快速治疗有助于最大限度地减少功能下降的可能性和可能的​​死亡。简而言之，意识是关键。
+";
+"1-3. Gliese 581 is complex and unforgiving of errors. Even in ideal conditions, instances of suit damage, dehydration and indigenous creature attacks may occur. Each instance will require immediate attention and response in order to avoid unfavorable and potentially fatal outcomes. It is wise not to ignore these, as they can become increasingly hazardous to overall health, suit integrity and survival.
+","1-3。 Gliese 581是复杂的错误和未能的错误。即使在理想的条件下，可能会出现适应性损坏，脱水和土着生物攻击的情况。每个实例都需要立即关注和响应，以避免不利和潜在的致命结果。聪明的是不忽视这些，因为它们可以对整体健康，适合诚信和生存越来越危险。
+";
+"1-4. Equipment has a deterioration factor that varies according to its type and purpose. Time decay and usage plays a part in deterioration, as well as terrain elements. As skill points are acquired, equipment can become more substantial, increasing the life expectancy of each item. However, none of the equipment has an infinite life span. Maintaining proper repair and upkeep of equipment will aid in progress and likelihood of survival.
+","1-4。设备具有根据其类型和目的而变化的劣化因素。时间衰退和用法在恶化的部分和地形元素中起作用。由于获得技能点，设备可能变得更加实质性，增加每个项目的预期寿命。然而，没有任何设备都有无限的寿命。保持适当的修复和维护设备将有助于进取生存的可能性和可能性。
+";
+"1-5. Terrain on extra solar planets can be tretcherous and must be traversed with care. Any misstep can lead to damaging your EVA suit and lead to a suit breach, which can be catastrophic. It's imparitive to explore with extreme caution.
+
+1-6. Slope. When attempting to climb a slope be sure to look at your slope warning indicator. For slopes that are greater than 30 degrees, either at an incline or decline, poses a hazard for your traversal. Attempting to jump or run on this uneven terrain is not advised.
+
+Crouching can be used to traverse extreme slopes if needed.","1-5。额外的太阳能行星的地形可以有奇妙的，必须小心翼翼地遍历。任何误操作都可能导致损坏您的EVA套装并导致适合突发，这可能是灾难性的。极端谨慎探索它是不可原谅的。
+
+1-6。坡。在尝试爬坡时，请务必查看斜坡警告指示。对于大于30度的斜坡，无论是倾斜还是下降，都会为您的遍历构成危险。不建议试图跳跃或运行这种不均匀的地形。
+
+如果需要，蹲伏可以用来横穿极限斜坡。";
+"1-7. Each planet and moon has a unique atmopsheric makeup and will tramatically alter your exploration capabilities.
+
+1-8. Atmopsheric Temperature. The temperature of a world's air and surface is a direct result of its atmopheric density and proximity to its star. Thicker atmopsheres will contain more greenhouse gas effects and create a more stable temperature range (although that temperature may still be extremely cold or hot). Thinner atmopsheres will show a higher range in temperature if the world is not tidally locked to the star, or if so, will ldepend on your geographic location on the world.
+
+1-9. Weather Patterns. There is no telling what you may discover in terms of weather. Your EVA suit was designed to handle known weather situations, but may be suseptible to damage in an extreme situation.
+
+If caught in a Dust Storm, be sure to pay attention to the direction the storm is coming from. Seek shelter however you can to avoid debris from the storm. Crouching can limit the chances of imact by up to 60%.","1-7。每个星球和月亮都有一个独特的恒定化妆，并会纠正探索能力。
+
+1-8。大气温度。世界空气和表面的温度是其大部分密度和偏远的直接导致其明星。较厚的恒温器将含有更多的温室气体效果，并产生更稳定的温度范围（尽管温度仍然可能极冷或热）。如果世界没有被整理锁定在星球上，或者如果是的话，较薄的Empopsheres将在温度下显示更高的温度范围，或者如果是的话，将在世界上的地理位置。
+
+1-9。天气模式。没有讲述你在天气方面可能发现的东西。您的EVA套装旨在处理已知的天气情况，但可能在极端情况下造成损坏。
+
+如果陷入尘暴中，请务必注意风暴来自的方向。尽管如此，您可以避免风暴中的碎屑。蹲伏可以将占地因素限制在60％上。";
+"1. Physical Environment","1.身体环境";
+"Suit Repair","套装维修";
+"Suit Maintenance","适合维护";
+"2-1. The EVA Suit designed for the Osiris Mission is equipped with state-of-the-art sensors. These sensors in turn, provided detailed and up-to-the minute status reports on the viability and integrity of the EVA suit. Monitoring these readings in the HUD are integral to survivability. The sensors monitor: oxygen levels, temperature, hydration/nutrition levels, and health and suit health. 
+
+2-2. Oxygen Levels: Monitoring oxygen consumption is integral. Without oxygen, there is no breathing. Be mindful that running and other taxing activity consume more oxygen. Oxygen will replenish based on traces of O2 in the atmosphere.
+
+2-3. Temperature: Maintaining a viable suit temperature is of the utmost importance. Some climes within the Gliese 581 system will harbor environments that are blistering cold, piercingly hot, and variables in between. If the suit becomes too cold, look for ways to increase the temperature, as hypothermia may ensue. If the suit becomes too hot, look for ways to decrease the temperature, as it may result in death.
+
+2-4. Hydration/Nutrition: Hydration is the outer ring while Nutrition is the inner ring.  Hunger and thirst, if not remedied, can cause a decline in health and performance. Your actions such as running and jumping will impact your thirst and hunger.
+
+2-6. Health/Suit Integrity: Health is the outer ring while Suit Integrity is the inner ring. In instances or severe injuries or suit breaches, Oxygen levels will drop. To fix suit breaches or severe injuries, equip and use bandages, either found or crafted. ","2-1。为Osiris Mission设计的EVA套装配备了最先进的传感器。这些传感器又提供了关于EVA套装的可行性和完整性的详细和最新状态报告。监测HUD中的这些读数是不可或缺的能力。传感器监测：氧气水平，温度，水合/营养水平和健康，适合健康。
+
+2-2。氧气水平：监测氧气消耗是积分的。没有氧气，没有呼吸。注意跑步和其他税收活动消耗更多氧气。氧气将基于大气中O2的痕迹补充。
+
+2-3。温度：保持可行的适合温度至关重要。辉丝581系统内的一些渠道将涉及介于寒冷，刺眼的热点和变量之间的环境。如果套装变得太冷，请寻找增加温度的方法，因为可能会随之而来。如果套装变得太热，请寻找减少温度的方法，因为它可能导致死亡。
+
+2-4。水合/营养：水合是外圈，而营养是内圈。饥饿和渴望，如果没有纠正，会导致健康和表现下降。您的行为，如跑步和跳跃将影响您的口渴和饥饿。
+
+2-6。健康/西装诚信：健康是外圈，同时适合完整性是内圈。在实例或严重的伤害或诉讼中，氧气水平将下降。要么发现或制作制作，要修复诉讼或严重伤害，装备和使用绷带。";
+"2-7. If the EVA suit becomes damaged or breached during exploration of the Gliese 581 system, make sure to equip and use patch tape to address the breach. Then equip and use bandages to re-stabilize suit integrity. Failure to do so may result in suffocation or possibly death.
+","2-7。如果EVA套装在勘探型581系统勘探期间损坏或破坏，请务必装备和使用贴片磁带来解决违规行为。然后装备并使用绷带重新稳定西装完整性。不这样做可能会导致窒息或可能是死亡。
+";
+"*Use patch tape to repair your EVA suit.","*使用贴片胶带修复您的EVA套装。";
+"2-8. To ensure optimal EVA performance is achieved, suit maintenance is required when necessary. Patch tape and bandages are required deal with suit breaches. Failure to maintain the suit may result in suffocation or possibly death.
+
+Be sure to mind the environment. Beware of sharp objects as these can pierce your suit and cause a suit breach. Take caution in climbing steep slopes, crouching carefully where possible.","2-8。为确保实现最佳EVA性能，必要时需要维护。贴片磁带和绷带是必需的，适合违规行为。未能维持诉讼可能会导致窒息或可能是死亡。
+
+一定要介意环境。小心尖锐的物体，因为这些物体可以刺穿你的西装并导致衣服违规。小心爬上陡坡，仔细蹲下。";
+"*Use patch tape and bandages for EVA suit repair and maintenance.","*使用贴片胶带和绷带进行EVA套装维修和维护。";
+"*Keep your eye on o2 readings. Be sure to allow your o2 scrubber to replenish while in atmospheres with gases that contain oxygen. NOTE - o2 does not replenish while in space or in very thin atmospheres.","*请注意O2读数。务必允许您的O2洗涤器在大气中补充，其中气体含有氧气。注 -  O2在空间或非常薄的环境中不补充。";
+"*Zero oxygen will cause suffocation. It is advisable to cease moving until your o2 scrubber can begin to replenish o2 in your EVA suit.","*零氧管会导致窒息。建议停止移动，直到您的O2洗涤器可以在EVA套装中重新补充O2。";
+"2. Osiris Mission EVA Suit","奥西里斯任务伊娃套装";
+"Physical Conditioning","身体调理";
+"Hydration","水合作用";
+"Food Preparation","准备食材";
+"3-1. Quality of life is largely dependent on nutrition, hydration and general health. Over time, physical condition can deteriorate, affecting speed and survival. Hunger and thirst, if not remedied, can cause a decline in health and performance. Climate conditions such as heat and cold also have an effect. It is imperative to monitor these using the suit readings provided.
+
+3-2. When physical condition decreases and health is impaired, healing is possible using certain types of food and bandages. Healing is crucial in order to sustain life.
+","3-1。生活质量在很大程度上取决于营养，水合和一般健康。随着时间的推移，身体状况会恶化，影响速度和生存。饥饿和渴望，如果没有纠正，会导致健康和表现下降。热和冷等气候条件也有效果。必须使用提供的套装读数来监测这些。
+
+3-2。当物理条件降低和健康受损时，使用某些类型的食物和绷带可以进行愈合。为了维持生命，愈合至关重要。
+";
+"3-3. Loss of body water, or dehydration, plays a major role in health and survival. Depending upon level of exertion, hydration needs will fluctuate. Be sure to check hydration levels and consume water whenever the suit reading (located in the lower left-hand corner) indicates the need to do so.
+","3-3。丧失身体水，或脱水，在健康和生存中发挥着重要作用。根据劳累水平，水合需要将波动。请务必检查水合水平并在套装读取（位于左下角）表示需要这样做。
+";
+"3-4. Poor nutrition contributes to deterioration in quality of life and chance of survival. Caloric intake is necessary, as well as attention to the types and sources of calories. Almost anything is edible, but not every type of food will heal. Some sources of nutrition will only satisfy the need for calories. Remember to monitor hunger in the suit readings (located in the lower left-hand corner) and replenish calories as needed.
+","3-4。营养不佳有助于生活质量和生存机会的恶化。热量摄入是必要的，并注意热量的类型和来源。几乎任何东西都是可食用的，但不是每种类型的食物都会愈合。一些营养来源只会满足卡路里的需求。请记住监测西装读数（位于左下角）的饥饿，并根据需要补充卡路里。
+";
+"Hypothermia","低温";
+"Dehydration","脱水";
+"Minor Injuries","轻伤";
+"Severe Injuries","严重伤害";
+"4-1. Cold injuries, both freezing and non-freezing, are a serious threat. Hypothermia is a potentially dangerous drop in body temperature, usually caused by prolonged exposure to cold temperatures. Keeping aware of the outside temperature and suit temperature is vital.  Cold weather injury prevention and timely shelter construction are also critical and may help avoid debilitating injuries. When temperatures drop, be sure to employ methods of creating internal warmth.","4-1。冷伤，冻结和非冻结，是严重的威胁。体温过低是体温潜在危险的下降，通常由长时间暴露于寒冷的温度引起。保持意识到外部温度并适合温度至关重要。防寒天气损伤预防和及时遮蔽建设也至关重要，可能有助于避免衰弱的伤害。当温度下降时，一定要采用创造内部温暖的方法。";
+"4-2. Dehydration happens when your body doesn't have as much water as it needs. Without enough, your body can't function properly. You can have mild, moderate, or severe dehydration depending on how much fluid is missing from your body. Avoid becoming dehydrated by checking the suit reading on hydration level (located in the lower left-hand corner.) Replenish and consume fluids on a regular basis. When temperatures rise due to weather conditions, decreasing internal suit temperature may become necessary to avoid dehydration and even fatality.
+
+Food can be a source of hydration if a Chem Station to create water is not available.","4-2。当你的身体在需要时，脱水会发生这种情况。没有足够的，你的身体无法正常运作。根据您身体缺少多少流体，您可以具有轻度，中等或严重的脱水。避免通过检查水合水平（位于左下角的套装）来脱水。）定期补充和消耗液体。当温度上升由于天气条件，可能需要降低内部适合温度以避免脱水甚至死亡。
+
+如果不可用Chem站，食物可以是水合的源泉。";
+"4-3. It is very likely that minor injuries will occur when in combat against indigenous creatures, during missions, or even performing regular tasks. Suit breaches are the most common type of minor injury. If a suit breach occurs, use patch type to repair as soon as is possible.
+","4-3。在任务期间，在任务期间或甚至进行定期任务时，在对抗土着生物时会发生轻微伤害很可能。诉讼违规是最常见的轻微伤害类型。如果发生适合突发，请使用补丁类型尽快修复。
+";
+"*Bandages can heal minor wounds.","*绷带可以治愈轻微伤口。";
+"*If on a planet with foliage species, attempt to create crude bandages when out of manuafactured bandage reserves.","*如果在带有叶子物种的行星上，试图在制造绷带储备外时创建原油绷带。";
+"4-4. In the event a severe injury occurs, immediately find or craft bandages and use them to heal. If this is not done in an expedient manner, health will rapidly deteriorate and death may follow shortly thereafter.
+","4-4。如果发生严重伤害，立即找到或工艺绷带并使用它们愈合。如果这不是在权宜之计的方式进行的，则健康将迅速恶化，此后可能会迅速地延续。
+";
+"*Where possible, create large amounts of crude bandages while reserving Medkits for only dire situations.","*在可能的情况下，在储存Medickit的情况下，才能营造大量的原油绷带。";
+"*Medkits can save your life when experiencing severe wounds.","* Medkits在体验严重的伤口时可以挽救你的生活。";
+"Navigation","导航";
+"5-1. Navigating through the Gliese 581 System can be both enthralling and frightening. But basic navigation shouldn’t be confusing.
+
+5-2. The Locator provided for the Osiris Mission is an extremely helpful navigational tool. Equipping the locator will reveal the terrain’s topography, names of discovered areas, locations of resources (as indicated by icons), as well as longitude and latitude. Metallic objects will appear on your Locator, as well as your structures.
+
+5-3. Longitude: Longitude is the designated coordinate that identifies the east-west position of a point on the planets terrain. 
+
+5-4. Latitude: Latitude is the designated coordinate that identifies the north-south position of a point on the planets terrain.
+
+5-5. Compass: Your compass is shown in the Top Middle of your display and indicates your direction along with any primary structures you own.
+","5-1。通过Gliese 581系统导航可能是令人着迷和可怕的。但基本导航不应该混淆。
+
+5-2。为Osiris Mission提供的定位器是一个非常有用的导航工具。装备定位器将揭示地形的地形，发现区域的名称，资源位置（如图标所示），以及经度和纬度。金属物体将出现在您的定位器上，以及您的结构。
+
+5-3。经度：经度是指定坐标，其识别行星地形上的点的东西位置。
+
+5-4。纬度：纬度是标识行星地形上的点南北位置的指定坐标。
+
+5-5。指南针：您的罗盘显示在显示屏的顶部中间，并指示您的方向以及您拥有的任何主要结构。
+";
+"*Locator will give you positional coordinates on your current planet and can help find natural resources.","*定位器将为您的目前的星球提供位置坐标，并可以帮助找到自然资源。";
+"DATA NOT AVAILABLE
+","数据不可用
+";
+"Tools","工具";
+"Artillery","炮兵";
+"Combat Tactics","战斗策略";
+"6-1. When exploring and crafting, different tools will be useful in accomplishing various tasks. Tools do not have infinite usage and will wear down over time. It is imperative to repair tools when necessary and/or craft new ones as needed. The rate of decay varies from tool to tool. Some tools will require recipes and specific resources, obtainable only by mining or harvesting them, in order to be crafted. Most tools are only useful for mining, though there are a couple that may be used in combat. These are referred to as hybrid tools.
+
+6-2. Keep in mind that not all tools are able to be obtained right from the start. Some tools will only become available as progress is made and skill points are acquired.","6-1。在探索和制作时，不同的工具将在实现各种任务方面很有用。工具没有无限的用法，随着时间的推移会磨损。必要时修理工具和/或根据需要制作新的。衰减速度因工具而异。一些工具需要食谱和特定资源，只能通过采矿或收获它们来获得，以便制作。大多数工具仅适用于挖掘，尽管有一对可能用于战斗的夫妇。这些被称为混合工具。
+
+6-2。请记住，并非所有工具都能够从一开始就获得。某些工具只会在取得的进展中获得可用，并且获得技能点。";
+"*Chisel can be used to break down minerals.","*凿子可用于分解矿物质。";
+"*Shovel can gather loose materials like sand.","*铲子可以像沙子一样收集宽松的材料。";
+"6-3. Artillery can be used to protect against indigenous creatures and human threats.  There are several different types of weapons available for use, not all of them available immediately. Which weapons are initially given depends on chosen class: Marine, Scientist, Ranger, or Engineer. There are two main categories of artillery, Melee and Ranged. Each weapon sustains and gives different levels of damage, depending on ammo and weapon type.","6-3。炮兵可用于防止土着生物和人类威胁。有几种不同类型的武器可供使用，并非所有类型的武器立即可用。最初给予哪些武器取决于所选择的类：海洋，科学家，游侠或工程师。有两大类炮兵，近战和远程。根据弹药和武器类型，每个武器都能维持和给予不同的损坏程度。";
+"*For ranged weapons be mindful of ammunition reserves.","*对于远程武器，请注意弹药储备。";
+"*Melee weapons take a lot of punishment and frequently need to be repaired.","*近战武器采取了很大的惩罚，经常需要修复。";
+"6-4. Strategy is a key component to surviving Gliese 581 and all that it encompasses. Remaining vigilant at all times and keeping an eye on the horizon is of dire importance. Threats to safety come not only in the form of environmental events, but also indigenous creatures and even other humans. Be prepared. Keep weapons at the ready and fully stocked with ammunition. In some cases, the best tactic is actually fleeing as quickly as possible. Tactics will change on a case by case basis and require critical thinking as well as quick reflexes.","6-4。策略是幸存的辉煌581和它所包含的关键组成部分。始终保持警惕，并留在地平线上的重要性。对安全的威胁不仅以环境事件的形式而言，而且是土着生物甚至其他人类。准备好。保持武器准备好并充分利用弹药。在某些情况下，最好的策略实际上可以尽快逃离。策略将根据具体情况进行改变，需要批判性思维以及快速反射。";
+"Comms Feed","Comms Feed.";
+"Locating Personnel","找到人员";
+"Colony Development","殖民地发展";
+"7-1. Proper and meaningful communication is extremely valuable and an important tool when exploring the Gliese 581 System. That’s where the Communication Feed is a helpful tool. To access the Communication Feed, press ENTER and then one of the chat commands as needed. 
+
+Chat Commands are as follows:
+[TAB] Cycle Available Channels
+[/g] Global Channel
+[/l] Local Channel
+[/c] Colony Channel
+[/p] Party Channel
+[/w] Whisper Channel
+[/r] Reply to previous Whisper
+[/ix] Ignore Channel x
+[/ux] Unignore Channel x
+[/ping] Toggle Audio Ping
+[/ompa help] O.M.P.A. Commands
+","7-1。适当和有意义的沟通是非常有价值的，并且在探索Gliese 581系统时是一个重要的工具。这就是通信源是有用的工具的地方。要访问通信源，请按Enter键按Enter键，然后按照需要进行其中一个聊天命令。
+
+聊天命令如下：
+[标签]循环可用频道
+[/ g]全球频道
+[/ l]地方渠道
+[/ c]殖民地渠道
+[/ p]党频道
+[/ w]耳语渠道
+[/ r]回复以前的耳语
+[/ ix]忽略通道x
+[/ ux] Unignore Channel X
+[/ ping]切换音频ping
+[/ OMA帮助] O.M.P.A.命令
+";
+"DATA NOT AVAILABLE 
+","数据不可用
+";
+"7-2. Locating other personnel within the Gliese 581 System can greatly increase the chance of survival. That’s why it’s key to constantly be on the look out for others roaming the foreign terrain. 
+
+7-3. One way to locate Personnel is through the Communication Feed located in the upper left-hand corner of your HUD. To access this helpful tool, press ENTER and then locate the appropriate channel you wish to chat in. Once communication with other personnel has been achieved, share the current coordinates and wait until they arrive at the location. 
+
+7-4. Another way to locate personnel is through the use of the Flare Gun. For those times when communication is down or not working, simply equip the flare gun, point it towards the sky, and fire. This will alert any other personnel within the vicinity. 
+","7-2。在辉光581系统中定位其他人员可以大大增加生存的机会。这就是为什么它是不断关注的是，因为漫游的别人漫游国外地形。
+
+7-3。找到人员的一种方法是通过位于HUD的左上角的通信饲料。要访问此有用的工具，请按Enter，然后找到您希望聊天的相应频道。一旦与其他人员进行了通信，共享当前坐标并等待他们到达位置。
+
+7-4。找到人员的另一种方法是通过使用喇叭口枪。对于那些时候沟通已经下降或不工作时，只需装备喇叭口枪，将它指向天空，火。这将提醒附近的任何其他人员。
+";
+"*Flares can be used to locate personnel.","*耀斑可用于定位人员。";
+"7-5. U.N.E. operatives may find themselves coming into contact with other personnel. In these situations, these personnel can group up by either setting up a party or colony. 
+
+7-6. Setting Up A Party: For the personnel creating a party, they need to walk up to the other operative, look at them, and then press [F] to invite. The personnel joining the party must then look and the inviter and then click [ACCEPT] in the menu.
+","7-5。 U.N.E.操作员可能会发现自己与其他人员联系。在这些情况下，这些人员可以通过建立派对或殖民地进行分组。
+
+7-6。设置派对：对于创建派对的人员，他们需要走到另一个手术，看看它们，然后按[F]邀请。然后，加入一方的人员必须查看和Inver，然后单击菜单中的[接受]。
+";
+"7-5. U.N.E. operatives may find themselves coming into contact with other personnel. In these situations, these personnel can group up by either setting up a party or colony. 
+
+7-6. Setting Up A Party: For the personnel creating a party, they need to walk up to the other operative, look at them, and then press [F] to invite. The personnel joining the party must then look and the inviter and then click [ACCEPT] in the menu.
+
+7-7. Setting Up A Colony: A colony is a territory at a specific location on a planet or moon, claimed and controlled by at least one personnel. Personnel can automatically claim a territory when placing a structure on unclaimed ground. This colony can be joined by other personnel when it has been officially created. Creating a colony can be done by following the steps below:
+
+Click on ‘Create Colony.’
+Add other personnel by using the multi tool. Please note that personnel have to belong to the same faction in order to join a colony.
+
+Adding other personnel to an existing colony automatically gives them access to anything that is built or crafted after they joined. In order to give them access to previously built/crafted objects, the creator of the colony needs to give access manually using the multi-tool on each object (make public to colony).","7-5。 U.N.E.操作员可能会发现自己与其他人员联系。在这些情况下，这些人员可以通过建立派对或殖民地进行分组。
+
+7-6。设置派对：对于创建派对的人员，他们需要走到另一个手术，看看它们，然后按[F]邀请。然后，加入一方的人员必须查看和Inver，然后单击菜单中的[接受]。
+
+7-7。建立殖民地：殖民地是一个地球或月球上的特定位置的领土，声称和控制至少一个人员。人员可以在将结构放在无人认领的地面上时自动索赔一个领域。当它被正式创建时，这种殖民地可以通过其他人员加入。可以通过以下步骤完成殖民地：
+
+点击“创建殖民地”。
+使用多工具添加其他人员。请注意，人员必须属于同一派系，以加入殖民地。
+
+将其他人员添加到现有的殖民地中自动让他们访问他们加入后的内置或制作的任何内容。为了让他们访问先前构建/制作的对象，群体的创建者需要使用每个对象的多工具手动访问（公开到殖民地）。“";"
+#VALUE!
+"Access to utilities","访问公用事业";
+",MISSING_TRANSLATION;","，遗漏_转移;“";
+"7. Commuinications","7.讨论所";
+"Basic Shelter","基本避难所";
+"Habitat System","栖息地系统";
+"Maintenance","维护";
+"8-1. Creating some form of shelter is in the best interest of survival.
+
+8-2. Upon exiting the pod, an Inflatable Dome will be provided, however, this type of shelter has a short time decay and only offers temporary sanctuary from the harsh environment. Creating a much sturdier shelter should be at the top of the priority list. ","8-1。创造某种形式的避难所是生存的最佳利益。
+
+8-2。在离开豆荚时，将提供一种充气圆顶，然而，这种类型的庇护所具有短暂的时间衰减，并且仅提供来自恶劣环境的临时避难所。创建一个非常强大的避难所应该是优先级列表的顶部。";
+"*When Inflatable Dome is not available, create shelter from found materials.","*当无法充气圆顶不可用时，从发现的材料创建避难所。";
+"8-3. Habitats are based on a modular system of building. Once a habitat is created, adding an airlock will allow for pressurization of the structure. Custom walls make habitats more expansive and personalized. Interconnecting habitats is possible with the incorporation of hallways. Building multilevel structures is also possible, but will require the addition of an elevator.
+","8-3。栖息地基于模块化建筑系统。创建栖息地后，添加气闸将允许对结构的加压。定制墙使栖息地更广泛和个性化。随着走廊的合并，可以进行互连栖息地。建筑多级结构也是可能的，但需要添加电梯。
+";
+"*Modular HAB system building is the foundation of all Osiris Mission Colony settlements.","*模块化HAB系统建筑是所有奥西里斯使命殖民地定居点的基础。";
+"*Airlock is needed for pressurized HABs.","加压疾病需要*需要气闸。";
+"*Hallways join HABs and other structures.","*走廊加入HAB和其他结构。";
+"*Add mutliple levels by stacking HABs with the Upper Story attachment.","*通过堆放骨骼堆积的鞋底添加Mutliple水平。";
+"*Barracks can contain special furniture equipment.","* Barracks可以包含特殊的家具设备。";
+"8-4. Utilities are functional elements that generate air, electricity, and other essentials. Some of these items include: Storage units, Fabricator, Forges, Crafting Tables. In order to craft or build certain utilities, materials must be obtained and required skills must be unlocked. Certain items can also be found in the game by exploring, like batteries, wires, heavy machine gun.Items such as regular bandages and Medkits are able to be crafted using a 3D Printer or Fabricator.
+
+8-5. The ability to craft water in an empty glass jar is possible upon the accumulation of Oxygen & Hydrogen. A Water Reclaimer unit built inside a Habitat will also allow for quenching thirst every few minutes.","8-4。公用事业是产生空气，电力和其他必需品的功能元素。其中一些项目包括：存储单元，制造商，伪造，制作表。为了制作或建立某些实用程序，必须获得材料，必须解锁所需技能。某些物品也可以通过探索电池，电线，重型机枪。诸如常规绷带和Medkits等诸如常规绷带或Medkits的游戏中的某些物品能够使用3D打印机或制造商进行制作。
+
+8-5。在氧气和氢气的积累后，可以在空玻璃罐中加工水的能力。内部栖息地内置的水收送货机单元也将允许每隔几分钟慢慢淬火。“";
+",MISSING_TRANSLATION;","，遗漏_转移;“";
+"*Storage containers are essential to keeping large amounts of materials safe.","*存储容器对于保持大量材料安全是必不可少的。";
+"*Crafting Utilities such as the 3D Printer can create small useful items.","*制作3D打印机等实用程序可以创建小的有用项目。";
+"*Smelting equipment is necessary for melting down minerals for structure building and item crafting.","*熔炼设备对于熔化结构建筑和物品制作的矿物来说是必要的。";
+"8-6. Structures are the constituent elements of the colony. Built on essentially a grid, the different components can be snapped together to create large colony complexes for growing food, research, and mutual survival. The current maximum for structures on a single planet is 200, or 20 per player. Aside from Habitats and Huts, there are a many other structures that can be built such as a Biodome, Laboratory, Furniture, Custom Wall Pieces and Utilities.
+","8-6。结构是殖民地的组成元素。基本上建立了一个网格，可以将不同的组件粘贴在一起，为生长食品，研究和相互生存来创造大型殖民地复合物。单个行星上的结构的最大值为200，或每个玩家20。除了栖息地和小屋之外，还有许多其他结构可以建造，如生物组，实验室，家具，定制墙壁和公用事业。
+";
+"*Biodome are perfect for cultivating food reserves.","*生物组织非常适合培养食物储备。";
+"*Specialty furniture equipment in the HAB can be extremely useful.","* HAB中的特色家具设备非常有用。";
+"*Solar panels must be used to power structures and utilities.","*太阳能电池板必须用于电源结构和实用程序。";
+"*Create unique structures with custom prefabs.","*创建具有自定义预制的唯一结构。";
+"*Laboratory is a factory system that can build vehicles and robots.","*实验室是一个工厂系统，可以建造车辆和机器人。";
+"8-7. To keep structures, vehicles and other important elements in proper working order, performing regular maintenance is necessary. Maintenance can be performed with the Multi-Tool. This is an indestructible tool used for repairing damaged structures, walls vehicles and droids.
+","8-7。为了保持结构，车辆和其他重要元素，需要进行定期维护。可以使用多工具执行维护。这是一种用于修复损坏的结构，墙壁车辆和机器人的可凹部工具。
+";
+"*OMPA can be programmed to auto repair your colony structures.","* OMP可以编程为自动修复您的殖民地结构。";
+"*Repair your structures and equipment with the Multi-Tool.","*使用多工具修复您的结构和设备。";
+"Driver Training","司机培训";
+"Planning for Space","规划空间";
+"Space Travel","太空旅行";
+"Space Walking","太空走路";
+"9-1. Vehicles allow for rapid transportation across large distances, moving resources and more. There are two different types of vehicles<semicolon> hovering and wheeled. The durability, speed and maneuverability varies depending on the type of vehicle. They can be built using the Laboratory. Each type of vehicle will require different resources in order to craft.
+
+9-2. Default Vehicle Controls:
+Enter the vehicle - F key.
+Directional Maneuvers - WASD keys.
+Exit the vehicle -  F key.
+
+9-3. Please Note:
+- In certain vehicles, hold the shift key will activate a boost that uses a large amount of fuel to gain additional speed.
+
+- When in third person view, it is possible to look left or right while driving.
+
+- The Ground Assault Vehicle has the capacity for an an additional passenger who may control the turret.
+","9-1。车辆允许跨越大距离，移动资源等快速运输。有两种不同类型的车辆<分号>悬停和轮式。耐用性，速度和机动性因车辆类型而异。它们可以使用实验室建造。每种类型的车辆都需要不同的资源以进行工艺。
+
+9-2。默认车辆控制：
+进入车辆​​ -  F键。
+定向演动 -  WASD键。
+退出车辆 -  F键。
+
+9-3。请注意：
+ - 在某些车辆中，保持换档键将激活使用大量燃料来获得额外速度的升压。
+
+ - 在第三人称视图时，驾驶时可以左右抬头。
+
+ - 地面攻击车有一个可以控制炮塔的额外乘客的能力。
+";
+"9-3. Before journeying out, prepare accordingly. Be sure that the vehicle used for operation is adequately fueled and in good working order. Check water and food supply to make certain that there is enough to sustain for the journey ahead. Bring any necessary resources and supplies that may be needed while away from the base.
+","9-3。在旅行之前，请准备好。确保用于操作的车辆充分燃料，并以良好的工作顺序。检查水和食品，以确保有足够的追随前方的旅程。带来可能需要的任何必要资源和物资，而远离基地。
+";
+"9-4. Spaceships have a translational life that require a large amount of fuel when leaving the atmosphere. Prepare accordingly. Once in orbit, lack of gravity and friction allow for less fuel consumption. The following controls are used for operation of the Spaceship:
+
+9-5. Default surface controls while flying:
+Start the ship and accelerate - LMB
+Land and deccelerate - RMB
+Directional maneuvers - WASD keys from wherever the mouse is currently pointed.
+","9-4。宇宙飞船具有在离开大气时需要大量燃料的平移生活。相应地准备。一旦进入轨道，缺乏重力和摩擦允许较少的燃料消耗。以下控件用于宇宙飞船的操作：
+
+9-5。飞行时默认的表面控制：
+启动船舶并加速 -  LMB
+土地和食品 - 人民币
+定向演动 - 从目前指向鼠标的任何地方都是ked键。
+";
+"9-7. The E.V.A. Suit has been designed to allow for prolonged Space Walks. Personnel may find themselves in a predicament where they need to leave their space station or ship and begin space walking. The default controls for space walking are as follows: 
+
+Move Forward - W Key
+Move Backward - S Key
+Strafe Left - A Key
+Strafe Right - D Key
+Move Upward - Spacebar Key
+Move Downward - Left Control Key
+Orient to Camera - Right Mouse Button
+Boost - Left Shift Key
+","9-7。 E.V.A.套装旨在允许长时间的空间走路。人员可能会发现自己在困境中，他们需要离开他们的空间站或船舶并开始空间走。空间行走的默认控件如下：
+
+前进 -  W键
+向后移动 -  S键
+strafe左 - 一个钥匙
+strafe右 -  d键
+向上移动 - 空格键键
+向下移动 - 左控制键
+定向到相机 - 鼠标右键
+升压 - 左移键
+";
+"9-8. Vehicles will require reparations and regular maintenance. The Multi Tool can be used to repair vehicles. Be sure to refuel each vehicle on a consistent basis. Refueling is performed by using the container that holds fuel. When prompted, press the [F] key.
+","9-8。车辆需要赔偿和定期维护。多工具可用于修理车辆。务必以持续的方式加油。通过使用容纳燃料的容器进行加油。出现提示时，按[F]键。
+";
+"9. Vehicle Piloting and Aeronotics","9.车辆试点和机器人";
+"Steering Behaviors","转向行为";
+"Mining","矿业";
+"Repairing","修复";
+"10-1. The Osiris Mission Personal Assistant (O.M.P.A.) was developed to assist field personnel with their active duties on alien planets. Each O.M.P.A. has been installed with a set of upgradeable algorithms that include navigation, repair, mining, and self defense.
+
+10-2. Follow: Activating the Follow procedure engages the O.M.P.A. unit to trail personnel. This will keep the unit nearby to provide assistance when needed.
+
+10-3. Flank: Activating the Flank procedure engages the O.M.P.A. unit to lead. This maneuver is ideal for guarding personnel from oncoming attacks. The O.M.P.A. is also equipped with high tech sensors that can spot danger quickly and engage the threat before it gets nearby.
+
+10-4. Engage (Passive): If the necessary upgrades have been installed, the O.M.P.A. unit will automatically engage hostile threats to protect human personnel from injuries and prevent structural damage.
+
+10-5. Repair: Activating the Repair procedure engages the O.M.P.A. unit to patrol a specified area and repair any owned structures that have accrued any damage.
+
+10-6. Mine: Activating the Mine procedure engages the O.M.P.A. unit to patrol a specified area and mine any valuable resources. If the necessary upgrades have been installed, the unit will also be able to detect nearby storage units and unload the collected materials.
+
+10-7. Summon (Experimental): Each O.M.P.A. has been equipped with a newly discovered mineral that has been found to contain manipulatable quantum properties. The material has been harnessed to allow the unit to teleport when the Summon procedure is activated. Using this feature comes at a cost, in order to provide the necessary energy to activate the reaction, a large amount of power is drained from the battery power source.","10-1。 Osiris使命个人助理（O.M.P.A.）是制定的，以协助其在外星人行星上的现场工作人员。每个O.M.P.A.已安装一组可升级算法，包括导航，修理，采矿和自卫。
+
+10-2。遵循：激活以下步骤聘请O.M.P.A.单位到赛车人员。这将使该单元在需要时提供帮助。
+
+10-3。侧翼：激活侧翼手术从事O.M.P.A.单位领导。这种机动非常适合从迎面而来的攻击中保护人员。 O.M.P.A.还配备了高科技传感器，可以快速发现危险并在附近造成威胁。
+
+10-4。聘用（被动）：如果已经安装了必要的升级，则O.M.P.A.单位将自动参与敌对威胁，以保护人类人员免受伤害，防止结构损伤。
+
+10-5。修复：激活修理程序聘请O.M.P.A.单位巡逻指定的区域并修复任何累积的损坏的所有结构。
+
+10-6。矿井：激活矿山程序从事O.M.P.A.单位巡逻一个指定的区域并挖掘任何有价值的资源。如果已安装必要的升级，则该装置还将能够检测附近的存储单元并卸载收集的材料。
+
+10-7。召唤（实验）：每个O.M.P.A.已经配备了新发现的矿物质，已被发现含有可操纵的量子特性。已经利用该材料以允许单位在召唤过程被激活时传送。使用该特征以成本为本，为了提供激活反应的必要能量，从电池电源中排出大量功率。";
+"10-8. The O.M.P.A. has been programmed for mining valuable resources scattered across the various terrains of the GLiese 581 System. Activating the Mine procedure engages the O.M.P.A. unit to patrol a specified area, mine, and if upgraded with the necessary components, detect nearby storage units and unload the collected resources.
+","10-8。 O.M.P.A.已编程用于挖掘散落在辉煌581系统各种地形的宝贵资源。激活矿山程序从事O.M.P.A.单位巡逻一个指定的区域，矿山，以及使用必要的组件升级，检测附近的存储单元并卸载收集的资源。
+";
+"10-9. The O.M.P.A. has been programmed to provide assistance to injured personnel and repair structural damage while patrolling is assigned coordinates. 
+","10-9。 O.M.P.A.已被编程为在巡逻坐标巡逻时提供对受伤人员和修复结构损坏的援助。
+";
+"10-10. The O.M.P.A. has been programmed to target and engage in combat if equipped with the necessary upgrades. Once achieved the O.M.P.A. will be armed and ready to protect and automatically engage hostile threats.
+","10-10。 O.M.P.A.如果配备必要的升级，已被编程为瞄准并参与战斗。曾经达到了O.M.P.A.将被武装并准备保护并自动聘请敌对威胁。
+";
+"10-11. The O.M.P.A. unit requires periodical repair and battery maintenance. When engaging in combat the O.M.P.A. can sustain damage that requires repair. If this occurs, personnel must equip the repair tool and use it on the O.M.P.A. to return it to a working condition. If the O.M.P.A. suffers from battery depletion, it will remain in the same location it lost power. To fix, simply equip a new battery and install in into the O.M.P.A.
+","10-11。 O.M.P.A.单位需要定期维修和电池维护。当参与战斗时的O.M.P.A.可以维持需要修理的损坏。如果发生这种情况，人员必须装备修复工具并在O.M.P.A上使用它。将其退回工作条件。如果是O.M.P.A.遭受电池耗尽，它将保持在损失的位置。要修复，只需装备新电池并安装进入O.M.P.A.
+";
+"10. Osiris Mission Personal Assistant Manual","10. Osiris Mission个人助理手册";
+"Alien Plant","外星植物";
+"Blunt Object","钝器";
+"Slashing Tool","削减工具";
+"Sharp Weapon","锋利的武器";
+"Surgical Tool","手术工具";
+"Extracting Tool","提取工具";
+"Discoveries","发现";
+"[A] MISSIONS","[a]任务";
+"SKILLS [D]","技能[D]";
+"[A] DISCOVERIES","[a]发现";
+"INVENTORY [D]","库存[D]";
+"Bug Report / Feedback","错误报告/反馈";
+"Menu","菜单";
+"Settings","设置";
+"Force Kill","迫使杀戮";
+"Report Player","报告玩家";
+"Main Menu","主菜单";
+"Exit Game","出口游戏";
+"Players","玩家";
+"Player Name...","选手姓名...";
+"Avatar Name...","头像名称......";
+"Cheating","欺诈";
+"Additional Comments...","附加评论...";
+"Submit","提交";
+"Menu Options","菜单选项";
+"[A] SKILLS","[A]技能";
+"Feedback","反馈";
+"Enter feedback here (optional)","在此处输入反馈（可选）";
+"General Feedback","一般反馈";
+"Gameplay / Balancing","游戏/平衡";
+"Bug / Tech Issue / Frame Rate","错误/技术问题/帧率";
+"Feature Request","功能要求";
+"Include Screenshot","包括截图";
+"All is good, just giving feedback","一切都很好，只是提供反馈";
+"This is kind of serious","这是一个严重的";
+"This is stopping gameplay","这是停止游戏";
+"Missions | Logs | Blueprints","任务|日志|蓝图";
+"Mission 1 - Explore Proteus 2","任务1  - 探索Proteus 2";
+"Now that I've gotten a foothold on this planet, I should explore and see if I can regroup with the Phoenix Team. ([F3] will open up the GPS, your suit has a radar installed that will allow for Basic Scanning. [NUM +] and [NUM -] to change the zoom of the map.)","现在我已经在这个星球上立足了，我应该探索，看看我是否可以与菲尼克斯团队一起重新组合。 （[F3]将打开GPS，您的西装安装了一个雷达，允许基本扫描。[Num +]和[Num  - ]更改地图的缩放。）";
+"Mission 2 - N/A","任务2  -  n / a";
+"Activate new mission in Mission Menu","在任务菜单中激活新任务";
+"Mission 3 - N/A","任务3  -  n / a";
+"Encrypted Disks","加密磁盘";
+"Item Name","项目名称";
+"Decrypt","解密";
+"Are you sure you want to quit to main menu?","您确定要退出主菜单吗？";
+"Placeholder","占位符";
+"O.M.P.A. Overview","o.m.p.a.概述";
+"dev console commands","dev控制台命令";
+"Push-to-Talk Initializing...","推送初始化...";
+"[F1] Push-To-Talk","[F1]推送谈话";
+"Talk now","现在说";
+"World Channel","世界渠道";
+"Chat Commands","聊天命令";
+"[TAB] Cycle Available Channels
+[/g] Global Channel
+[/l] Local Channel
+[/c] Colony Channel
+[/p] Party Channel
+[/w] Whisper Channel
+[/r] Reply to previous whisper","[标签]循环可用频道
+[/ g]全球频道
+[/ l]地方渠道
+[/ c]殖民地渠道
+[/ p]党频道
+[/ w]耳语渠道
+[/ r]回复以前的耳语";
+"Equip Locator To Cycle Targets","装备定位器到循环目标";
+"Nearest Dish
+Scanning...
+","最近的菜
+扫描...
+";
+"Downloading Transmission","下载传输";
+"Performing System Dyagnostics_","执行系统DyAgnostics_";
+"Party Member 1","党员1";
+"Toggle Flashlight [L]","切换手电筒[l]";
+"Slope:","坡：";
+"SUIT","套装";
+"ENV","env.";
+"Incline","倾斜";
+"Noise","噪音";
+"EARLY ACCESS","早期访问";
+"This new ability unlocks your wildest dreams!","这种新能力解锁了你最疯狂的梦想！";
+"Status","地位";
+"New Ability","新能力";
+"Username","用户名";
+"Exit","出口";
+"Options","选项";
+"News","消息";
+"Multiplayer","多人游戏";
+"Single Player","单人玩家";
+"Fully crafting your own Space Station in low orbit. All station modules can interconnect in any combination, allowing for total flexibility in design and layout.
+
+Each module has its own purpose and features, including crafting, power systems, and storage.
+
+Space Stations are free from the erosion and dangers of the existing planetside in an atmosphere, creating an interesting strategic option to store valuable resources.
+","在低轨道中完全制作自己的空间站。所有电台模块都可以在任何组合中互连，允许在设计和布局方面的完全灵活性。
+
+每个模块都有自己的目的和功能，包括制作，电力系统和存储。
+
+空间站摆脱现有阵列的侵蚀和危险在大气层中，创造了一个有趣的战略选择来存储宝贵的资源。
+";
+"Proteus 2 takes advantage of the new technology we’ve been developing that adds various zones and areas into a world.
+
+We’ve doubled the amount of world textures, rendered millions of blades of grass, and populated countless new alien foliages - each yielding various resources.
+","Proteus 2利用新技术，我们一直在开发，将各种区域和地区添加到世界中。
+
+我们已经增加了世界纹理的数量增加了数百万的草叶，并且填充了无数的新外国人叶子 - 每个人都会产生各种资源​​。
+";
+"Discovery System
+","发现系统
+";
+"Everything you observe on your adventures can now be discovered. Far more than a simple achievement, the Discovery System actually unlocks all the various resources any found resource will yield.
+
+Essentially, each weapon or tool used on a resource may yield a different item, allowing for far more scientific exploration of the solar system and all of its life forms.
+","您现在可以发现您在冒险中观察的一切。远远超过一个简单的成就，发现系统实际上解锁了任何找到的资源都会产生的所有资源。
+
+基本上，资源上使用的每个武器或工具可以产生不同的项目，允许对太阳系和所有生命形式的远远探索。
+";
+"Minerals can now be filtered on your updated GPS. This very handy tool, which is now always available in your HUD and no longer attached to your Locator, reads from your surrounding satellites and your own internal suit radar to create detection radii.
+
+This system will show you all the surrounding minerals, their hardness and density, so you can find what you’re looking for in your crafting missions.
+","现在可以在更新的GPS上过滤矿物质。这款非常方便的工具，现在可以随时可用，不再连接到您的定位器，从周围的卫星读取和您自己的内部套装雷达以创建检测到半径。
+
+该系统将向您展示所有周围的矿物质，其硬度和密度，因此您可以在制作任务中找到您正在寻找的内容。
+";
+"Removal of Build Gates
+","拆除构建门
+";
+"Options","选项";
+"News","消息";
+"Multiplayer","多人游戏";
+"Single Player","单人玩家";
+"Exit","出口";
+"New Ability","新能力";
+"Status","地位";
+"EARLY ACCESS","早期访问";
+"This new ability unlocks your wildest dreams!","这种新能力解锁了你最疯狂的梦想！";
+"Glide Unit Mk. II","滑行单元MK。 II";
+"Weight: ","重量：";
+"Hover Duration: ","悬停持续时间：";
+"Hover Height: ","悬停高度：";
+"Hover Fuel Usage: ","悬停燃料用法：";
+"Oxygen Consumption: ","氧气消耗：";
+"Stamina Usage: ","耐力用法：";
+"Quartz","石英";
+"Class: ","班级：";
+"Amount: ","数量：";
+"A hardened, white, and sometimes colorless mineral that consists of silicon dioxide.","一个硬化，白色，有时是无色矿物质，由二氧化硅组成。";
+"Cobalt Bolt Rifle","钴螺栓步枪";
+"Bolt Rifle Magazine","螺栓步枪杂志";
+"Remaining Ammo: ","剩下的弹药：";
+"Clip Size: ","夹尺寸：";
+"Damage: ","损害：";
+"10% critical hit","10％的临界击中";
+"Durability Consumption: ","耐久性消耗：";
+"Orcek Meat","orcek肉类";
+"Health Bonus: ","健康奖金：";
+"Nutrition Bonus: ","营养奖金：";
+"Meat ripped right off the body of a Orcek. Cook to avoid food poisoning.","肉撕掉了一个orcek的身体。煮避免食物中毒。";
+"Gold","金子";
+"A soft, malleable, ductile metal primarily used in the production of electronic devices due to it's corrosion resistance and electrical conductivity.","一种柔软，可延展的延性金属，主要用于电子器件的生产，由于它的耐腐蚀性和导电性。";
+"Reactor Cell","反应器细胞";
+"Total Weight: ","总重量：";
+"Ammo charges for the Reactor Pistol. It is automatically used when reloading, if stored in your backpack.","反应堆手枪的弹药充电。重新加载时自动使用，如果存储在背包中。";
+"Grunt","咕噜声";
+"Strength Boosted: ","力量提升：";
+"A strong compound created to give a boost to your carrying capacity.","创造了一个强大的化合物，以提高您的承载能力。";
+"02 Pump Unit Mk. III","02泵单元MK。 III";
+"Oxygen Recharge: ","氧气充值：";
+"Stamina Recharge: ","耐力充值：";
+"DIA-72 Assault Rounds","DIA-72攻击轮";
+"20% critical hit","20％的临界击中";
+"Advanced ammo magazine for the Assault Rifle. It is automatically used when reloading, if stored in backpack.","高级弹药杂志为突击步枪。如果存储在背包中，则会自动使用。";
+"Blood Sausage","血肠";
+"Quench Bonus: ","淬火奖金：";
+"Fortitude Boosted: ","坚韧提升：";
+"A delicious sausage created with congealed alien blood stuffed into an alien intestine. Eat while equipped or straight from inventory.","用夹持的外星血液填充到外星肠中的美味香肠。在装备或直接从库存时吃。";
+"Nickel","镍";
+"A metal commonly used in various alloys.","常用于各种合金的金属。";
+"Branches","分支机构";
+"Wood is often used to stoke fires.","木材经常用来踩火。";
+"Crab Shell","螃蟹壳";
+"Shell taken from a crab monster, often used to make defenses.","壳从螃蟹怪物中取出，经常用来进行防御。";
+"Recovery Unit Mk. III","恢复单位MK。 III";
+"Prevents Fall Damage","防止坠落损坏";
+"Hover Fuel Recharge: ","悬停燃料充电：";
+"Gold Ingot","金元宝";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1064 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：1064°C
+";
+"Heat Cell","热电池";
+"Ammo charges for the Heat Pistol. It is automatically used when reloading, if stored in your backpack.","Ammo为热手枪收费。重新加载时自动使用，如果存储在背包中。";
+"Flourine","flour";
+"A poisonous gas that will cause severe burns, used in cable insulations and waterproof materials.","一种有毒气体，将导致严重灼伤，用于电缆绝缘和防水材料。";
+"Phencyclidine","Phentyclidine.";
+"Potent tranqualizing agent.","有效的镇静剂。";
+"Fire Gem","火宝石";
+"A strange gem that gives off immense heat, its physical properties unknown.","一个奇怪的宝石，赋予巨大的热量，其物理特性未知。";
+"Alien Organ","外星人器官";
+"An Organ surgically removed from the body of an indigenous alien creature.","手术外来的器官从土着外星人生物的身体移除。";
+"Heat Sink Unit Mk. I","散热器单元MK。一世";
+"Cold Resistance: ","耐寒性：";
+"Crab Antenna","螃蟹天线";
+"Antenna taken from a crab monsters.","从螃蟹怪物采取的天线。";
+"Cobalt Assault Rifle","钴突击步枪";
+"0% critical hit","0％批判击中";
+"Mechanized Spanner","机械化扳手";
+"Durability: ","耐久性：";
+"Indestructible multi-tool needed for repairing any damaged structures, walls, vehicles, and droids. Also needed to build new walls.","修复任何损坏的结构，墙壁，车辆和机器人所需的坚不可摧的多工具。还需要建造新墙壁。";
+"Apple","苹果";
+"Nutritious fruit to replenish hunger. Can be eaten while equipped or straight from storage.","营养果实补充饥饿。可以在装备或直接储存时食用。";
+"Medical Bandage","医用绷带";
+"Heals hitpoints. Can be used while equipped or straight from inventory.","治愈Hitpoints。可以在装备或直接从库存中使用。";
+"Scrap Plastic","废塑料";
+"Leftover chunk of plastic that need to be melted down and reformed to be useful.","需要融化并改革需要融化的塑料块是有用的。";
+"Arachnoid Small Leg","蛛网膜小腿";
+"The smaller leg of an Arachnoid ripped right off from its body. Used in a variety of crafting recipes.","蛛网膜的较小腿从它的身体撕开。用于各种制作食谱。";
+"Paradise Bloom","天堂绽放";
+"Bloom taken from what looks like an unusual strain of a Birds of Paradise. Can be eaten while equipped or straight from storage.","从看起来像一只天堂鸟类的异常紧张的盛开。可以在装备或直接储存时食用。";
+"U.N.E. Emergency Ration","U.N.E.紧急配给";
+"Packaged nutritional paste commonly found in Emergency kits, can be easily consumed and provides vital sustenance. Eat while equipped or straight from inventory.","常用于急诊试剂盒中的包装营养浆料，可以很容易地消耗并提供重要的寄托。在装备或直接从库存时吃。";
+"Small Radar Dish Kit","小雷达盘套件";
+"Max Durability: ","最大耐用性：";
+"Kit used to build Small Radar Dish. To build select the Small Radar Dish from the Utilities tab in your Character build Menu.","套件用于建造小雷达盘。构建从“字符构建”菜单中的“实用程序”选项卡中选择“小雷达”菜肴。";
+"Mud Cover","泥盖";
+"Heat Resistance: ","耐热性：";
+"Glide Unit Mk. III","滑行单元MK。 III";
+"Fuel Compressor Mk. I","燃料压缩机MK。一世";
+"Hover Fuel Amount: ","悬停燃料金额：";
+"Light Unit","光单位";
+"Flashlight Power Usage: ","手电筒电源用法：";
+"Flashlight Range: ","手电筒范围：";
+"Glide Unit Mk. I","滑行单元MK。一世";
+"Heat Pistol","加热手枪";
+"Circuit Board","电路板";
+"Processor used to build complex structures, vehicles, and items.","处理器用于构建复杂的结构，车辆和物品。";
+"Plutonium","钚";
+"Highly radioactive energy source.","高放射性能源。";
+"Sand","沙";
+"Crafting item for forging glass in Furnace or making soil in Chemistry Table.","炉膛锻造玻璃制备物品或在化学表中制造土壤。";
+"Hose","软管";
+"A Rubber hose.","橡胶软管。";
+"Lead","带领";
+"A soft, very dense metal that is commonly used for projectiles and in radiation shielding applications.","一种柔软，非常致密的金属，通常用于射弹和辐射屏蔽应用。";
+"Plutonium Ingot","钚锭";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 639.4 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：639.4°C
+";
+"Fury","愤怒";
+"Stamina Boosted: ","耐力提升：";
+"A strong compound created to give you a boost to your stamina.","创造了一个强大的化合物，以便给您提升耐力。";
+"Cubic Zirconia","立方氧化锆";
+"A cut, refined piece of crystalline Zirconium.","切割，精制的晶体锆。";
+"Storage Unit Mk. I","存储单元MK。一世";
+"Adds Inventory Slots: ","添加库存插槽：";
+"Tree Sap","树液";
+"Viscous liquid used for crafting more advanced items.","用于制作更多先进物品的粘性液体。";
+"Gnat Teeth","牙齿";
+"Crafting item for building weapon modifications, calcium powder and other items.","制作武器修饰，钙粉等物品的制作项目。";
+"Potato","土豆";
+"Raw food that can be eaten to replenish hunger. Is more nutritious when cooked. Can be eaten while equipped or straight from storage.","可以吃的原料食物来补充饥饿。煮熟时更营养。可以在装备或直接储存时食用。";
+"Arachnoid Leg","蛛网腿";
+"Leg ripped right off the body of a Arachnoid. Used in a variety of crafting recipes.","腿撕掉了蛛网膜的身体。用于各种制作食谱。";
+"Sword Leaves","剑离开";
+"Leaves taken from a sword plant used as an ingredient to craft different items. Can be eaten for a small increase in health and nutrition.","从剑植物拍摄的叶子用作制作不同的物品的成分。可以吃掉健康和营养的小幅增加。";
+"Sweet Alien Jerky","甜美的外星人生涩";
+"A delicious piece of candied alien meat. Eat while equipped or straight from inventory.","一块可口的糖果外星人肉。在装备或直接从库存时吃。";
+"Tool Holster","工具皮套";
+"Tree Bark","树皮";
+"Bark taken from an indigenous tree used as an ingredient to craft different items.","从土着树拍摄的吠声用作制作不同物品的成分。";
+"Crab Leg Meat","蟹腿肉";
+"Meat taken from the leg of a Crab monster. Cook to avoid food poisoning.","从螃蟹怪物的腿采取的肉。煮避免食物中毒。";
+"Reactor Pistol","反应堆手枪";
+"Fuel Compressor Mk. II","燃料压缩机MK。 II";
+"Cryo Rifle","Cryo步枪";
+"Stim Unit Mk. III","STIM单位MK。 III";
+"Rock","岩石";
+"Rocks are used as tools and building materials. To use it as a weapon convert it in your crafting menu to a Bashing Rock.","岩石用作工具和建筑材料。将其用作武器将其转换为击打摇滚岩石。";
+"Makeshift Chisel","临时凿子";
+"Hardness: ","硬度：";
+"Makeshift blunt tool used for mining mineral ores with a hardness of 3. It can be reused for melee combat.","用于采矿矿物矿石的临时钝器工具，硬度为3.它可以重复使用近战战斗。";
+"Crude Metal Blade","粗金属刀片";
+"A piece of sharpened metal that can be used to make a basic sword.","一块可用于制作基本剑的磨刀金属。";
+"A51 Heavy Assault Rifle","A51重型突击步枪";
+"Broken Hose","破碎的软管";
+"A damaged section of hose, could be patched up to be operational again.","一段损坏的软管部分，可以再次修补才能再次运行。";
+"Crude Metal Axe","粗金属斧";
+"A slashing tool that is essentially a sharpened metal ingot on a stick with some tape.","一款削减工具，基本上是棍棒上的磨削金属锭，带有一些胶带。";
+"Bolt Rifle","螺栓步枪";
+"Scrap Hinge","废钢铰链";
+"A small hinge salvaged from debris.","从碎片中挽救一个小铰链。";
+"Medkit","Medkit.";
+"Advanced medical kit that heals a lot of hitpoints. Can be used while equipped or straight from inventory.","先进的医疗套件，治愈很多人的休闲点。可以在装备或直接从库存中使用。";
+"Plastic","塑料";
+"Crafting item for building structures, walls, and other items.","建筑结构，墙壁和其他物品制作项目。";
+"Propellant Tank","推进坦克";
+"Where propellant is stored in a container belonging within a vehicle.","推进剂存储在属于车辆内的容器中。";
+"Flare","耀斑";
+"Bashing Rock","抨击摇滚乐";
+"Useful when you have no other tools.","当您没有其他工具时很有用。";
+"Broken Barrel","破桶";
+"A Barrel that has been damaged and can no longer store gases. A few patches could make this functional again.","一桶被损坏，不再储存气体。一些补丁可以再次制作这个功能。";
+"Vampire Dust","吸血鬼尘埃";
+"Agility Boosted: ","敏捷提升：";
+"Advanced compound created to boost your strength and speed.","先进的化合物创造，以提高您的实力和速度。";
+"Carbon Ingot","碳铸锭";
+"
+
+- Melting point: 3550 °C
+","
+
+ - 熔点：3550°C
+";
+"Inflatable Dome Kit","充气圆顶套件";
+"Kit used to build Inflatable Dome. To build, right-click on Inventory Item and select Build or select the Inflatable Dome from the Structures tab in your Character Menu.","套件用于建造充气圆顶。要构建，请右键单击库存项，然后从“字符”菜单中的“结构”选项卡中选择“构建”或选择“可充气圆顶”。";
+"Grilled Tumbo Meat","烤的tumbo肉";
+"Meat ripped right off the body of a Tumbo. Has been cooked and is safe to eat.","肉撕掉了一个tumbo的身体。已经煮熟，吃了安全。";
+"Chisel","凿";
+"Powerful blunt tool used for mining mineral ores with a hardness of 7. It can be reused for melee combat.","用于采矿矿物矿石的强大的钝器工具，硬度为7.它可以重复使用近战战斗。";
+"Hiking Cleats","徒步旅行者";
+"25% critical hit","25％的临界击中";
+"Ammo magazine for the Bolt Rifle. It is automatically used when reloading, if stored in backpack.","弹药杂志为螺栓步枪。如果存储在背包中，则会自动使用。";
+"Stim Unit Mk. II","STIM单位MK。 II";
+"Scrap Metal","废金属";
+"Small pieces of metal left over after the greater portion of metal has already been used.","已经使用了大部分金属后留下的小块金属。";
+"Tungsten Ingot","钨锭";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 3422 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：3422°C
+";
+"Uranium","铀";
+"A dense, radioactive metal used commonly in nuclear fission based power generation.
+","一种浓密的放射性金属，通常用于基于核裂变的发电。
+";
+"Nitrogen","氮";
+"An odorless and colorless component of nucleic acids, amino acids, and thus proteins, important to create fertilisers and explosives.","核酸，氨基酸和因此蛋白质的无味和无色成分，重要的是产生肥料和炸药。";
+"Cobalt","钴";
+"A metal often used in the creation of magnets, batteries and as an additive in wear-resistant alloys.","通常用于在耐磨合金中产生磁铁，电池和添加剂的金属。";
+"Pipe","管道";
+"50% critical hit","50％的临界击中";
+"A basic formed pipe, can be used as a melee weapon.","基本形成的管道，可用作近战武器。";
+"Makeshift Laser Chisel","临时激光凿子";
+"An overclocked makeshift laser that can slowly sample the hardest minerals, its short battery life makes it a poor mining device.","一个超频的临时激光器，可以慢慢地样的矿物质慢慢上样，其短的电池寿命使其成为一个可怜的采矿装置。";
+"D24k Assault Rounds","D24K攻击轮次";
+"Zirconium Circuit Board","锆电路板";
+"Mother board made using zirconium and used when building certain complex structures, vehicles, and items.","使用锆制成的母板，并在建立某些复杂的结构，车辆和物品时使用。";
+"Yellow Pedal Flower","黄色踏板花";
+"Indigenous fungus found in the wild. It's poisonous to eat, but can be used to craft special items.","在野外发现的土着真菌。吃东西有毒，但可以用来制作特殊物品。";
+"Wrench","扳手";
+"A basic multi-tool that can be used for repairing, salvaging, and precise tinkering.","一种基本的多工具，可用于修复，挽救和精确修复。";
+"Battery","电池";
+"Replaces depleted battery in flashlight.","取代手电筒中的耗尽电池。";
+"Gem Leaf Fruit","宝石叶果";
+"Very nutritious food to replenish hunger. Can be eaten while equipped or straight from storage.","非常营养的食物补充饥饿。可以在装备或直接储存时食用。";
+"Azurnium","亚苏";
+"Strange crystal with sparsely understood physical properties. Useful in High-Tech devices.","奇怪的水晶，稀疏地理解物理性质。适用于高科技设备。";
+"Shaped Crab Antenna","形状蟹天线";
+"A shaped fragment of a Crab Antenna, could be fashioned into a crude precision tool.","蟹天线的形状片段可以塑造成粗精确的工具。";
+"Blitz","闪电";
+"A weak compound created to give a small boost to your stamina.","创造了一种弱化合物，以给你的耐力给予小幅提升。";
+"Fungus","菌";
+"Heat Sink Unit Mk. III","散热器单元MK。 III";
+"Light Unit Mk. I","轻型单位MK。一世";
+"Crude Pipe","原油管道";
+"A crude pipe fashioned from bent scrap metal.","由弯曲的废金属塑造的原油。";
+"Orcek Soup","orcek汤";
+"Delicious broth preserved in highly mobile packaging. Eat while equipped or straight from inventory.","在高度移动包装中保存的美味肉汤。在装备或直接从库存时吃。";
+"Charge Rifle","费用步枪";
+"Hydrogen","氢";
+"A highly-flammable gas that is without both color and odor, and is used mainly as rocket fuel for energy.","没有颜色和气味的高度易燃气体，主要用作用于能量的火箭燃料。";
+"Obsidian","黑曜石";
+"A volcanic glass capable of being knapped into sharp blades.","能够被击倒锋利的刀片的火山玻璃。";
+"Gnat Hook","GNAT钩子";
+"Crafting item for building weapon modifications, calcium powder 
+and other items.","制备武器修饰的制作项目，钙粉
+和其他物品。";
+"White Gold","白金";
+"A malleable alloy used most commonly in jewelry, could be used for manufaturing small parts.","一种最常见于珠宝的型型合金，可用于制造小零件。";
+"Zircaloy","锆石";
+"High heat, hardness, and corrosion resistant alloy.","高热，硬度和耐腐蚀合金。";
+"Zinc","锌";
+"A brittle metal generally used as an anti-corrosive coating and in various alloys.","脆性金属通常用作抗腐蚀性涂层和各种合金。";
+"Snake Stew","蛇炖";
+"Gnat Meat","gnat肉";
+"Meat ripped right off the body of a Gnat. Cook to avoid food poisoning.","肉撕掉了gnat的身体。煮避免食物中毒。";
+"Oxygen","氧";
+"A life-supporting colorless and odorless gas.","寿命支持无色和无味的气体。";
+"Solar Unit","太阳能单位";
+"Flashlight Battery Recharge: ","手电筒充电：";
+"Key Card Tier-2","钥匙卡Tier-2";
+"A mid-level clearance keycard used to open Osiris mission doors in abandoned settlements and mines.","用于在被遗弃的定居点和地雷开设Osiris Mission门的中间清关钥匙卡。";
+"Light Range Extender","光线范围扩展器";
+"Cast Iron","铸铁";
+"High-Carbon steel alloy that is strong under compression and can be used for armor plating.","在压缩下强的高碳钢合金，可用于铠装电镀。";
+"Alien Fiber","外星纤维";
+"Fibrous material harvested from indigenous plantlife. Can be woven into cloth that is an ingredient to craft many different items.","从土着植物植物收获的纤维材料。可以编织成布料，是制作许多不同物品的成分。";
+"Leather","皮革";
+"Tanned piece of animal skin used in crafting.
+","用于制作的鞣制动物皮肤。
+";
+"Assault Rifle","突击步枪";
+"Talonite","talonite.";
+"Durable alloy that holds an edge very well. Used in high precision applications.","耐用合金，持有边缘。用于高精度应用。";
+"Blaster Cell","闪烁的细胞";
+"Basic laser blaster cell.","基本激光吹钳细胞。";
+"Assault Rifle Commander","突击步枪指挥官";
+"Land Mine Set","陆地矿山套装";
+"An explosive device that is used for defending you and your colony.","一种用于捍卫您和您的殖民地的爆炸装置。";
+"Lonsdaleite","lonsdaleite.";
+"An allotrope of carbon that is a precursor to the crystalline formation of diamonds.","碳是晶体形成晶体形成的前体。";
+"Booster Unit Mk. II","助推器单元MK。 II";
+"Titanium","钛";
+"A low density, high strength metal commonly used in aeronautical crafts due to its high tensile strenght to density ratio and corrosion resistance.","由于其高抗拉力率和耐腐蚀性，在航空工艺中常用的低密度，高强度金属。";
+"Alien Meat","外星肉类";
+"Meat ripped right off the body of an indigenous alien creature. Cook to avoid food poisoning.","肉撕掉了土着外星人生物的身体。煮避免食物中毒。";
+"Alien Tissue","外星人组织";
+"Tissue ripped right off the body of an indigenous alien creature.","组织撕掉了土着外星人生物的身体。";
+"Steel","钢";
+"Complex metal used for building advanced structures and walls.
+
+- Melting point: 1370 °C
+","用于构建先进结构和墙壁的复杂金属。
+
+ - 熔点：1370°C
+";
+"Solar Unit Mk. I","太阳能单位MK。一世";
+"Desert Yuccudis Fruit","沙漠榆次果实";
+"Nutritious fruit to replenish hunger and slightly damage your health. Can be eaten while equipped or straight from storage. Also used as an ingredient in the crafting of some items.","营养果实补充饥饿，略微损害您的健康。可以在装备或直接储存时食用。也用作一些物品制作的成分。";
+"Heat Sink Unit Mk. II","散热器单元MK。 II";
+"Glide Unit","滑翔单位";
+"Gravity Strength: ","重力力量：";
+"Scrap Rubber","废橡胶";
+"Small pieces of rubber that need to be melted down and reformed to be useful.","需要融化并改造有用的小橡胶。";
+"Crab Stew","螃蟹炖";
+"A delicious stew with added Crab Meat, Potatoes, and Carrots. Eat while equipped or straight from inventory.","添加蟹肉，土豆和胡萝卜的美味炖菜。在装备或直接从库存时吃。";
+"Skeliopod Tail","Skeliopod tail.";
+"Tail taken from a Skeliopod to be used for crafting purposes.","尾巴从一个skeliopod采取以用于制作目的。";
+"02 Pump Unit Mk. I","02泵单元MK。一世";
+"Light Unit Mk. III","轻型单位MK。 III";
+"Explosive","爆炸性";
+"A chemical explosive.","化学炸药。";
+"Chromium","铬";
+"A hard metal that is the main additive in stainless steel due to its increase in strengthening and corrosion resistance when alloying.","一种坚硬的金属，是不锈钢中的主要添加剂，因为它在合金化时的增强和耐腐蚀性增加。";
+"Crab Eye","螃蟹眼";
+"Eye recovered from a crab monster.","眼睛从螃蟹怪物中恢复过来。";
+"Afterburner","加强燃烧室";
+"A weak compound created to give a small boost to your carrying capacity.","创造了弱化合物，以便对您的承载能力进行小幅提升。";
+"Arctlily","arctlily.";
+"Petals from an Arctlily, thrives in extremely cold climates.","来自一个arctlily的花瓣，在极度寒冷的气候中茁壮成长。";
+"Stim Unit Mk. I","STIM单位MK。一世";
+"Backpack Storage","背包存储";
+"T19 Assault Rounds","T19攻击轮";
+"5% critical hit","5％的临界击中";
+"Broken Glass","碎玻璃";
+"Fragments of glass. Would need to be melted and reformed to create usable glass.","玻璃的碎片。需要融化和改革以创造可用的玻璃。";
+"Grilled Orcek Meat","烤的orcek肉类";
+"Meat ripped right off the body of an Orcek. Has been cooked and is safe to eat.","肉撕掉了orcek的身体。已经煮熟，吃了安全。";
+"Cloth Bundle","布束";
+"A bundle of tightly woven fibers.","一束紧密的纤维。";
+"Bronze","青铜";
+"A basic alloy commonly used as a material for mechanical parts in modern times.","一种常用作为现代机械部件材料的基本合金。";
+"Aluminum Ingot","铝锭";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 660.3 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：660.3°C
+";
+"Titanium Ingot","钛锭";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1668 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：1668°C
+";
+"Diamond Chisel","钻石凿子";
+"A chisel with a diamond tip that can chip away at the hardest of minerals.","一个凿子，钻石尖端可以刮掉最难的矿物质。";
+"Conduit Bender","导管Bender.";
+"A heavy blunt weapon commonly used for bending pipes. Makes for an effective bludgeoning weapon.","通常用于弯曲管道的沉重钝武器。制作有效的勃朗武器。";
+"Data Disk SN:134.33","数据磁盘SN：134.33";
+"Status: ","地位：";
+" (3 chances)"," （3机会）";
+"Booster Unit Mk. III","助推器单元MK。 III";
+"Unlocks Ability: ","解锁能力：";
+"Blue Palms","蓝色棕榈树";
+"Large blue palms taken from an indiginous plant that are used as an ingredient to craft many different items.","从植物中获取的大型蓝色棕榈植物用作制作许多不同物品的成分。";
+"Tungsten","钨钨";
+"A hard, dense metal often used to make hard material alloys and armor-piercing projectiles.","一种坚硬，致密的金属通常用于制造硬质材料和盔甲射弹。";
+"Skeliopod Shell","Skeliopod shell.";
+"Shell taken from a Skeliopod to be used for building defensive walls.","从Skeliopod取出的壳用于建立防御墙。";
+"Crab Meat","蟹肉";
+"Meat taken from the body of a Crab monster. Cook to avoid food poisoning.","从螃蟹怪物的身体取出的肉。煮避免食物中毒。";
+"Fuel Compressor","燃料压缩机";
+"Zirconium","锆";
+"A lustrous metal primarily used as a refractory and opacifier.","一种光泽的金属主要用作耐火材料和遮光剂。";
+"Scrap Antenna","废料天线";
+"Pieces of antenna's that have been left over.","一块已留下的天线。";
+"Hydrochloric Acid","盐酸";
+"Violent chemical used to disintegrate matter.","用于崩解物质的暴力化学物质。";
+"Shovel","铲";
+"Tool used to gather Sand for use in crafting.","用于收集沙子的工具用于制作。";
+"Shard Blade","碎片";
+"A small sharp weapon made from a rock shard.","由岩石碎片制成的小尖锐武器。";
+"Steamed Carrot","蒸胡萝卜";
+"Nutritious steamed carrot. Eat while equipped or straight from inventory.","营养蒸红萝卜。在装备或直接从库存时吃。";
+"Suit Heater","西装加热器";
+"Recovery Unit","恢复单位";
+"Damage Taken: ","承受伤害：";
+"Stone Shovel","石铲子";
+"Wire","金属丝";
+"Complex material used for crafting complex electric devices.","用于制作复杂电气设备的复杂材料。";
+"Voice Log1","语音LOG1.";
+"VoiceLog1","Voicelog1.";
+"02 Pump Unit Mk. II","02泵单元MK。 II";
+"Zoom","飞涨";
+"A compound created to give a boost to your speed.","创建的化合物，以提高您的速度。";
+"Zirconium Plate","锆板";
+"Metal plating used for building certain advanced structures and walls.
+
+- Melting point: 1370 °C
+","用于构建某些先进结构和墙壁的金属电镀。
+
+ - 熔点：1370°C
+";
+"Tactical Knife","战术刀";
+"The Tactical Knife is a sharp weapon that is quieter to use than most weapons.","战术刀是一个比大多数武器更安静的锋利武器。";
+"Lens Cover","镜头盖";
+"Tumbo Meat","Tumbo肉类";
+"Meat taken from the body of a Tumbo. Cook to avoid food poisoning.","肉从一个tumbo的身体取出。煮避免食物中毒。";
+"Skeliopod Stew","Skeliopod炖";
+"A-2 Heavy Assault Rounds","A-2沉重的突击轮";
+"Advanced ammo magazine for the Heavy Assault Rifle. It is automatically used when reloading, if stored in backpack.","高级弹药杂志为重型突击步枪。如果存储在背包中，则会自动使用。";
+"Stone Axe","石斧";
+"A slashing tool that is essentially a rock on a stick with a nice handle.","一款削减工具，基本上是一个棍子上的岩石，带有一个漂亮的手柄。";
+"Makeshift Cloth Bundle","临时布束";
+"A makeshift bundle of loosely woven fibers.","一根松散编织的纤维的临时束。";
+"Stone Blade","石刀";
+"A sharpened rock that can be used to make a blade.","一种可用于制造刀片的锋利的岩石。";
+"Stone Axe Head","石斧头";
+"A sharpened rock that can be used to make an axe","一个可用于制造斧头的锋利的岩石";
+"Beetle Ball","甲虫球";
+"Sack taken from a Skeliopod.","从一个skeliopod取出的麻袋。";
+"Gnat Leg","GNAT腿";
+"Leg ripped right off the body of a Gnat. The meat can be cooked or the bone from the leg can be used to make a weapon.","腿撕开了GNAT的身体。肉可以煮熟或腿部的骨头可用于制造武器。";
+"Bark","吠";
+"Tree bark is used as an ingrediant to make different items in chemistry.","树皮用作化学制作不同物品的成分。";
+"Water","水";
+"Liquid used for crafting more advanced items. Can also be drank to quench thirst.","用于制作更多先进物品的液体。也可以喝酒来疯狂渴望。";
+"Coral Branches","珊瑚分支";
+"Branches taken from a fan coral used as an ingredient to make different items in chemistry.","从风扇珊瑚采取的分支用作化学制作不同物品的成分。";
+"Botany Kit","植物学套装";
+"Tool used for extracting fluids from plants and creatures.","用于从植物和生物中提取液体的工具。";
+"Copper","铜";
+"A soft, ductile metal with high electrical and thermal conductivity, commonly used in electrical wiring.","一种柔软的韧性金属，具有高电和导热性，通常用于电线。";
+"P C X","p c x.";
+"Liquid used for crafting more advanced items.","用于制作更多先进物品的液体。";
+"Urchin Shell","核心壳";
+"Part of an urchin found on land. It's dangerous to eat raw, but can be used for crafting and cooking.","在土地上发现的核素的一部分。吃原来是危险的，但可用于制作和烹饪。";
+"Hydrogen Torch","氢火炬";
+"Fern Tree Berry","蕨树浆果";
+"Charred Alien Bits","烧焦的外星人位";
+"Bits of Alien Meat quickly cooked in extremely high temperature, not too tasty, but its technically safe to eat.","异种肉类肉类迅速煮熟，极高的温度，不太美味，但它在技术上安全吃。";
+"Alien Hide","外星人隐藏";
+"Hide skinned from the body of an indigenous alien creature.","隐藏从土着外星人的身体皮肤。";
+"Crab Egg","蟹卵";
+"Egg taken from the body of a Crab monster. Cook to avoid food poisoning.","从螃蟹怪物的身体取出的鸡蛋。煮避免食物中毒。";
+"Scrap Dish","废盘";
+"Dish parts that have been left over.","已留下的盘部分。";
+"Molybdenum","钼";
+"A metal that is commonly used for the strengthening of steel.","通常用于强化钢的金属。";
+"Iron","铁";
+"A moderately soft metal commonly used as a structural material when alloyed with other elements, mostly in the form of Steel.","当与其他元素合金化时，通常用作结构材料的适度柔软的金属，主要以钢的形式。";
+"Arachnoid Meat","蛛网膜肉";
+"Meat ripped right off the body of a Arachnoid. Cook to avoid food poisoning.","肉撕掉了蛛网膜的身体。煮避免食物中毒。";
+"Stone Shovel Head","石铲头";
+"A shaped rock that can be used to make a shovel.","一种形状的岩石，可用于制作铲子。";
+"Sponge Tubes","海绵管";
+"Tubes taken from a sponge tube trees used as an ingredient to make different items in chemistry.","从海绵管树采取的管用作成分，以在化学中制作不同的物品。";
+"Tumbo Soup","tumbo汤";
+"Orcek Leg","orcek腿";
+"Leg ripped right off the body of a Orcek. Cook to avoid food poisoning.","腿撕开了orcek的身体。煮避免食物中毒。";
+"Grilled Alien Meat","烤外星肉";
+"Meat ripped right off the body of an indigenous alien creature. Has been cooked and is safe to eat.","肉撕掉了土着外星人生物的身体。已经煮熟，吃了安全。";
+"Storage Unit Mk. II","存储单元MK。 II";
+"Data Disk SN:144.22","数据磁盘SN：144.22";
+"Redfern Tree Berry","Rederfern树浆果";
+"Nutritious fruit to replenish hunger and will slightly improve your health. Can be eaten while equipped or straight from storage. Also used as an ingredient in the crafting of some items.","营养果实补充饥饿，将略微改善您的健康。可以在装备或直接储存时食用。也用作一些物品制作的成分。";
+"Moonshroom","Moonshroom.";
+"Indigenous fungus found on the surface of Lutari. It's edible, but isn't very nutritious.","在Lutari表面发现的土着真菌。这是可食用的，但不是很营养。";
+"Brass","黄铜";
+"Soft alloy that excels in low friction applications.","软合金在低摩擦应用中擅长。";
+"Cryo Rifle Ammo","Cryo步枪弹药";
+"Advanced water filled ammo clip for a Cryo Rifle. This water filled container can only be fabricated in and advanced fabricator.","高级水填装的弹药夹为Cryo步枪。该填充容器只能制造在先进的制造商中。";
+"Tumbo Leg","Tumbo腿";
+"Leg taken from the body of a Tumbo. Cook to avoid food poisoning.","腿从一个tumbo的身体采取。煮避免食物中毒。";
+"Berry Juice","浆果汁";
+"A syrupy, tart juice created from cooked berries.","一只糖浆，从煮熟的浆果创造的酸奶汁。";
+"Magnesium","镁";
+"A metal susceptible to corrosion commonly used in creating lightweight materials and alloys.","易受腐蚀的金属，通常用于制造轻质材料和合金。";
+"Cooked Orcek Egg","煮熟的orcek鸡蛋";
+"Delicious cooked Orcek Egg. Eat while equipped or straight from inventory.","可口煮熟的orcek鸡蛋。在装备或直接从库存时吃。";
+"Hydrocarbon Solution","烃溶液";
+"A solution rich in hydrocarbons, very flamable and combustible, can be refined into a better fuel.","富含碳氢化合物，非常可燃和可燃的溶液可以精制成更好的燃料。";
+"Methane Gas","甲烷气体";
+"A flammable gas that is both colorless and odorless. It is the main constituent of natural gas, as well as the simplest member of the alkane series of hydrocarbons.","一种无色和无味的易燃气体。它是天然气的主要组成部分，以及烷烃系列的最简单成员。";
+"Data Disk SN:851.47","数据磁盘SN：851.47";
+" (0 chances)"," （0机会）";
+"Radar Scanner","雷达扫描仪";
+"Advanced handheld Radar Scanner used for navigating terrain and scanning for resources based on their elemental density. Equip item to activate scanner.","高级手持雷达扫描仪用于导航地形并根据其元素密度扫描资源。装备项目以激活扫描仪。";
+"Gnat Stew","GNAT炖";
+"Snake Spikes","蛇尖峰";
+"Spikes taken from the back of a snake.","从蛇的后面取出的尖峰。";
+"Cobalt Pistol","钴手枪";
+"Laser Cell","激光牢房";
+"15% critical hit","15％的批评击中";
+"Broken Circuit Board","破碎的电路板";
+"A Circuit Board that has been broken and is missing some circuitry, could be repaired to be functional again.","一个已破坏并缺少一些电路的电路板可以修复再次运行。";
+"Dragon Tooth","龙牙";
+"Powerful piercing melee weapon with a sharp obsidian blade.","强大的刺穿近战武器与锋利的黑曜石刀片。";
+"Arachnoid Teeth","蛛网膜牙齿";
+"Hover Booster","悬停助推器";
+"Stim Unit","刺激单位";
+"Nichrome","尼姆罗姆";
+"An alloy with high electrical resistance commonly used in heating elements.","一种具有高电阻的合金，通常用于加热元件。";
+"Crude Metal Sword","粗金属剑";
+"60% critical hit","60％的临界击中";
+"A crude sharp weapon made from a piece of sharpened metal. ","由一块锋利的金属制成的粗锋利的武器。";
+"Solar Unit Mk. III","太阳能单位MK。 III";
+"Lithium","锂";
+"The lightest and least dense metal, while commonly used in the creation of batteries, can also be used in air purification applications.","最轻和最密集的金属，同时常用于电池的创建，也可用于空气净化应用。";
+"Masking Tape","掩盖胶带";
+"Suit Integrity Bonus: ","西装诚信奖励：";
+"IMPORTANT! Use masking tape to repair suit punctures. Can be used while equipped or straight from inventory.","重要的！使用遮蔽胶带修理套装穿孔。可以在装备或直接从库存中使用。";
+"Cinna Fern","Cinna Fern.";
+"Leather Straps","皮带";
+"Sections of leather used in crafting.","用于制作的皮革部分。";
+"Recovery Unit Mk. II","恢复单位MK。 II";
+"Fuel Compressor Mk. III","燃料压缩机MK。 III";
+"Wrath","愤怒";
+"Advanced compound created to increase your carrying capacity and stamina.","创建的高级化合物，以增加您的承载能力和耐力。";
+"Gunmetal","青铜";
+"Corrosion resistant alloy commonly used in weapons.","常用于武器的耐腐蚀合金。";
+"Flourescence","荧光";
+"Liquid that has lumenescent properties.","具有荧光特性的液体。";
+"Magnesium Ingot","镁锭";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 650 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：650°C
+";
+"Silver","银";
+"A precious metal with very high electrical and thermal conductivity.","具有非常高的电和导热性的贵金属。";
+"Metal material found off of broken human made structures and vehicles. Can be recycled into other materials or used to create makeshift structures and other items.","损坏的金属材料破碎的人造结构和车辆。可以再循环到其他材料中或用于制造临时结构和其他物品。";
+"Cooling Unit Mk. III","冷却装置MK。 III";
+"Blue Blades","蓝色刀片";
+"Blades taken from a Blueblade plant used as an ingredient to craft different items. Can also be eaten.","从蓝色的植物拍摄的刀片用作制作不同物品的成分。也可以吃。";
+"Lava Leaves","熔岩叶";
+"Lava leaves are used as an ingredient to craft different items. Can be eaten for a small increase in health and nutrition.","熔岩叶用作制作不同物品的成分。可以吃掉健康和营养的小幅增加。";
+"Data Disk SN:251.35","数据磁盘SN：251.35";
+"Makeshift Screwdriver","临时螺丝刀";
+"A makeshift multi-tool fashioned from scrap metal to allow for repairing, salvaging, and precise tinkering.","从废金属制造的临时多工具，以便修复，挽救和精确修复。";
+"Spicy Sausage Gumbo","辣香肠糖果";
+"An extravagant, delicious stew with multiple types of meats and vegetables. Eat while equipped or straight from inventory.","一种奢华，美味的炖炖多种肉类和蔬菜。在装备或直接从库存时吃。";
+"C19 Heavy Assault Rifle","C19重型突击步枪";
+"Human Waste","人为垃圾";
+"Fertilizer to be mixed with Sand to create Soil for growing crops.","肥料与沙子混合，为生长作物创造土壤。";
+"O2 Pump","O2泵";
+"Cooked Crab Egg","煮熟的蟹鸡蛋";
+"Delicious cooked Crab Monster Egg. Eat while equipped or straight from inventory.","可口煮熟的螃蟹妖怪鸡蛋。在装备或直接从库存时吃。";
+"Azure Rifle Magazine","Azure步枪杂志";
+"Ammo magazine for the Assault Rifle. It is automatically used when reloading, if stored in backpack.","弹药杂志为突击步枪。如果存储在背包中，则会自动使用。";
+"Magnalium","magn";
+"An alloy with high strength, workability and low density commonly used in various vehicles types.","具有高强度，可加工性和低密度的合金，通常用于各种车辆类型。";
+"Frenzy","疯狂";
+"Advanced compound created to increase your health and stamina.","创建的高级化合物，以增加您的健康和耐力。";
+"Aluminum","铝";
+"A low-density metal that is highly conductive and resist to corrosion.","低密度金属，具有高导电和抗蚀剂的腐蚀。";
+"Dymalloy","Dymalloy.";
+"Conductive alloy used for high-powered electronics.","用于高通用电子器件的导电合金。";
+"Carrot","萝卜";
+"Nutritious vegetable to replenish hunger. Can be eaten while equipped or straight from storage.","营养蔬菜补充饥饿。可以在装备或直接储存时食用。";
+"Snow","雪";
+"Pile of frozen water flakes.","堆冷冻水剥落。";
+"Dirty Water","脏水";
+"Liquid water to be drank for quenching thirst. This will be bad for your nutrition but the water can be purified using some simple chemistry.","液体水被喝淬火渴望。这对你的营养对但可以使用一些简单的化学来纯化水。";
+"Cooling Unit Mk. II","冷却装置MK。 II";
+"Diamond","钻石";
+"A crystalline form of pure carbon with immensely high hardness and thermal conductivity, commonly used in industrial cutting and grinding applications.","一种纯碳的结晶形式，具有绝对高的硬度和导热性，通常用于工业切割和研磨应用。";
+"Dyno","dyno.";
+"A weak compound created to give a small boost to your speed.","创建弱化合物，以便给您的速度小幅提升。";
+"Pistol","手枪";
+"Lithium Ingot","锂锭";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 180.5 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：180.5°C
+";
+"Pick Axe","选择斧头";
+"Large slashing tool that is primarily for mining but can be used in self defense.","大型削减工具，主要用于采矿，但可用于自卫。";
+"Assault Rifle Magazine","突击步枪杂志";
+"Booster Unit Mk. I","助推器单元MK。一世";
+"Anvil","砧";
+"A strong compound created to give a boost to your health.","一个强大的化合物，以提高您的健康。";
+"Meat Stew","肉炖";
+"Simple Meat broth, an improvement over basic charred meat. Eat while equipped or straight from inventory.","简单的肉汤，对基本烧肉的改进。在装备或直接从库存时吃。";
+"Light Unit Mk. II","轻型单位MK。 II";
+"Charge Cell","充电牢房";
+"Advanced portable power source made in a printer or fabricator. Used as a power source for the charge rifle.","先进的便携式电源在打印机或制造商中制作。用作充电步枪的电源。";
+"Orcek Egg","orcek鸡蛋";
+"Egg taken from an Orcek. Cook to avoid food poisoning.","从orcek采取的鸡蛋。煮避免食物中毒。";
+"Broken Computer Screen","破碎的电脑屏幕";
+"A computer with a screen that is defective.","带有屏幕有缺陷的计算机。";
+"Dull Survival Knife","沉闷的生存刀";
+"A Survival Knife is a slashing tool that is an essential part of all U.N.E. standard issue Emergency Kits. Not sharp enough to precisely skin creatures, but could be used to separate plant fibers or butcher meat in a pinch.","生存刀是一款削减工具，是所有U.N.E的重要组成部分。标准发行紧急套件。不够锐度足以精确肌肤生物，但可用于将植物纤维或屠宰肉分离捏。";
+"Sulfur","硫";
+"A nonmetallic element that is commonly used in chemical applications and as a component in fertilizers.","一种非金属元素，通常用于化学应用和肥料中的组分。";
+"Oxygen Scrubber","氧气洗涤器";
+"Snake Meat","蛇肉";
+"Meat ripped right off the body of a snake. Cook to avoid food poisoning.","肉撕掉了蛇的身体。煮避免食物中毒。";
+"Power Cell","电力电池";
+"A basic lithium-ion power cell.","基本锂离子电池。";
+"Hydrazine","肼";
+"Highly explosive gas commonly used to fuel rockets.","常用于燃料火箭火箭的高爆炸性气体。";
+"Crab Scythe","螃蟹镰刀";
+"Melee weapon made from the talon of a crab monster.","由螃蟹怪物的爪子制成的近战武器。";
+"Tin","锡";
+"A soft metal commonly used in various alloys and as a coating to prevent corrosion.","常用于各种合金的软金属和作为防止腐蚀的涂层。";
+"Horse Bract","马苞片";
+"Horse bract are used as an ingredient to craft different items.","马苞片用作制作不同物品的成分。";
+"Targe","拖门";
+"A weak compound created to give you a small boost to your health.","创造了一种弱化合物，以便给你一个小额推动你的健康。";
+"Makeshift Bandage","临时绷带";
+"Orcek Stew","orcek炖";
+"A delicious stew with added Orcek Meat and Carrots. Eat while equipped or straight from inventory.","一个美味的炖煮的炖肉肉和胡萝卜。在装备或直接从库存时吃。";
+"Duralumin","硬盘";
+"An alloy with a high strength to weight ratio commonly used on vehicles and aircraft.","具有高强度的合金，以常用于车辆和飞机的重量比。";
+"Glass","玻璃";
+"Crafting item for building structures, walls, and other items.
+","建筑结构，墙壁和其他物品制作项目。
+";
+"Cooling Unit Mk. I","冷却装置MK。一世";
+"Soil","土壤";
+"Natural crafting agent for growing crops in a Bio Dome.","生物圆顶中种植庄稼的天然制作剂。";
+"Psychroptera","Psychroptera.";
+"Fleshy growth from a Psychroptera.","精神病术中的肉质生长。";
+"Cooling Unit","冷却装置";
+"Azure Rifle","Azure步枪";
+"Fuel Cell","燃料电池";
+"A long lasting power source.","一个持久的电源。";
+"Solar Unit Mk. II","太阳能单位MK。 II";
+"Lead Ingot","铅锭";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 327.5 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：327.5°C
+";
+"Solar Panel Small Kit","太阳能电池板小套件";
+"Kit used to build Small Solar Panel. To build, right-click on Inventory Item and select Build or select the  Small Solar Panel from the Structures tab in your Character Menu.","套件用于构建小型太阳能电池板。要构建，请右键单击库存项，然后从“字符”菜单中的“结构”选项卡中选择“构建”或选择“小型太阳能电池板”。";
+"Fibon Tree Fruit","斐兰树果实";
+"Alien Blood","外星血";
+"Blood extracted from the body of an indigenous alien creature.","从土着外星人生物的身体中提取的血液。";
+"Beacon Kit","灯塔套件";
+"Kit used to build beacons. To build, right-click on Inventory Item and select Build or select the Beacon from the Utilities tab in your Character Menu.","套装用于建造信标。要构建，请右键单击库存项目，然后从“字符”菜单中的“实用程序”选项卡中选择“构建”或选择“标志”。";
+"Storage Unit","存储单元";
+"Nickel Ingot","镍锭";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1455 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：1455°C
+";
+"Key Card Tier-1","钥匙卡Tier-1";
+"A low-level clearance keycard used to open Osiris mission doors in abandoned settlements and mines.","用于在被遗弃的定居点和地雷开设Osiris Mission门的低级间隙钥匙卡。";
+"Frost Lotus","霜莲花";
+"A flower from the Frost Lotus plant.","从霜莲花植物的一朵花。";
+"Crude Metal Axe Head","粗金属斧头";
+"A piece of sharpened metal that can be used to make an axe.","一块可用于制造轴的锋利金属。";
+"Survival Tool","生存工具";
+"A multi-tool included in all U.N.E. standard issue Emergency Kits, useful for repairing, salvaging, and precise tinkering when in a pinch.","所有U.N.E中包含的多工具。标准发行应急包，用于修复，打捞，在夹持时进行精确修复。";
+"Oxygen Tanks","氧气罐";
+"Oxygen Bonus: ","氧气奖金：";
+"Tanks filled with oxygen that can be plugged directly in to your suit. This will help you catch your breath by providing oxygen in the field.","坦克充满了氧气，可以直接插入您的西装。这将帮助您通过在现场提供氧气来呼吸。";
+"Zamak","Zamak.";
+"A general purpose alloy with a wide range of applications.","具有广泛应用的通用合金。";
+"6al-4v","6AL-4V.";
+"An alloy with high specific strength and excellent corrosion resistance.","一种具有高比强度和优异耐腐蚀性的合金。";
+"Makeshift Patch Tape","临时补丁胶带";
+"Ladder","梯子";
+"Used to reach high places.","曾经达到高地。";
+"Banana","香蕉";
+"Nitrogen Compress Cell","氮气压缩细胞";
+"ADD DETAILS
+","添加详细信息
+";
+"Crude Metal Shovel","粗金属铲";
+"Scarburros Palm","Scarburros Palm.";
+"Data Disk SN:231.25","数据磁盘SN：231.25";
+"Test Boots","测试靴子";
+"Prevents Lava Damage","防止熔岩伤害";
+"Gnat Underhook","GNAT Underhook.";
+"Baked Potato","烤土豆";
+"Scrap Cloth","废布";
+"Soft fragments of cloth.","软碎片。";
+"Data Disk SN:385.21","数据磁盘SN：385.21";
+"Test Backpack","测试背包";
+"Ferrochrome","铬铁";
+"Acid-resistent alloy used in the production of stainless steel.","用于生产不锈钢的耐酸合金。";
+"T21 Heavy Assault Rounds","T21重型突击轮";
+"Patch Tape","补丁胶带";
+"IMPORTANT! Use patch tape to repair suit punctures. Can be used while equipped or straight from inventory.","重要的！使用贴片胶带修理套装穿孔。可以在装备或直接从库存中使用。";
+"Dirt","污垢";
+"Useless","无用";
+"Iron Ingot","铁锭";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1538 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：1538°C
+";
+"Test Helmet","测试头盔";
+"Snake Hide","蛇藏起来";
+"Hide from a snake used to make items for crafting weapons and different items.","躲避用于制作用于制作武器和不同物品的物品的蛇。";
+"Tumbo Shell","tumbo shell.";
+"Shell taken from a Tumbo, often used to make defenses.","壳从一个tumbbo拍摄，经常用来进行防御。";
+"Gnat Hide","GNAT隐藏";
+"Ion Assault Rifle Magazine","离子突击步枪杂志";
+"Spirit","精神";
+"Advanced compound created to increase your health and speed.","先进的化合物创建，以增加您的健康和速度。";
+"Spirea","螺旋";
+"Spirea plant sample used as an ingredient to craft different items. Can be eaten for a small increase in health and nutrition.","螺旋植物样品用作制作不同物品的成分。可以吃掉健康和营养的小幅增加。";
+"Organic Sludge","有机污泥";
+"A thick sludge that appears to have high concentrations of graphene strands suspended in solution.","似乎具有高浓度的石墨烯链溶液的稠污泥。";
+"Heat Sink Unit","散热器单位";
+"Broken Wire","破碎的电线";
+"Short segments of wire. With more pieces, could be combined into a usable segment of wire.","电线短片。有更多的碎片，可以组合成一个可用的电线段。";
+"Machete","砍刀";
+"A sharp weapon that is essentially a steel blade with a nice handle.","一种锋利的武器，基本上是一个带有漂亮手柄的钢刀片。";
+"Copper Ingot","铜锭";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: 1085 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：1085°C
+";
+"Alien Insect Parts","外星昆虫零件";
+"Squished parts of an indigenous alien insect.","皮疹被土着外星昆虫的部分。";
+"Crab Screwdriver","螃蟹螺丝刀";
+"A makeshift multi-tool fashioned from tough pieces of chitinous antenna to allow for repairing, salvaging, and precise tinkering.","从棘突的天线的韧带碎片塑造了一个临时多功能，以便修复，挽救和精确修复。";
+"Military Medkit","军用Medkit.";
+"Rubber","橡胶";
+"Computer Screen","电脑屏幕";
+"A computer screen with an internal processor.","带内部处理器的计算机屏幕。";
+"Fungtiple Bulb","Fungtiple灯泡";
+"A Bulb off a Fungtiple plant.","一个灯泡的灯泡。";
+"Glass Container","玻璃容器";
+"Stores liquid so that it can be drank or used to craft more useful items.","储存液体，使其可以饮用或用于制作更多有用的物品。";
+"Heavy Assault Magazine","沉重的突击杂志";
+"Ammo magazine for the Heavy Assault Rifle. It is automatically used when reloading, if stored in backpack.","Ammo杂志为沉重的突击步枪。如果存储在背包中，则会自动使用。";
+"Scrap Solar Panel","废料太阳能电池板";
+"Scraps of solar panel parts that have been left over.","已经留下的太阳能电池板部件的废料。";
+"Ammo charges for the Pistol. It is automatically used when reloading, if stored in your backpack.","手枪的弹药费。重新加载时自动使用，如果存储在背包中。";
+"Mercury","汞";
+"A heavy metal often used in its liquid form for scientific instruments such as thermometers.","通常用于其液体形式的重金属，用于温度计的科学仪器。";
+"Tumbo Egg","Tumbo鸡蛋";
+"Egg taken from the body of a Tumbo. Cook to avoid food poisoning.","鸡蛋从一个tumbo的身体取出。煮避免食物中毒。";
+"Mercury Ingot","羊水锭";
+"Ingots are bricks of purified building materials. You will use these in to build many different things.
+
+- Melting point: -38.83 °C
+","锭是纯化的建材砖。您将使用这些来构建许多不同的东西。
+
+ - 熔点：-38.83°C
+";
+"Crab Talon","螃蟹爪子";
+"Talon taken from a crab monsters leg.","爪从螃蟹怪物腿上拿走。";
+"Shears","剪";
+"A precise surgical tool used for carefully gathering organic matter.","一种精确的外科手术工具，用于小心地收集有机物。";
+"Path Light Kit","路径轻型套件";
+"Solar light used for path marking","用于路径标记的太阳能光";
+"Barrel","桶";
+"Stores gas so that it can be used to craft more useful items.","存储气体使其可用于制作更多有用的物品。";
+"Storage Unit Mk. III","存储单元MK。 III";
+"Arachnoid Hide","Arachnoid隐藏";
+"Hide taken from an Arachnoid, used for crafting purposes.","隐藏从蛛网膜拍摄，用于制作目的。";
+"Arachnoid Tail","蛛网膜尾巴";
+"Tail taken from a Arachnoid to be used for crafting purposes.","尾巴从蛛网膜拍摄用于制作目的。";
+"Skeliopod Meat","Skeliopod肉类";
+"Meat ripped right off the body of a Skeliopod. Cook to avoid food poisoning.","肉撕掉了一个Skeliopod的身体。煮避免食物中毒。";
+"Data Disk SN:349.01","数据磁盘SN：349.01";
+"Mission Cryptex","任务加密";
+"Recovery Unit Mk. I","恢复单位MK。一世";
+"Hydrogen Canister","氢罐";
+"1% critical hit","1％的批判击中";
+"Container holding a pressurized hydrogen mixture. Made in either a printer or a fabricator. Used as a fuel source for the hydrogen torch.","容纳加压氢气混合物的容器。在打印机或制造商中制作。用作氢火炬的燃料源。";
+"Darts","飞镖";
+"Projectiles used by Dart Gun.","镖枪使用的弹丸。";
+"Hover Recharger","悬停充值";
+"Cobalt Ingot","钴ingot.";
+"Gnat Tongue","GNAT舌头";
+"Tongue ripped right from the mouth of a Gnat. Cook to avoid food poisoning.","舌头从GNAT的口头撕裂。煮避免食物中毒。";
+"Gold Cover","金封面";
+"Nitro","硝基";
+"Advanced compound created to give you more speed and stamina.","创建的高级化合物，为您提供更多的速度和耐力。";
+"Chlorine","氯";
+"A pale green gas, important for water purification.","淡绿色的气体，对水净化很重要。";
+"Adhesive","粘合剂";
+"Adhesive is used in the fabrication of Patch Tape.","粘合剂用于制造贴片带。";
+"English","英语";
+"Avatar Inventory","头像库存";
+"Back","后退";
+"Avatars","头像";
+"Create New Avatar","创建新的头像";
+"Universe:","宇宙：";
+"Single Player","单人玩家";
+"Owner:","所有者：";
+"Current Base","当前基地";
+"Planet:","行星：";
+"Launch","发射";
+"Loading Avatar","装载头像";
+"Loading Persistent Nature","加载持久性质";
+"EARLY ACCESS","早期访问";
+"HINT: Unequip gun to run faster","提示：未更顺上枪跑得更快";
+"Depository","存款";
+"Habitat","栖息地";
+"A Habitat is a multi-purpose room that can house many interior items.","栖息地是一个多功能的房间，可以容纳许多室内物品。";
+"Add to Backpack","加入背包";
+"Equip","装备";
+"Store in Inventory","存放库存";
+"Drink","喝";
+"Empty out","清空";
+"Drop","降低";
+"New Ability","新能力";
+"Status","地位";
+"This new ability unlocks your wildest dreams!","这种新能力解锁了你最疯狂的梦想！";
+"Customize Colors","自定义颜色";
+"Primary
+","基本的
+";
+"Secondary","中学";
+"Detail","细节";
+"Glow","辉光";
+"Hazy","朦胧";
+"Missions","任务";
+"CRITICAL BREACH","关键违规行为";
+"Oxygen Low","氧气低";
+"Local Time","当地时间";
+"You Are Dehydrated
+You are Starving","你是脱水的
+你在挨饿";
+"Suit Pressue Low","适用于压力";
+"You Are FREEZING","你正在冻结";
+"Agility","敏捷";
+"4m 5s","4M 5s.";
+"Fortitude","坚韧";
+"Strength","力量";
+"Stamina","耐力";
+"HOV","h";
+"-62°","-62°";
+"HYD
+---","水平
+---";
+"
+
+NTR","
+
+NTR.";
+"HLTH","Hlth.";
+"Restoring Oxygen in 10s","10S恢复氧气";
+"0.99","99％";
+"Atmos o2: 1.29%","atmos o2：1.29％";
+"Weight:","重量：";
+"Patch Tape","补丁胶带";
+"Medical Bandage","医用绷带";
+"Scrap Metal","废金属";
+"Fern Tree Berry","蕨树浆果";
+"Alien Fiber","外星纤维";
+"Rock","岩石";
+"Shard Blade","碎片";
+"Alien Hide","外星人隐藏";
+"Makeshift Chisel","临时凿子";
+"Barrel","桶";
+"Now that I've gotten a foothold on this planet, I should explore and see if I can regroup with the Phoenix Team. ([F3] will open up the GPS, your suit has a radar installed that will allow for Basic Scanning. [NUM +] and [NUM -] to change the zoom of the map.)","现在我已经在这个星球上立足了，我应该探索，看看我是否可以与菲尼克斯团队一起重新组合。 （[F3]将打开GPS，您的西装安装了一个雷达，允许基本扫描。[Num +]和[Num  - ]更改地图的缩放。）";
+"Slope: 35.6°","坡度：35.6°";
+"Laboratory","实验室";
+"New1","纽约";
+"Level 08 - SCIENTIST","等级08  - 科学家";
+"Sol 01","Sol 01.";
+"13 hrs to next sol","13小时到下一个溶胶";
+"Level 01","等级01.";
+"XP: 25/100","XP：25/100";
+"Physical Stats","物理统计数据";
+"Speed","速度";
+"Health","健康";
+"Stat Points:","统计点：";
+"Proficiencies","诡计不断";
+"Combat","战斗";
+"Engineering","工程";
+"Science","科学";
+"HLTH
+---","Hlth.
+---";
+"Suit","套装";
+"NTR","NTR.";
+"Creation Center","创造中心";
+"Skeliopod Meat","Skeliopod肉类";
+"Steel","钢";
+"Rubber","橡胶";
+"Grilled Alien Meat","烤外星肉";
+"<color=silver>Class: </color><color=white>Consumable</color>
+<color=silver>Amount: </color><color=white>1/50</color>
+<color=silver>Weight: </color><color=white>0.50</color><color=lime> kgs</color>
+<color=silver>Health Bonus: </color><color=white>10</color>
+<color=silver>Nutrition Bonus: </color><color=white>50</color>
+
+<color=white>Meat ripped right off the body of an indigenous alien creature. Has been cooked and is safe to eat.</color>","<color = silver>类：</ color> <color = white> cospable </ color>
+<color =银>金额：</ color> <color = white> 1/50 </ color>
+<color =银>重量：</ color> <color =白色> 0.50 </ color> <color =石灰> kgs </ color>
+<Color = Silver> Health Bonus：</ Color> <Color = White> 10 </ Color>
+<Color = Silver>营养奖金：</ color> <color = white> 50 </ color>
+
+<color = white>肉撕开了土着外星人生物的身体。已经煮熟，吃饱了。</ color>";
+"Backpack","背包";
+"Default","默认";
+"Alphabetical","按字母顺序排列";
+"43.61 / 80.00 kgs
+54.5% Weight Capacity","43.61 / 80.00公斤
+54.5％的重量容量";
+"Inventory
+","存货
+";
+"[A] Skills","[A]技能";
+"Crafting [D]","制作[D]";
+"Urchin Shell","核心壳";
+"Duralumin","硬盘";
+"Titanium","钛";
+"Brass","黄铜";
+"Tungsten","钨钨";
+"Bronze","青铜";
+"Wire","金属丝";
+"Circuit Board","电路板";
+"Power Cell","电力电池";
+"Diamond Chisel","钻石凿子";
+"Magnalium","magn";
+"Gunmetal","青铜";
+"Lead","带领";
+"Battery","电池";
+"Assault Rifle","突击步枪";
+"Talonite","talonite.";
+"Mechanized Spanner","机械化扳手";
+"Crab Antenna","螃蟹天线";
+"Crab Shell","螃蟹壳";
+"Crab Meat","蟹肉";
+"Crab Talon","螃蟹爪子";
+"Crab Leg Meat","蟹腿肉";
+"Fuel Cell","燃料电池";
+"Cast Iron","铸铁";
+"Ferrochrome","铬铁";
+"6al-4v","6AL-4V.";
+"Nichrome","尼姆罗姆";
+"Azurnium","亚苏";
+"Glass","玻璃";
+"Cobalt","钴";
+"Inventory","存货";
+"Field Guide","现场指南";
+"Skills","技能";
+"Options","选项";
+"Build / Craft [F3]","构建/工艺[F3]";
+"Data Selection
+Matrix","数据选择
+矩阵";
+"Aziel","Aziel.";
+"Env Pressure:","ENV压力：";
+"Env Temp:","ENV TEMP：";
+"Personal Data Unit","个人数据单位";
+"Osiris Mission Team","奥西里斯任务团队";
+"Systems Data Selection","系统数据选择";
+"Build 248.517.68200","建立248.517.68200.";
+"Exit Data Matrix [Tab]","退出数据矩阵[选项卡]";
+"Log","日志";
+"Lorem ipsum dolor sit amet, sed ea offendit aliquando mediocritatem. Cum ad quis malorum recusabo, nam ea audiam fuisset incorrupte, et eirmod aperiam pro. Quod detracto eloquentiam an vel, cum mutat argumentum ex. Ex eam partem dolores pertinacia, et alterum maiorum praesent his. Copiosae laboramus assentior te per, te eam feugiat elaboraret. Ut cum quas minim, has quot prodesset assueverit ei, an his utamur tibique.","Lorem Ipsum Dolor Sit Amet，Sed EA冒犯了Aliquando MedioCriitatem。暨adquis malorum recusabo，Nam ea aumiam fuisset incorrupte，et evirmod aperiam pro。 quod detracto eloquentiam一个vel，cum mutat carrightum前。 ex eam partem dolores pertinacia，et antrum maiorum赞美他。 Copiosae Landamus Assentiorior Te，Te Eam Feugiat elaboraret。 UT暨Quas Minim，有型“奥马姆尔·泰格尼克的Prodesset Assueverit ei。";
+"Craft","工艺";
+"Utilities","公用事业";
+"Defenses","辩护";
+"Structures","结构";
+"Appliances","电器";
+"Custom","风俗";
+"Crafting","制作";
+"[A] Inventory","[a]库存";
+"GPS [D]","GPS [D]";
+"Makeshift Patch Tape","临时补丁胶带";
+"Class: ","班级：";
+"Amount: ","数量：";
+"Weight: ","重量：";
+" kgs"," kgs.";
+"Suit Integrity Bonus: ","西装诚信奖励：";
+"IMPORTANT! Use masking tape to repair suit punctures. Can be used while equipped or straight from inventory.","重要的！使用遮蔽胶带修理套装穿孔。可以在装备或直接从库存中使用。";
+"Makeshift Bandage","临时绷带";
+"Health Bonus: ","健康奖金：";
+"Heals hitpoints. Can be used while equipped or straight from inventory.","治愈Hitpoints。可以在装备或直接从库存中使用。";
+"Makeshift Cloth Bundle","临时布束";
+"A makeshift bundle of loosely woven fibers.","一根松散编织的纤维的临时束。";
+"Bashing Rock","抨击摇滚乐";
+"Durability: ","耐久性：";
+"%","％";
+"Hardness: ","硬度：";
+"Damage: ","损害：";
+"0% critical hit","0％批判击中";
+"Useful when you have no other tools.","当您没有其他工具时很有用。";
+"Stone Blade","石刀";
+"A sharpened rock that can be used to make a blade.","一种可用于制造刀片的锋利的岩石。";
+"Stone Axe Head","石斧头";
+"A sharpened rock that can be used to make an axe","一个可用于制造斧头的锋利的岩石";
+"Stone Shovel Head","石铲头";
+"A shaped rock that can be used to make a shovel.","一种形状的岩石，可用于制作铲子。";
+"Shaped Crab Antenna","形状蟹天线";
+"A shaped fragment of a Crab Antenna, could be fashioned into a crude precision tool.","蟹天线的形状片段可以塑造成粗精确的工具。";
+"Crab Screwdriver","螃蟹螺丝刀";
+"A makeshift multi-tool fashioned from tough pieces of chitinous antenna to allow for repairing, salvaging, and precise tinkering.","从棘突的天线的韧带碎片塑造了一个临时多功能，以便修复，挽救和精确修复。";
+"20% critical hit","20％的临界击中";
+"A small sharp weapon made from a rock shard.","由岩石碎片制成的小尖锐武器。";
+"Stone Axe","石斧";
+"A slashing tool that is essentially a rock on a stick with a nice handle.","一款削减工具，基本上是一个棍子上的岩石，带有一个漂亮的手柄。";
+"Crab Scythe","螃蟹镰刀";
+"Melee weapon made from the talon of a crab monster.","由螃蟹怪物的爪子制成的近战武器。";
+"Stone Shovel","石铲子";
+"Tool used to gather Sand for use in crafting.","用于收集沙子的工具用于制作。";
+"Soil","土壤";
+"Natural crafting agent for growing crops in a Bio Dome.","生物圆顶中种植庄稼的天然制作剂。";
+"Redfern Tree Berry","Rederfern树浆果";
+"Branches","分支机构";
+"Sand","沙";
+"Human Waste","人为垃圾";
+"Accessing Data","访问数据";
+"Crude Pipe","原油管道";
+"Scrap Hinge","废钢铰链";
+"Sulfur","硫";
+"Mercury","汞";
+"Aluminum","铝";
+"Iron","铁";
+"Computer Screen","电脑屏幕";
+"Hose","软管";
+"White Gold","白金";
+"Dymalloy","Dymalloy.";
+"Small Radar Dish Kit","小雷达盘套件";
+"Solar Panel Small Kit","太阳能电池板小套件";
+"Nickel","镍";
+"Gold","金子";
+"Lonsdaleite","lonsdaleite.";
+"Copper","铜";
+"Zinc","锌";
+"Plastic","塑料";
+"Beacon Kit","灯塔套件";
+"Path Light Kit","路径轻型套件";
+"Diamond","钻石";
+"Zirconium Plate","锆板";
+"Zirconium Circuit Board","锆电路板";
+"Land Mine Set","陆地矿山套装";
+"Cubic Zirconia","立方氧化锆";
+"Skeliopod Shell","Skeliopod shell.";
+"Skeliopod Tail","Skeliopod tail.";
+"Inflatable Dome Kit","充气圆顶套件";
+"Zamak","Zamak.";
+"Lithium","锂";
+"Cloth Bundle","布束";
+"dev console commands","dev控制台命令";
+"Buggie","Buggie.";
+"_","_";
+"Space Utilities","空间公用事业";
+"Spacecraft","宇宙飞船";
+"Plutonium","钚";
+"Zircaloy","锆石";
+"Bug Report / Feedback","错误报告/反馈";
+"Resume","恢复";
+"Settings","设置";
+"Main Menu","主菜单";
+"Exit Game","出口游戏";
+"Menu Options","菜单选项";
+"Are you sure you want to quit to main menu? <color=#00FFB7FF>Your current position and profile will be saved.</color>","您确定要退出主菜单吗？ <color =＃00ffb7ff>您当前的位置和配置文件将保存。</ color>";
+"No","不";
+"Yes","是的";
+
